@@ -1,0 +1,4 @@
+# Jupyter
+notebooks/metastore_db
+notebooks/.ipynb_checkpoints/
+notebooks/derby.log
