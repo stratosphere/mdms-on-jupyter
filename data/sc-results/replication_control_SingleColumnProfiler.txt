@@ -1,0 +1,5 @@
+{"# Columns":4,"# Tuples":1}
+{"column Name":"column1","Data Type":"SMALLINT","Min":1,"Avg.":1,"# Null":0,"Max":1,"% Null":0,"Top 10 frquent Items":{"1":"1"},"% Distinct":100,"# Distinct":1}
+{"column Name":"column2","Data Type":"SMALLINT","Min":22,"Avg.":22,"# Null":0,"Max":22,"% Null":0,"Top 10 frquent Items":{"22":"1"},"% Distinct":100,"# Distinct":1}
+{"column Name":"column3","Data Type":"INT","Min":90353,"Avg.":90353,"# Null":0,"Max":90353,"% Null":0,"Top 10 frquent Items":{"90353":"1"},"% Distinct":100,"# Distinct":1}
+{"column Name":"column4","Data Type":"TIMESTAMP","# Null":0,"% Null":0,"Top 10 frquent Items":{"2015-10-24 00:56:17.338359+00":"1"},"% Distinct":100,"# Distinct":1}

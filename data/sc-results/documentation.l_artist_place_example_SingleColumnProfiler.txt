@@ -1,0 +1,4 @@
+{"# Columns":3,"# Tuples":3}
+{"column Name":"column1","Data Type":"SMALLINT","Min":127,"Avg.":644.6666666666666,"# Null":0,"Max":1679,"% Null":0,"Standard Deviation":895.7590821941653,"Top 10 frquent Items":{"1679":"1","127":"1","128":"1"},"% Distinct":100,"# Distinct":3}
+{"column Name":"column2","Data Type":"BOOLEAN","# Null":0,"% Null":0,"Top 10 frquent Items":{"t":"3"},"% Distinct":33,"# Distinct":1}
+{"column Name":"column3","Data Type":"NA","# Null":0,"% Null":0,"Top 10 frquent Items":{"":"3"},"% Distinct":33,"# Distinct":1}

@@ -1,0 +1,159 @@
+92	Hani	500	Han (Hanzi, Kanji, Hanja)	4
+93	Hans	501	Han (Simplified variant)	4
+3	Ugar	040	Ugaritic	2
+4	Egyp	050	Egyptian hieroglyphs	1
+5	Egyh	060	Egyptian hieratic	1
+6	Egyd	070	Egyptian demotic	1
+7	Maya	090	Mayan hieroglyphs	1
+94	Hant	502	Han (Traditional variant)	4
+95	Blis	550	Blissymbols	1
+11	Hebr	125	Hebrew	4
+12	Syrc	135	Syriac	2
+13	Syrn	136	Syriac (Eastern variant)	1
+14	Syrj	137	Syriac (Western variant)	1
+15	Syre	138	Syriac (Estrangelo variant)	1
+17	Mong	145	Mongolian	3
+18	Arab	160	Arabic	4
+19	Thaa	170	Thaana	2
+21	Hung	176	Old Hungarian	1
+22	Grek	200	Greek	4
+96	Brai	570	Braille	1
+24	Goth	206	Gothic	2
+98	Roro	620	Rongorongo	1
+26	Runr	211	Runic	2
+27	Ogam	212	Ogham	2
+28	Latn	215	Latin	4
+29	Latg	216	Latin (Gaelic variant)	1
+30	Latf	217	Latin (Fraktur variant)	1
+31	Cyrl	220	Cyrillic	4
+32	Cyrs	221	Cyrillic (Old Church Slavonic variant)	1
+85	Jpan	413	Japanese	4
+34	Perm	227	Old Permic	1
+35	Armn	230	Armenian	3
+43	Kore	287	Korean	4
+38	Osma	260	Osmanya	2
+39	Visp	280	Visible Speech	1
+101	Hang	286	Hangul	3
+42	Bopo	285	Bopomofo	3
+87	Cans	440	Canadian Syllabics	2
+44	Teng	290	Tengwar	1
+45	Cirt	291	Cirth	1
+46	Sara	292	Sarati	1
+47	Brah	300	Brahmi	1
+50	Deva	315	Devanagari	3
+49	Guru	310	Gurmukhi	3
+86	Ethi	430	Ethiopic	3
+36	Geor	240	Georgian	3
+52	Gujr	320	Gujarati	3
+53	Beng	325	Bengali	3
+54	Orya	327	Oriya	3
+55	Tibt	330	Tibetan	3
+77	Hano	371	Hanunoo	2
+97	Inds	610	Indus	1
+58	Limb	336	Limbu	2
+59	Telu	340	Telugu	3
+60	Knda	345	Kannada	3
+61	Taml	346	Tamil	3
+62	Mlym	347	Malayalam	3
+63	Sinh	348	Sinhala	3
+25	Ital	210	Old Italic	2
+65	Thai	352	Thai	4
+66	Tale	353	Tai Le	2
+64	Mymr	350	Myanmar	3
+68	Khmr	355	Khmer	3
+69	Laoo	356	Lao	3
+72	Bali	360	Balinese	2
+75	Bugi	367	Buginese	2
+71	Cham	358	Cham	2
+73	Java	361	Javanese	1
+74	Batk	365	Batak	1
+23	Copt	204	Coptic	2
+76	Tglg	370	Tagalog	2
+37	Dsrt	250	Deseret	2
+78	Buhd	372	Buhid	2
+79	Tagb	373	Tagbanwa	2
+80	Lina	400	Linear A	1
+81	Linb	401	Linear B	2
+82	Cprt	403	Cypriot	2
+83	Hira	410	Hiragana	3
+84	Kana	411	Katakana	4
+33	Glag	225	Glagolitic	2
+70	Kali	357	Kayah Li	2
+48	Khar	305	Kharoshthi	2
+88	Cher	445	Cherokee	2
+89	Hmng	450	Pahawh Hmong	1
+90	Yiii	460	Yi	2
+57	Lepc	335	Lepcha	2
+56	Phag	331	Phags-pa	2
+9	Phnx	115	Phoenician	2
+40	Shaw	281	Shavian	2
+51	Sylo	316	Syloti Nagri	2
+10	Tfng	120	Tifinagh	3
+91	Vaii	470	Vai	2
+2	Xpeo	030	Old Persian	2
+1	Xsux	020	Cuneiform, Sumero-Akkadian	2
+102	Geok	241	Khutsuri	2
+103	Nkoo	165	N'ko	2
+104	Olck	261	Ol Chiki	2
+105	Rjng	363	Rejang	2
+106	Saur	344	Saurashtra	2
+107	Sund	362	Sundanese	2
+108	Cari	201	Carian	2
+109	Lyci	202	Lycian	2
+110	Lydi	116	Lydian	2
+111	Zmth	995	Mathematical notation	2
+112	Zsym	996	Symbols	3
+113	Armi	124	Imperial Aramaic	1
+114	Avst	134	Avestan	1
+115	Cakm	349	Chakma	1
+116	Kthi	317	Kaithi	1
+118	Mani	139	Manichaean	1
+119	Moon	218	Moon	1
+120	Mtei	337	Meitei Mayek	1
+121	Phli	131	Inscriptional Pahlavi	1
+122	Phlp	132	Psalter Pahlavi	1
+123	Phlv	133	Book Pahlavi	1
+124	Prti	130	Inscriptional Parthian	1
+125	Samr	123	Samaritan	1
+127	Tavt	359	Tai Viet	1
+128	Zxxx	997	Code for unwritten documents	1
+129	Zyyy	998	Code for undetermined script	1
+130	Zzzz	999	Code for uncoded script	1
+41	Plrd	282	Miao	1
+131	Khoj	322	Khojki	1
+132	Tirh	326	Tiruta	1
+133	Afak	439	Afaka	1
+134	Jurc	510	Jurchen	1
+135	Mroo	199	Mro, Mru	1
+136	Nshu	499	Nüshu	1
+137	Sora	398	Sora Sompeng	1
+100	Hrkt	412	Japanese syllabaries	3
+117	Lana	351	Tai Tham	1
+16	Mand	140	Mandaic	1
+8	Mero	100	Meroitic Hieroglyphs	1
+20	Orkh	175	Old Turkish	1
+67	Talu	354	New Tai Lue	2
+126	Sgnw	095	SignWriting	1
+138	Shrd	319	Sharada	1
+139	Takr	321	Takri	1
+140	Tang	520	Tangut	1
+141	Wole	480	Woleai	1
+142	Dupl	755	Duployan shorthand	1
+143	Elba	226	Elbasan	1
+144	Sind	318	Khudawadi	1
+145	Bass	259	Bassa Vah	1
+146	Kpel	436	Kpelle	1
+147	Loma	437	Loma	1
+148	Mend	438	Mende	1
+149	Nbat	159	Nabataean	1
+150	Narb	106	Old North Arabian	1
+151	Palm	126	Palmyrene	1
+152	Gran	343	Grantha	1
+153	Merc	101	Meroitic Cursive	1
+154	Wara	262	Warang Citi	1
+155	Bamu	435	Bamum	1
+156	Sarb	105	Old South Arabian	1
+157	Lisu	399	Lisu (Fraser)	1
+158	Nkgb	420	Nakhi Geba	1
+159	Zinh	994	Code for inherited script	1
+160	Qaaa	900	[Multiple scripts]	2

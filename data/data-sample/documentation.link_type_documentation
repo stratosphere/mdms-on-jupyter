@@ -1,0 +1,435 @@
+60	<p>Be as specific as your sources and knowledge allow.</p>	0
+110	<p>If there is a performance name artist and a legal name artist for the same person, use the legal name artist for this relationship.</p>	0
+45		0
+150		0
+156	<p>Be as specific as your sources and knowledge allow. If you know the artist performed vocals or instruments, use the more specific relationships.</p>	0
+76		0
+752		0
+34		0
+85		0
+429		0
+88		0
+172		0
+12		0
+311		0
+164	<p>The start and end dates should be used to indicate the dates the orchestrator first and last worked on the orchestration.</p>	0
+40	<p>The start and end dates should be used to indicate the dates the orchestrator first and last worked on the orchestration.</p>	0
+13		0
+73		0
+72		0
+234		0
+4		0
+221		0
+42	<p>The begin date represents the date the engineer first worked on mastering the release, and the end date the last date they worked on it.</p>	0
+236		0
+136		0
+174		0
+205		0
+232		0
+43		0
+171		0
+735		0
+147	<p>The start and end dates should be used to indicate the first and last dates for when the compiler worked on the compilation.</p>	0
+187		0
+170		0
+59		0
+354		0
+739		0
+157		0
+29	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>	0
+50		0
+133	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>	0
+38	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>	0
+41	<p>The start and end dates should be used to indicate when the arranger first started and last finished working on the arrangement.</p>	0
+160		0
+396	<p>Link to image files directly, not to sites containing pictures.​</p>	0
+125		0
+27		0
+47		0
+153		0
+75		0
+127		0
+206		0
+495		0
+8		0
+737		0
+230	<p>The start and end dates should be left blank.</p>	0
+289		0
+177		0
+228		0
+738		0
+113		0
+106		0
+119		0
+122		0
+227		0
+290		0
+745		0
+233		0
+191		0
+218		0
+295	<p>The start and end dates should be used to indicate when the arranger first started and last finished working on the arrangement.</p>	0
+298	<p>The start and end dates should be used to indicate when the arranger first started and last finished working on the arrangement.</p>	0
+352		0
+63	The additional attribute should be used to indicate a minor or subsidiary role.	0
+86		0
+78		0
+270		0
+351		0
+312		0
+286		0
+284		0
+353		0
+795		0
+178		0
+175		0
+285		0
+308		0
+863		0
+238		0
+750		0
+184		0
+796		0
+528		0
+356		0
+215		0
+753		0
+754		0
+755		0
+782		0
+802		0
+759		0
+185		0
+199		0
+83		0
+868		0
+869		0
+870		0
+881		0
+54	In many cases, the composer, lyricist and/or librettist relationship types should be used, even if the liner notes say this release was "written by" the artist, since we <a href="doc/Style/Relationships#Prefer_Specific_Relationship_Types" title="Prefer Specific Relationship Types">prefer specific relationship types</a>.\r\n<p>For example, if an instrumental release is credited as "written by", it's generally safe to use "composed" instead.</p>	0
+74		0
+291		0
+182	This relationship type should only be used if there is not a more site-specific relationship type, such as the <a href="/relationship/29651736-fa6d-48e4-aadc-a557c6add1cb">Wikipedia relationship type</a>, which could be used.​	0
+225	<p>Use only the official YouTube channel for the label.</p>	0
+24		0
+135		0
+134		0
+231	<p>If the correct source recording or release is unknown, or if there is no correct source recording or release, use <a href="/relationship/83f72956-2007-4bca-8a97-0ae539cca99d">the "samples artist" relationship</a> instead.</p>\r\n\r\n<p>The song doing the sampling must contain sufficient original material that it cannot be considered a remix.​</p>	0
+23		0
+217		0
+79		0
+224		0
+130		0
+94		0
+239		0
+746	<p>Only sites on the <a href="/doc/Other_Databases_Relationship_Type/Whitelist">whitelist</a> are allowed</p>	0
+155		0
+788		0
+300	<p>The start and end dates should be used to indicate the dates the orchestrator first and last worked on the orchestration.</p>	0
+785		0
+149	<p>Be as specific as your sources and knowledge allow.</p>	0
+9		0
+268		0
+349		0
+790		0
+718		0
+301		0
+736		0
+789		0
+660		0
+256		0
+257		0
+358		0
+210		0
+211		0
+791		0
+1		0
+128	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>	0
+20		0
+10		0
+180		0
+357		0
+32		0
+121	<p>The start and end dates should be used to indicate the start and end dates of the recording contract.</p>\r\n\r\n<p>Just because a label releases a release by an artist, that does not imply that the artist had a recording contract with that label. This relationship type should only be used if there is evidence that an artist actually had a recording contract with a label.​</p>	0
+732		0
+161		0
+208		0
+283		0
+362		0
+255		0
+271	<b>Only</b> sites on the <a href="/doc/Style/Relationships/URLs/Lyrics_whitelist">whitelist</a> are permitted.​	0
+89	Do not link to Wikipedia redirection pages, but to the un-redirected source page.	0
+595	Do not link to Wikipedia redirection pages, but to the un-redirected source page.	0
+594		0
+162		0
+705		0
+360		0
+361		0
+359		0
+310		0
+66		0
+194		0
+254		0
+627		0
+302	Release level links should be preferred over recording level. Examples where recording level is required are mixed-license releases and standalone recordings.	0
+258		0
+462		0
+792		0
+794		0
+702		0
+309		0
+864		0
+793		0
+115	The start and end dates should be used to indicate the first and last days of employment at the label.	0
+760		0
+65		0
+801		0
+694		0
+697		0
+814		0
+874		0
+212	<ul>\r\n<li>When multiple URLs would work for a single site, favor the simplest URL, and even more so, the URL which is least likely to change (i.e. break) in the future.</li>\r\n<li>The listing should be significant; do not use this relationship type if the site presents only very few records of the label, especially if they are mixed in which releases by other labels.</li>\r\n</ul>	0
+882		0
+193	<p>Use only the official YouTube channel for the artist.</p>	0
+797		0
+734		0
+111	The start date should be used to indicate the date that a marriage began. The end date should be used to indicate the date that a marriage ended.	0
+731		0
+710		0
+25		0
+18		0
+179	Do not link to Wikipedia redirection pages, but to the un-redirected source page.	0
+733		0
+744		0
+707		0
+717	This relationship is not restricted to places which are located at the same place (for example a concert hall in a building containing more than one), but also applies to secondary stages.​	0
+784		0
+783		0
+715		0
+151	<a href="/relationship/45115945-597e-4cb9-852f-4e6ba583fcc8">The chorus master relationship</a> should be used for chorus/choir master credits (but not for choir conductor credits).​	0
+786		0
+787		0
+742		0
+740		0
+701		0
+703		0
+704		0
+197	<b>Only</b> sites on the <a href="/doc/Style/Relationships/URLs/Lyrics_whitelist">whitelist</a> are permitted.​	0
+213	<ul>\r\n<li>Only link to <b>official</b> logos.</li>\r\n<li> Do not link to <em>each and every version</em> of a logo without reason; one is normally sufficient.</li>\r\n<li>The logo must be the only contents of the image. <b>Do not</b> link to images which <em>contain</em> a label logo <em>among other things</em>.</li>\r\n<li>Link to good <b>quality</b> logo images - do not link to low quality images, images with "artificial" backgrounds, images with "dirty" or "noisy" transparency layers, etc.</li>\r\n<li>When available, logos located at Wikipedia or Wikimedia are preferred.</li>\r\n</ul>	0
+241	This relationship should only be used when separate works are needed (e.g. when there are significant changes to the lyrics or music). In most cases, new versions of a work should simply be performances of the original work.	0
+743		0
+350	<ul>\r\n<li>If you are not dealing with two distinct works, use the recording - artist <a href="/relationship/22661fb8-cdb7-4f67-8385-b2a8be6c9f0d" title="Arranger Relationship Type">Arranger relationship</a>.</li>\r\n<li> See <a href="/doc/Style/Classical/Works" title="Style/Classical/Works">Style/Classical/Works</a> regarding if a classical arrangement can be considered a distinct work.</li>\r\n<li><b>Note:</b>  This should rarely be used for pop music, where you should generally just link both <a href="/doc/Recording" title="Recording">recordings</a> as  <a href="/relationship/a3005666-a872-32c3-ad06-98af558e99b0" title="Performance Relationship Type">performances</a> of the same <a href="/doc/Work" title="Work">work</a>, with the "cover" attribute checked if appropriate.</li>\r\n</ul>	0
+117	<p>The start and end dates should be used to indicate the first and last days of employment at the label.</p>\r\n\r\n<p>The presence of a producer relationship on a release by a label <b>does not imply</b> that the producer credited on that release also is therefore valid for a <b>producer position relationship</b> with that label. The artist being linked with this relationship type <b>must be documented</b> as having held the producer position with that label.​</p>	0
+120	<p>The start and end dates should be used to indicate the first and last days of employment at the label.</p>\r\n\r\n<p>The engineer position held at the label must be an engineering position having to do with music. This relationship type should not be used to indicate that an artist was employed by a label as an elevator mechanic or plant engineer.</p>\r\n\r\n<p>The presence of an engineer relationship type or any of its subtypes on a release by a label <b>does not imply</b> that the engineer credited on that release also is therefore valid for an engineer position relationship with that label. The artist being linked with this relationship type <b>must be documented</b> as having held the engineering position with that label.​</p>	0
+741		0
+706		0
+304	<p>Ensure that you only link to video channels containing media curated by an artist, label, or their agent, and not to playlists or channels which are generated by users or automatically.</p>	0
+315	This relationship is used to connect different revisions of a work. The most common case is when an earlier work is edited for a performance some years later.\r\n\r\n<ul>\r\n<li>Revisions are usually made only by the creator of the original work. Do not use this relationship to link to arrangements, completions, reconstructions or any other work by a third person.</li>\r\n<li>Do not use another "version of"-relationship at the same time as revision. It is implied that the revised work is based on the previous work.</li>\r\n</ul>	0
+203	<p>The date range further specifies during what period of time a label distributed another label's catalog. The start date should ideally be the date the contract agreement between the two companies took effect. The end date should ideally be the date the contract agreement between the two companies ended.</p>	0
+865		0
+36	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>	0
+146	The additional attribute should be used to indicate a minor or subsidiary role.	0
+708		0
+711		0
+713		0
+22		0
+62		0
+2	<p>This should not be used if the lyrics have also been translated.</p>\r\n<p>This should only be used when the number, order, and audio of the tracks on the two releases are identical, and each of the titles corresponds in meaning.</p>	0
+129		0
+108	<p>Take care to always link from the legal name of a person to his/her performance name, and do not create links between different performance names of the same person.</p>\r\n<p>If a performance name was only used for a specific period of time, use dates to mark that.</p>\r\n<p>See <a href="/doc/Style/Artist#Performance_names_and_legal_names" title="Artist: Performance names and legal names">the guidelines for performance and legal names for artists</a> for more info on when to use this relationship, and when to just use <a href="/doc/Artist_Credits">artist credits</a> or relationship credits.</p>	0
+871	"Translator" means the artist translated the lyrics, and it's independent of whether they also originally wrote them. A literal translation is not required in order to use the attribute, but the translated lyrics should still be distinctly and detectably derived from the original lyrics.	0
+873		0
+887	<p>Only use this relationship for concerts which are specifically based on the artist playing the entire album, generally marketed as "Artist performs Album" and often performed in the same order as the original tracklist.</p>\r\n\r\n<p>If an artist happens to play all of the tracks from an album during a concert without the event being specifically intended as a performance of the album, just add the setlist normally and don't use this relationship.</p>	0
+695		0
+696		0
+883		0
+872	<p>"Translator" means the artist translated the lyrics or libretto of the work, and it's independent of whether they also originally wrote them. A literal translation is not required in order to use the attribute, but the translated lyrics should still be distinctly and detectably derived from the original lyrics.</p>	0
+103	<ul>\r\n<li>Dates should be used to indicate when an artist joined and left a group. If the artist is still a member, leave the end date blank; if the artist was still a member when the group dissolved, use the end date for the group in the relationship.</li>\r\n<li>An artist can leave a group, then rejoin again later. This should be represented through the use of more than one relationship between the person and the group, with the appropriate start and end dates set.</li>\r\n<li>The conductor or chorus master of a group is almost never <i>also</i> a member of that same group. The Member of Band relationship should <i>only</i> ever be used to link a conductor or chorus master to the conducted group <i>if</i> that person is credited as a member of the group; it should <i><b>never</b></i> be assumed without such evidence. You can link a group to its conductor(s) with the <a href="/relationship/cac01ac7-4159-42fd-9f2b-c5a7a5624079" title="Conductor Position Relationship Type">Conductor Position Relationship Type</a>.</li>\r\n<li>When selecting vocals and instrument attributes, pick only the ones that describe the primary role(s) associated with the member, like you might find on a biography page on the group's website. For example, if an artist is a guitarist for a band, but also plays trombone in two recordings, only guitar should be selected.</li>\r\n<li>If an artist is usually known by a particular <a href="/doc/Performance Name|" title="Performance Name|">performance name</a>, use that performance name to link them to the group instead of their legal name. If the artist uses multiple performance names, the one that should be used is the one that they usually performed under whilst in the group.</li>\r\n</ul>	0
+201	<p>Date ranges should be used to further specify during what period of time a label owned the rights on another label's catalog. The start date should ideally be the date of the contract agreement between the two companies. For bootleg companies, or if the date of the agreement is hard/impossible to find, you may use the date of the first reissue made by the reissuing label. The end date should ideally be the date of the end of the agreement, or, if that cannot be determined, the date of the last reissue.</p>\r\n\r\n<p><ul>\r\n<li>Do not use this relation if a label buys another label and maintain its activities; this should instead be represented using the <a href="/relationship/ab7a9be0-c060-4852-8f2e-4faf5b33231e">label ownership relationship type</a>.</li> \r\n<li>It might be very tricky to follow the trajectory of some catalogs, especially when changes in ownership are involved. Try to remember that MusicBrainz is not a corporate database, so keep it simple.​</li>\r\n</ul></p>	0
+200	<p>The start date for buyouts is the date of the transaction from which the target label became a subsidiary of the other label. For wholly owned subdivisions, use the subdivision's creation date. The end date may be either the subdivision's end date, or the date of a later sellout/spin-off.</p>\r\n\r\n<p><ul>\r\n<li>Do not use this relation if the transaction concerns only the <b>rights</b> to reissue (part of) the label's catalog. The same goes when a label buys another one only for its catalog, reissuing the releases but dismantling the former label. Either case should instead use the <a href="https://musicbrainz.org/relationship/1a502d1c-2c30-4efa-8cd7-39af664e3af8">label reissue relationship type.</a></li>\r\n<li>Do not use this advanced relationship to attempt to represent facts such as label A owning 0.5% shares in label B's parent corporation. MusicBrainz is not a corporate database, so keep it simple.</li>\r\n<li>Also, do not to break the hierarchy of labels. This should only link between a label and its immediately parent company, not between a label and its top-parent company (or another one somewhere in the scale between), though this may become complicated in some cases.</li>\r\n<li>More complex cases do happen, and labels may change hands a lot of times. Multiple parents for a single label during the same period of time is even possible, such as the case of "shared compilation companies".​</li>\r\n</ul></p>	0
+307		0
+709		0
+835		0
+19		0
+142		0
+123		0
+137		0
+834		0
+719		0
+714		0
+716		0
+280		0
+722		0
+841		0
+288		0
+46	<a href="/relationship/b9129850-73ec-4af5-803c-1c12b97e25d2">The chorus master relationship</a> should be used for chorus/choir master credits (but not for choir conductor credits).​	0
+53	This relationship should be used only for chorus/choir master credits. For choir conductor credits, use the <a href="/relationship/9ae9e4d0-f26b-42fb-ab5c-1149a47cf83b">conductor relationship</a>.	0
+152	This relationship should be used only for chorus/choir master credits. For choir conductor credits, use the <a href="/relationship/234670ce-5f22-4fd0-921b-ef1662695c5d">conductor relationship</a>.	0
+176		0
+292	If the voice actor was active only for a specific period of time, use the start and end dates to indicate that period of time. Otherwise, leave blank.	0
+313		0
+355	Do not link to Wikipedia redirection pages, but to the un-redirected source page.	0
+173	<p>Link to image files directly, not to sites containing pictures.</p>	0
+93	<b>Only</b> sites on the <a href="/doc/Style/Relationships/URLs/Lyrics_whitelist">whitelist</a> are permitted.​	0
+90		0
+279	Do not link to Wikipedia redirection pages, but to the un-redirected source page.	0
+192		0
+844		0
+846		0
+803	<p>Only sites on the <a href="/doc/Other_Databases_Relationship_Type/Whitelist">whitelist</a> are allowed</p>	0
+804	<p>Ensure that you only link to video channels containing media curated by an artist, label, or their agent, and not to playlists or channels which are generated by users or automatically.</p>	0
+805	<p>Ensure that you only link to video channels containing media curated by an artist, label, or their agent, and not to playlists or channels which are generated by users or automatically.</p>	0
+840		0
+837		0
+866		0
+216	Do not link to Wikipedia redirection pages, but to the un-redirected source page.	0
+848		0
+849		0
+850		0
+845		0
+856		0
+855		0
+875		0
+798	<p>When a band is credited as the performer for an event, link the band, not each member separately.</p>	0
+884		0
+888		0
+109	<p>If there is a performance name artist and a legal name artist for the same person, use the legal name artist for this relationship.</p>\r\n<p>This relationship should never be used for groups.</p>	0
+104	<p>In cases where a band has the same name as one of its members, create an artist for the band and use the <a href="/relationship/5be4c609-9afa-4ea0-910b-12ffb71e3821" title="Member of Band Relationship Type">member of band relationship</a> to link its members, don't use this relationship to link the members to the person artist.</p>	0
+363	<p>A place can have multiple official websites.</p>\r\n\r\n<p>"Official", in this context, means that the place has publicly endorsed the site. It does not imply that the information on the website is authoritative.</p>	0
+140	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>	0
+132	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>\r\n\r\n<p>Only the electronic instruments subset of the instrument tree should be used.</p>	0
+26	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>	0
+28	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>\r\n\r\n<p>Do not infer attributes. Though it may seem logical that, if a work has two or more engineers, they are co-engineers, this is incorrect. Engineer, additional engineer, associate engineer, co-engineer, and executive engineer are five distinct job titles. If a release has two people credited as "engineer", then they each held the engineer title, not the co-engineer title. The same is true for "additional", "associate", and "executive". Inferred attributes for this relationship type can only result in incorrect relationships. Therefore, credit the relationship only as it appears on the liner, without interpretation.</p>	0
+188	<p>Only sites on the <a href="/doc/Other_Databases_Relationship_Type/Whitelist">whitelist</a> are allowed</p>	0
+148	<p>Be as specific as your sources and knowledge allow.</p>\r\n\r\n<p>For orchestras, use the <a href="/relationship/3b6616c5-88ba-4341-b4ee-81ce1e6d7ebb">orchestra relationship</a>.</p>	0
+158	<p>The start and end dates should be used to indicate when the arranger first started and last finished working on the arrangement.</p>	0
+294	<p>The start and end dates should be used to indicate when the arranger first started and last finished working on the arrangement.</p>	0
+296	<p>The start and end dates should be used to indicate when the arranger first started and last finished working on the arrangement.</p>	0
+747		0
+751	<ul>\r\n<li>Use the start date for when the cataloguing efforts first began or were commissioned, and the end date for when the catalogue was published.</li>\r\n<li>Use "additional" for a person who significantly revised an existing catalogue, rather than creating it.</li>\r\n</ul>	0
+561	<p>Only sites on the <a href="/doc/Other_Databases_Relationship_Type/Whitelist">whitelist</a> are allowed</p>	0
+82	<p>Only sites on the <a href="/doc/Other_Databases_Relationship_Type/Whitelist">whitelist</a> are allowed</p>	0
+96	<p>Only sites on the <a href="/doc/Other_Databases_Relationship_Type/Whitelist">whitelist</a> are allowed</p>	0
+226	<ul>\r\n<li>The karaoke track should be linked to the version of the original song that it corresponds to. This is typically the version found on the same release.</li>\r\n<li>If the karaoke track does not correspond to a particular recording of the original song, link it to the earliest version of the original song.</li>\r\n</ul>	0
+293	<p>The start and end dates should be used to indicate when the arranger first started and last finished working on the arrangement.</p>	0
+808	<p>Link to image files directly, not to sites containing pictures.</p>	0
+809		0
+810		0
+815		0
+758		0
+799	<p>When a band is credited as the performer for an event, link the band, not each member separately.</p>	0
+836	<p>In cases where a rescheduled event gets postponed for a second time, link the new event to the first reschedule, not the original postponed event.</p>	0
+6	<p>All remasters should link to the earliest released version.</p>\r\n\r\n<p>This relationship does not imply that every recording on the remastered release has been remastered from the earlier release. It only indicates that some of the recordings on the later release have been remastered from the earlier release. Therefore, when the data is available, the release annotation should be used to document further mastering information for the tracks.</p>	0
+842		0
+838		0
+807		0
+847	<p>This is intended for subjects related to music: composition, singing, playing, (music) engineering, etc. Do not add a person to MusicBrainz just because he was someone's biology teacher!</p>\r\n\r\n<p>This relationship isn't the same as "influenced" - please use it only for instances where some degree of formal teaching happened.</p>\r\n\r\n<p>Use this relationship for teacher-student relationships lasting a reasonably long period of time. A one-year course or private teaching relationship is a good fit - a one-day workshop not so much.</p>	0
+806		0
+820		0
+824		0
+828		0
+116	<p>The start date should be used to indicate the date the label was founded. The end date should be the same as the start date.</p>	0
+712		0
+851		0
+867		0
+876		0
+885		0
+165	<p>Use "additional" to distinguish writers whose contributions form only a minor part of the lyrics.</p>	0
+169	<p>Use "additional" to distinguish writers whose contributions form only a minor part of the libretto.</p>	0
+167	<p>In many cases, the composer, lyricist and/or librettist relationship types should be used, even if the liner notes say this work was "written by" the artist, since we <a href="/doc/Style/Relationships#Prefer_Specific_Relationship_Types" title="Prefer Specific Relationship Types">prefer specific relationship types</a>.</p>\r\n<p>For example, even if a release credits <a href="/work/5f83fb2b-fd0d-3cf7-b37c-a9e70d09be20" title="Just Like a Woman">Just Like a Woman</a> as "written by Bob Dylan", since he's the only writer, we can enter him as both composer and lyricist. Similarly, if a release credits a work without lyrics as "written by", it's generally safe to use "composed" instead.</p>\r\n<p>For literary works, "written by" should be used, since there isn't a more specific relationship type for the author of a novel.</p>	0
+305	<ul>\r\n<li>The position (and any attribute used) should be documented; it must not be assumed.</li>\r\n<li>At any one time, an artist may have more than one conductor, but never more than one principal conductor.</li>\r\n<li>The conductor must be a person, and the conducted artist a group.</li>\r\n<li>Only one of the attributes 'assistant', 'emeritus', or 'principal' should be used for the same relationship. If a conductor changes to a new position with the group, a new relationship should be added for it.</li>\r\n<li>This relationship describes an official conductor position. Not all conductors that perform with an orchestra in one recording session should be linked with this - for specific recordings, use the conductor relationship on the recording or release.</li>\r\n<li><b>Do not infer attributes.</b> The use of any relationship attribute to indicate a specific position should be documented, and not assumed.  An inexperienced conductor is not automatically an assistant conductor, nor is a very experienced conductor automatically a conductor emeritus.  Likewise, "guest conductor" is a specific position title; simply because a conductor is credited with "guest conducting" on a release, that conductor does not automatically become a guest conductor for the group. Use "conductor" (without attributes) if the title doesn't clearly fit one of the given options (you can indicate the exact title in the annotation).</li>\r\n</ul>\r\n\r\n<p>Attribute definitions:</p>\r\n<ul>\r\n<li><b>Assistant:</b> This title indicates a less experienced, or first-time conductor, who works under the direction of a more experienced conductor.</li>\r\n<li><b>Emeritus:</b> This title indicates that a conductor has at least partially retired, and no longer plays an active role with the group.</li>\r\n<li><b>Principal:</b> This indicates that the group had multiple conductors who were led by this conductor.  This may be indicated by either the title of "principal conductor" or "first conductor"</li>\r\n<li><b>Guest:</b> This indicates that the conductor held a "guest conductor" or "visiting conductor" position.</li>\r\n</ul>	0
+112	<ul>\r\n<li>"Involved with" can only be loosely defined. Therefore, please use this relationship conservatively, at least initially, and only where the relationship is publicly acknowledged. Do not add a relationship based solely on rumors.</li>\r\n<li>Relationships represented with this relationship type should actually be <i>relationships</i>. This relationship type should not be used to indicate a "one night stand".</li>\r\n<li>Most relationships do not begin with marriage. The period during which a couple was dating should be indicated with this relationship type. That relationship should then have an end date set for the date of the marriage. The relationship from that point on is then indicated using the Married relationship type, which will have a start date of the date of the marriage.</li>\r\n</ul>	0
+49	This relationship type should only be used when it is impossible to determine which specific recording a sample came from, or when the material which is sampled is sourced from a source which can not be resolved to a specific recording. When the correct recording can be identified, use <a href="/relationship/967746f9-9d79-456c-9d1e-50116f0b27fc">the recording-release samples relationship</a>, not this.	0
+55	<p>Use the start and end dates to indicate the earliest and latest known dates when the composer worked on this release.</p>\r\n\r\n<p>Use the "additional" attribute if most of the work of composing is attributed to a different composer.</p>\r\n\r\n<p>"The music" in the context of this advanced relationship should be interpreted as the creation of the sequence of notes used to make a tune. The lyrics are handled separately, by the lyricist relationship type.</p>\r\n<p>Once a tune is written, it can be arranged or rearranged (including adding new notes), but this doesn't count as writing "the music"; instead, this is covered by the arranger relationship type.​</p>	0
+105	<p>In cases where a band has the same name as one of its members, create an artist for the band and use the <a href="/relationship/5be4c609-9afa-4ea0-910b-12ffb71e3821" title="Member of Band Relationship Type">member of band relationship</a> to link its members, don't use this relationship to link the members to the person artist.</p>	0
+51	<p>Be as specific as your sources and knowledge allow. If you know the artist performed vocals or instruments, use the more specific relationships.</p>	0
+800	<p>When a band is credited as the performer for an event, link the band, not each member separately.</p>	0
+725	<p>This relationship should only be used between a label of type “Imprint” and a label of another type.</p>	0
+699		0
+726	<p>Balance engineers typically have additional music engineering experience specific to the extra demands of classical music.</p>\r\n\r\n<p>This relationship should also be used for Tonmeister credits.</p>\r\n\r\n<p>This relationship type should only be used if the engineering credit specifies a balance engineer role. In case of conflicting engineering types (for example “Tonmeister / Recording Engineer / Ingénieur du son / Ingegnere del suono”), use just "engineer".​</p>	0
+728	<p>This relationship should only be used when the artist primarily performs covers of the specific artist or band it is a tribute to. It should not be used for artists who perform original works and occasionally cover other artists, or for non-specific cover bands who perform songs from a wide variety of artists, such as Richard Cheese or "1980s music" cover bands.</p>\r\n\r\n<p>If an artist starts out as a tribute to a specific artist, but goes on to perform original work, the start and end dates may be used to mark the tribute period.​</p>	0
+31	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>	0
+37	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>\r\n\r\n<p>Only the electronic instruments subset of the instrument tree should be used.</p>	0
+749		0
+58		0
+839		0
+214		0
+729		0
+816		0
+811		0
+843		0
+730		0
+852		0
+857	The audio recording linked should be the same version of the song (do not link, say, a video with studio audio to a live recording). The audio track doesn't need to be absolutely identical - even if the video includes extra effects, it can still be linked to an audio recording without them if it's intended to be equivalent.	0
+723		0
+877		0
+886		0
+154	This relationship type should only be used when it is impossible to determine which specific recording a sample came from, or when the material which is sampled is sourced from a source which can not be resolved to a specific recording. When the correct recording can be identified, use <a href="/relationship/9efd9ce9-e702-448b-8e76-641515e8fe62">the recording-recording samples relationship</a>, not this.	0
+69	<p>If the correct source recording or release is unknown, or if there is no correct source recording or release, use <a href="/relationship/83f72956-2007-4bca-8a97-0ae539cca99d">the "samples artist" relationship</a> instead.</p>\r\n\r\n<p>The song doing the sampling must contain sufficient original material that it cannot be considered a remix.​</p>	0
+189	If multiple pages exist at Myspace, they should be given preference in this order (highest to lowest priority): \r\n<ul>\r\n<li>Official page</li>\r\n<li>Page supported by the artist (or an artist in the group)</li>\r\n<li>The most active page for the group</li>\r\n</ul>	0
+287	<p>A release group can have multiple official websites.</p>\r\n\r\n<p>An official release group page should be a separate website created specifically for the release group. It should not be just a sub-section of the artist's site.</p>	0
+306	<p>Only sites on the <a href="/doc/Other_Databases_Relationship_Type/Whitelist">whitelist</a> are allowed</p>	0
+168	<p>Use the start and end dates to indicate the earliest and latest known dates when the composer worked on this work.</p>\r\n\r\n<p>Use the "additional" attribute if most of the work of composing is attributed to a different composer.</p>\r\n\r\n<p>"The music" in the context of this advanced relationship should be interpreted as the creation of the sequence of notes used to make a tune. The lyrics are handled separately, by the lyricist relationship type.</p>\r\n<p>Once a tune is written, it can be arranged or rearranged (including adding new notes), but this doesn't count as writing "the music"; instead, this is covered by the arranger relationship type.​</p>	0
+107	<p>In cases where a band has the same name as one of its members, create an artist for the band and use the <a href="/relationship/5be4c609-9afa-4ea0-910b-12ffb71e3821" title="Member of Band Relationship Type">member of band relationship</a> to link its members, don't use this relationship to link the members to the person artist.</p>	0
+44	<p>Be as specific as your sources and knowledge allow.</p>\r\n\r\n<p>For orchestras, use the <a href="/relationship/23a2e2e7-81ca-4865-8d05-2243848a77bf">orchestra relationship</a>.</p>	0
+812		0
+724		0
+219	<p>A label can have multiple official websites.</p>\r\n\r\n<p>"Official", in this context, means that the label has publicly endorsed the site. It does not imply that the information on the website is authoritative.</p>	0
+727	<p>Balance engineers typically have additional music engineering experience specific to the extra demands of classical music.</p>\r\n\r\n<p>This relationship should also be used for Tonmeister credits.</p>\r\n\r\n<p>This relationship type should only be used if the engineering credit specifies a balance engineer role. In case of conflicting engineering types (for example “Tonmeister / Recording Engineer / Ingénieur du son / Ingegnere del suono”), use just "engineer".​</p>	0
+183	<p>An artist can have multiple official websites.</p>\r\n\r\n<p>"Official", in this context, means that the artist has publicly endorsed the site. It does not imply that the information on the website is authoritative.</p>\r\n\r\n<p>For fan pages, even official ones, use the <a href="/relationship/f484f897-81cc-406e-96f9-cd799a04ee24">fan page relationship</a>.</p>	0
+144	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>	0
+143	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>	0
+138	<p>The start and end dates should be used to indicate the first and last dates for when the engineer worked on engineering the recording.</p>\r\n\r\n<p>Do not infer attributes. Though it may seem logical that, if a work has two or more engineers, they are co-engineers, this is incorrect. Engineer, additional engineer, associate engineer, co-engineer, and executive engineer are five distinct job titles. If a release has two people credited as "engineer", then they each held the engineer title, not the co-engineer title. The same is true for "additional", "associate", and "executive". Inferred attributes for this relationship type can only result in incorrect relationships. Therefore, credit the relationship only as it appears on the liner, without interpretation.</p>	0
+77	<p>Many ASINs are valid across multiple Amazon stores. The preferred URL is for the store which matches the country of release.</p>\r\n<p>An ASIN should represent the same release. If a release does not have an ASIN or the ASIN does not provide cover art, only the Cover Art Archive should be used to add cover art.​</p>	0
+853		0
+48	<p>The start and end dates should be used to indicate the first and last dates for when the compiler worked on the compilation.</p>	0
+297	<p>The start and end dates should be used to indicate when the arranger first started and last finished working on the arrangement.</p>	0
+282	<p>The start and end dates should be used to indicate when the arranger first started and last finished working on the arrangement.</p>	0
+222	<p>Only sites on the <a href="/doc/Other_Databases_Relationship_Type/Whitelist">whitelist</a> are allowed</p>	0
+273	<p>Only sites on the <a href="/doc/Other_Databases_Relationship_Type/Whitelist">whitelist</a> are allowed</p>	0
+757		0
+817		0
+822		0
+97		0
+825		0
+829		0
+303	<p>Ensure that you only link to video channels containing media curated by an artist, label, or their agent, and not to playlists or channels which are generated by users or automatically.</p>	0
+859		0
+860		0
+56	<p>Use "additional" to distinguish writers whose contributions form only a minor part of the lyrics.</p>	0
+57	<p>Use "additional" to distinguish writers whose contributions form only a minor part of the libretto.</p>	0
+878		0
+858	<p>Dates should be used to indicate when the appearance was recorded - do not use the video release date for this relationship.</p>	0
+813		0
+756		0
+274	<b>Only</b> sites on the <a href="/doc/Style/Relationships/URLs/Score_whitelist">whitelist</a> are permitted.​	0
+278	<p>When the dates the recording took place on are known, they should be indicated in the start/end date fields. For recordings from a live concert that starts before and finishes after midnight, you can use the starting date of the concert in both fields.</p>\r\n<p>Use the "live" attribute when the performance had an audience at the time it occurred, i.e. was not prerecorded.</p>\r\n<p>Do not use the "partial" attribute to link to the full work if there is a part-work that corresponds to what was recorded, just link to the part instead.</p>\r\n<p>The "partial" attribute should rarely be used together with "medley", as it is already assumed that only part of the work will be used in a medley.</p>\r\n<p>Use the "instrumental" attribute only for works that have lyrics.</p>\r\n<p>Because the lyrics are important to karaoke versions of a song (the intention is that someone would sing them over the karaoke track), karaoke versions should not be marked with the “instrumental” attribute.</p>	0
+202	<p>The start and end dates should contain the date the rename occurred. The same date should be used in both fields, as a label is not "renamed" over a period of time.</p>\r\n\r\n<p>Try to remember that MusicBrainz is not a corporate database, so keep it simple. Avoid abusing this relationship by trying to follow companies' existences too closely. A company slightly altering its name, without significant change to its imprint(s) or ownership details, is not enough to justify adding new labels to the database (to then be used as targets for this relationship).</p>\r\n\r\n<p>Keep in mind that the minor benefit of that extra bit of detail is far outweighed by the complexity involved in ensuring that editors assign the correct version of the company as the label for releases.</p>	0
+818	<p>It is allowed, but not required, to add independent concerts as part of a festival, for example to add a setlist or link them to a tour. For example, Nine Inch Nails' concert at Pemberton Festival 2008 was part of their Lights in the Sky tour. In that case, a part event should be created for the concert, since the festival itself wasn't part of the tour.</p>\r\n\r\n<p>When a festival consists of several concerts at different venues that follow the standard "main performers and support acts" structure, add an event per concert, not an event per band.</p>	0
+826		0
+15	<p>While a literal translation is not required for the "translated" attribute, the translated lyrics should still be distinctly and detectably derived from the original lyrics.​</p>	0
+17	<ul>\r\n<li>Radio, TV, and internet‐streamed performances are considered to be ‘live’.</li>\r\n<li>This relationship type should not be used to link from compilations of live performances, nor should it be linked to box‐sets.</li>\r\n<li>The work‐order of the studio release does not have to match the work‐order of the live release.</li>\r\n<li>The majority of the tracks on the studio release should be present on the live release.</li>\r\n<li>The majority of the tracks on the live release should be present on the studio release, with the exception of live releases that specifically claim to be the live version of a studio release.​</li>\r\n</ul>	0
+830		0
+832	<p>The start date should be used to indicate the date the label was founded. The end date should be the same as the start date.</p>\r\n\r\n<p>Do not add new "artists" to MusicBrainz just to use them with this relationship. While it's interesting to know an artist, or an engineer, founded a place, we're not particularly interested in the whole management behind any given venue.</p>	0
+861		0
+11	<p>A single from another release group should contain at least one song, typically the single's title track, which is sourced from the album. It does not need to be the exact same version ("single version", "radio edit", etc.).</p>\r\n\r\n<p>Compilations and soundtracks cannot be from another release group, though they can have singles from them.</p>\r\n\r\n<p>The linked source release group should be the one which contains only the appropriate album or soundtrack. Release groups for releases containing two albums and/or EPs should not be used for such relationships. e.g. <a href="/release-group/4f9eb8b6-a4cc-335e-9fe1-2b4636b3cd6d">Bad Moon Rising</a> is a single which was taken from <a href="/release-group/6c08878c-d6a1-37b6-84c3-9566748545c1">Green River</a>, <em>not</em> from <a href="/release-group/19eeb41c-98d4-3528-ac65-b8f37b252106">Green River / Cosmo's Factory</a> or <a href="/release-group/774703e5-0ae2-3f71-95cc-208dcc3d4e31">Green River / Willy and the Poor Boys</a>.</p>	0
+854		0
+316	An orchestration is a version for orchestra of a work that was written for a small ensemble or a soloist.\r\n\r\n<ul>\r\n<li>If you are not dealing with two distinct works, use the recording - artist <a href="/relationship/38fa7405-f9a5-48cb-827a-8ac601933ba0" title="Orchestrator Relationship Type">Orchestrator relationship</a>.</li>\r\n<li> See <a href="/doc/Style/Classical/Works" title="Style/Classical/Works">Style/Classical/Works</a> regarding if a classical orchestration can be considered a distinct work.</li>\r\n</ul>	0
+879		0
+30	<p>Do not infer attributes. Though it may seem logical that, if a work has two or more producers, they are co-producers, this is incorrect. Producer, additional producer, associate producer, co-producer and executive producer are five distinct job titles. If a release has two people credited as "producer", then they each held the producer title, not the co-producer title. The same is true for "additional", "associate", and "executive". Inferred attributes for this relationship type can only result in incorrect relationships. Therefore, credit the relationship only as it appears on the liner, without interpretation.</p>	0
+141	<p>Do not infer attributes. Though it may seem logical that, if a work has two or more producers, they are co-producers, this is incorrect. Producer, additional producer, associate producer, co-producer and executive producer are five distinct job titles. If a release has two people credited as "producer", then they each held the producer title, not the co-producer title. The same is true for "additional", "associate", and "executive". Inferred attributes for this relationship type can only result in incorrect relationships. Therefore, credit the relationship only as it appears on the liner, without interpretation.</p>	0
+190	Only link to a BBC Music page which has meaningful content. As the BBC uses MusicBrainz IDs in their URL, they have an artist page for every artist in MusicBrainz. For example, the <a href="/artist/7e84f845-ac16-41fe-9ff8-df12eb32af55">MusicBrainz Test Artist</a> has a <a href="http://www.bbc.co.uk/music/artists/7e84f845-ac16-41fe-9ff8-df12eb32af55">BBC Music page</a> which contains only content automatically generated based on the data in our database. An artist page which looks like that should not be linked to. Conversely, the <a href="http://www.bbc.co.uk/music/artists/95e1ead9-4d31-4808-a7ac-32c3614c116b">BBC Music page on The Killers</a> includes links to BBC news stories, blog posts, reviews and contains BBC Radio playout information.​	0
+102	<ul>\r\n<li>Dates indicate when the collaboration began and ended.</li>\r\n<li>This relationship should only be used when <a href="/doc/Artist_Credit" title="Artist Credit">artist credits</a> can't be easily used. Normally this implies the collaboration receives a new name: if X and Y collaborate as "X & Y" a new artist should not be created, as we can simply credit it as "X" & "Y" through artist credits.</li>\r\n<li>The target <a href="/doc/Artist" title="Artist">artist</a> is the collaboration artist, not another artist also involved in the collaboration.</li>\r\n<li>This relationship type is only intended for short-term projects consisting of independent artists, who move on after the collaboration is finished.  If the target artist was not this type of project, then <a href="/relationship/5be4c609-9afa-4ea0-910b-12ffb71e3821" title="Member of Band Relationship Type">Member of Band Relationship Type</a> should be used.</li>\r\n</ul>	0
+3	<p>Compilations and soundtracks cannot be supporting releases, though they can be supported by another release. However any release can be considered to be a 'supporting' release if the release identifies itself as a supporting release.</p>\r\n\r\n<p>If the supporting release includes text stating that it was "taken from" an album, or in some other way identifies itself as being from an album, then the <a href="/relationship/fcf680a9-6871-4519-8c4b-8c6549575b35">single from</a> relationship between release groups should be normally be used, rather than this one. However, the two relationships may be used at the same time. Before both are used simultaneously, consider what question(s) are relevant:\r\n<ul>\r\n<li>"single from" answers the basic question: "What album is this single from?" It is not necessary to specify a specific release of "Dirt", as the answer is only concerned with the abstract release (i.e. the release group), e.g. "Angry Chair" is from "Dirt".</li>\r\n<li>This relationship answers the much more specific question: "Which release did this release promote?" This implies a much closer relationship. The 1993 US single was released to promote the original 1992 US release; it had nothing to do with the 2002 re-release, releases of the album in other countries, or releases of the same album by other labels. Therefore, this answer is much more specific, e.g. The 1992 United States release of "Angry Chair" by Columbia Records was released to support the 1992 United States release of "Dirt" by Columbia Records.</li>\r\n</ul>\r\n</p>	0
+693		0
+698		0
+821		0
+819		0
+823		0
+827		0
+831		0
+862		0
+833		0
+314	This is used when a new work is based on or includes (parts of) another work. The works are usually by different artists. Common examples would include classical fantasias and variation works, or when a new song is based on a poem or the lyrics of another song. The new work must be a new composition, not just an arrangement or the same music with different or translated lyrics.\r\n\r\n<ul>\r\n<li>Can also be used if a composer rewrites old material into a new, different work, and you cannot say that it is a revision or an arrangement of the old work.</li>\r\n<li>Do not confuse this with medleys, mash-ups, remixes, etc.</li>\r\n<li>Only use one version-of relationship between any two works. That is, the second work is either an arrangement or "based on" the first work, not both.</li>\r\n</ul>	0
+281	<p>This relationship should only be used for works where the composer split a work into multiple parts, not where a performer merely performed part of a work (often described as an excerpt, intro, or conclusion), instead see the 'partial' attribute of the <a href="/relationship/a3005666-a872-32c3-ad06-98af558e99b0" title="Performance Relationship Type">Performance relationship</a>.</p>\r\n\r\n<p><i>For example, <a href="/work/b0ab788c-4e8d-31c0-92db-3a326c77eb13" title="The Planets">The Planets</a> suite by Gustav Holst is broken into seven parts.  Each counts as a work of its own (e.g. <a href="/work/9e00ce98-e460-4101-b2e3-8096a5c60c59" title="Mars, the Bringer of War">Mars, the Bringer of War</a>), and is part of the aggregate work. <a href="/recording/cb7ed112-48ea-4f3a-9fff-63d7c3b67c29" title="The Planets, op. 32: Jupiter, the Bringer of Jollity (conclusion)">The Planets, op. 32: Jupiter, the Bringer of Jollity (conclusion)</a> is merely a partial recording of a discrete work, and doesn’t count as a work on its own.</i></p>\r\n\r\n<p>Works for a part for which no recordings exist in MusicBrainz should be kept to a minimum. Some examples where this might be necessary:</p>\r\n<ul>\r\n<li>Accurately credit an artist, for example if Artist A wrote the lyrics for part I and artist B wrote the lyrics for part II, even though there are no recordings of part I or part II by themselves'.</li>\r\n<li>Provide a complete list of parts, for example if parts I and IV have recordings, but parts II and III do not.</li>\r\n</ul>\r\n\r\n<p>Recordings which comprise multiple parts should be linked to all of their component works.  Do not create additional works for every combination of parts. For example, if an artist records parts I and II of a work on one track and parts III and IV on another, do not create a work for parts I and II combined; just link the recording to the works for part I and part II.</p>	0
+880		0

@@ -1,0 +1,3 @@
+{"# Columns":2,"# Tuples":4839}
+{"column Name":"column1","Data Type":"INT","Min":4,"Avg.":3100.3023351932216,"# Null":0,"Max":99994,"% Null":0,"Standard Deviation":6323.690214669321,"Top 10 frquent Items":{"1821":"2","1874":"2","454":"2","4333":"2","4337":"2","1825":"2","1813":"2","1812":"2","1823":"2"},"% Distinct":99,"# Distinct":4827}
+{"column Name":"column2","Data Type":"VARCHAR[16]","Min String":"AD-02","# Null":0,"Longest String":"UG-419","% Null":0,"Top 10 frquent Items":{"AD-08":"1","AD-07":"1","AD-06":"1","AE-AJ":"1","AE-AZ":"1","AD-05":"1","AD-04":"1","AD-03":"1","AD-02":"1"},"Symantic Data Type":"NA","Shortest String":"GR-I","% Distinct":100,"# Distinct":4839,"Max String":"ZW-MW"}

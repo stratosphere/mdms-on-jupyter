@@ -1,0 +1,4 @@
+{"# Columns":3,"# Tuples":2}
+{"column Name":"column1","Data Type":"SMALLINT","Min":7131,"Avg.":9011,"# Null":0,"Max":10891,"% Null":0,"Standard Deviation":2658.721497261419,"Top 10 frquent Items":{"7131":"1","10891":"1"},"% Distinct":100,"# Distinct":2}
+{"column Name":"column2","Data Type":"BOOLEAN","# Null":0,"% Null":0,"Top 10 frquent Items":{"t":"2"},"% Distinct":50,"# Distinct":1}
+{"column Name":"column3","Data Type":"VARCHAR[16]","Min String":"Live recording","# Null":0,"Longest String":"Studio recording","% Null":0,"Top 10 frquent Items":{"Live recording":"1","Studio recording":"1"},"Symantic Data Type":"NA","Shortest String":"Live recording","% Distinct":100,"# Distinct":2,"Max String":"Studio recording"}

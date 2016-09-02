@@ -1,0 +1,4 @@
+{"# Columns":3,"# Tuples":11}
+{"column Name":"column1","Data Type":"INT","Min":10791,"Avg.":39711,"# Null":0,"Max":65086,"% Null":0,"Standard Deviation":20345.261694065277,"Top 10 frquent Items":{"29672":"1","53350":"1","53136":"1","54753":"1","10791":"1","16237":"1","26931":"1","13883":"1","53238":"1"},"% Distinct":100,"# Distinct":11}
+{"column Name":"column2","Data Type":"BOOLEAN","# Null":0,"% Null":0,"Top 10 frquent Items":{"t":"11"},"% Distinct":9,"# Distinct":1}
+{"column Name":"column3","Data Type":"NA","# Null":0,"% Null":0,"Top 10 frquent Items":{"":"11"},"% Distinct":9,"# Distinct":1}

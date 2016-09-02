@@ -1,0 +1,4 @@
+{"# Columns":3,"# Tuples":1}
+{"column Name":"column1","Data Type":"SMALLINT","Min":2308,"Avg.":2308,"# Null":0,"Max":2308,"% Null":0,"Top 10 frquent Items":{"2308":"1"},"% Distinct":100,"# Distinct":1}
+{"column Name":"column2","Data Type":"BOOLEAN","# Null":0,"% Null":0,"Top 10 frquent Items":{"t":"1"},"% Distinct":100,"# Distinct":1}
+{"column Name":"column3","Data Type":"NA","# Null":0,"% Null":0,"Top 10 frquent Items":{"":"1"},"% Distinct":100,"# Distinct":1}

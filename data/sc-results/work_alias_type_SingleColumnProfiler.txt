@@ -1,0 +1,6 @@
+{"# Columns":5,"# Tuples":2}
+{"column Name":"column1","Data Type":"SMALLINT","Min":1,"Avg.":1.5,"# Null":0,"Max":2,"% Null":0,"Standard Deviation":0.7071067811865476,"Top 10 frquent Items":{"1":"1","2":"1"},"% Distinct":100,"# Distinct":2}
+{"column Name":"column2","Data Type":"VARCHAR[16]","Min String":"Search hint","# Null":0,"Longest String":"Search hint","% Null":0,"Top 10 frquent Items":{"Search hint":"1","Work name":"1"},"Symantic Data Type":"NA","Shortest String":"Work name","% Distinct":100,"# Distinct":2,"Max String":"Work name"}
+{"column Name":"column3","Data Type":"NA","# Null":2,"% Null":100,"% Distinct":0,"# Distinct":0}
+{"column Name":"column4","Data Type":"SMALLINT","Min":0,"Avg.":0,"# Null":0,"Max":0,"% Null":0,"Standard Deviation":0,"Top 10 frquent Items":{"0":"2"},"% Distinct":50,"# Distinct":1}
+{"column Name":"column5","Data Type":"NA","# Null":2,"% Null":100,"% Distinct":0,"# Distinct":0}

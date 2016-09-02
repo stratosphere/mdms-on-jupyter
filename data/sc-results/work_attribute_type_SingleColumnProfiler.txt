@@ -1,0 +1,8 @@
+{"# Columns":7,"# Tuples":16}
+{"column Name":"column1","Data Type":"SMALLINT","Min":1,"Avg.":9.4375,"# Null":0,"Max":17,"% Null":0,"Standard Deviation":4.871259248558494,"Top 10 frquent Items":{"11":"1","1":"1","12":"1","13":"1","14":"1","15":"1","16":"1","17":"1","10":"1"},"% Distinct":100,"# Distinct":16}
+{"column Name":"column2","Data Type":"VARCHAR[32]","Min String":"APRA ID","# Null":0,"Longest String":"Makam (Ottoman, Turkish)","% Null":0,"Top 10 frquent Items":{"BMI ID":"1","KOMCA ID":"1","ASCAP ID":"1","APRA ID":"1","JASRAC ID":"1","GEMA ID":"1","Identifiers":"1","Key":"1","Form (Ottoman, Turkish)":"1"},"Symantic Data Type":"NA","Shortest String":"Key","% Distinct":100,"# Distinct":16,"Max String":"Usul (Ottoman, Turkish)"}
+{"column Name":"column3","Data Type":"NA","# Null":0,"% Null":0,"Top 10 frquent Items":{"":"16"},"% Distinct":6,"# Distinct":1}
+{"column Name":"column4","Data Type":"BOOLEAN","# Null":0,"% Null":0,"Top 10 frquent Items":{"t":"9","f":"7"},"% Distinct":12,"# Distinct":2}
+{"column Name":"column5","Data Type":"SMALLINT","Min":14,"Avg.":7.875,"# Null":7,"Max":14,"% Null":43,"Standard Deviation":4.744404599104086,"Top 10 frquent Items":{"14":"9"},"% Distinct":6,"# Distinct":1}
+{"column Name":"column6","Data Type":"SMALLINT","Min":0,"Avg.":0.875,"# Null":0,"Max":3,"% Null":0,"Standard Deviation":1.2583057392117916,"Top 10 frquent Items":{"0":"10","1":"1","2":"2","3":"3"},"% Distinct":25,"# Distinct":4}
+{"column Name":"column7","Data Type":"NA","# Null":16,"% Null":100,"% Distinct":0,"# Distinct":0}

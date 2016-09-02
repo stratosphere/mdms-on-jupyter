@@ -1,0 +1,4 @@
+{"# Columns":3,"# Tuples":99112}
+{"column Name":"column1","Data Type":"INT","Min":1,"Avg.":56971.85866494471,"# Null":0,"Max":110522,"% Null":0,"Standard Deviation":31589.78297420761,"Top 10 frquent Items":{"1":"1","100":"1","100000":"1","1000":"1","10000":"1","100001":"1","100002":"1","100003":"1","10":"1"},"% Distinct":100,"# Distinct":99112}
+{"column Name":"column2","Data Type":"SMALLINT","Min":20,"Avg.":0.5506598595528291,"# Null":98522,"Max":100,"% Null":99,"Standard Deviation":7.219078539966912,"Top 10 frquent Items":{"100":"454","90":"1","80":"91","60":"14","50":"3","40":"4","73":"1","20":"20","87":"1"},"% Distinct":0,"# Distinct":10}
+{"column Name":"column3","Data Type":"SMALLINT","Min":1,"Avg.":0.006416982807329082,"# Null":98522,"Max":6,"% Null":99,"Standard Deviation":0.08847718196917634,"Top 10 frquent Items":{"1":"559","2":"24","3":"3","4":"1","5":"2","6":"1"},"% Distinct":0,"# Distinct":6}

@@ -1,0 +1,6 @@
+{"# Columns":5,"# Tuples":6}
+{"column Name":"column1","Data Type":"SMALLINT","Min":1,"Avg.":3.5,"# Null":0,"Max":6,"% Null":0,"Standard Deviation":1.8708286933869707,"Top 10 frquent Items":{"1":"1","2":"1","3":"1","4":"1","5":"1","6":"1"},"% Distinct":100,"# Distinct":6}
+{"column Name":"column2","Data Type":"VARCHAR[16]","Min String":"Character","# Null":0,"Longest String":"Character","% Null":0,"Top 10 frquent Items":{"Group":"1","Choir":"1","Character":"1","Orchestra":"1","Person":"1","Other":"1"},"Symantic Data Type":"NA","Shortest String":"Other","% Distinct":100,"# Distinct":6,"Max String":"Person"}
+{"column Name":"column3","Data Type":"SMALLINT","Min":2,"Avg.":0.6666666666666666,"# Null":4,"Max":2,"% Null":66,"Standard Deviation":0.8432740427115679,"Top 10 frquent Items":{"2":"2"},"% Distinct":16,"# Distinct":1}
+{"column Name":"column4","Data Type":"SMALLINT","Min":0,"Avg.":17.5,"# Null":0,"Max":99,"% Null":0,"Standard Deviation":39.943710393502506,"Top 10 frquent Items":{"0":"2","99":"1","1":"1","2":"1","3":"1"},"% Distinct":83,"# Distinct":5}
+{"column Name":"column5","Data Type":"NA","# Null":6,"% Null":100,"% Distinct":0,"# Distinct":0}

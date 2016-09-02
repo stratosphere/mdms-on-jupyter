@@ -1,0 +1,4 @@
+{"# Columns":3,"# Tuples":4}
+{"column Name":"column1","Data Type":"SMALLINT","Min":1624,"Avg.":1721,"# Null":0,"Max":1908,"% Null":0,"Standard Deviation":128.81511298498066,"Top 10 frquent Items":{"1624":"1","1650":"1","1908":"1","1702":"1"},"% Distinct":100,"# Distinct":4}
+{"column Name":"column2","Data Type":"BOOLEAN","# Null":0,"% Null":0,"Top 10 frquent Items":{"t":"4"},"% Distinct":25,"# Distinct":1}
+{"column Name":"column3","Data Type":"VARCHAR[32]","Min String":"A tribute to multiple artists:","# Null":0,"Longest String":"A tribute to multiple artists:","% Null":0,"Top 10 frquent Items":{"A tribute to one artist:":"2","A tribute to multiple artists:":"2"},"Symantic Data Type":"NA","Shortest String":"A tribute to one artist:","% Distinct":50,"# Distinct":2,"Max String":"A tribute to one artist:"}

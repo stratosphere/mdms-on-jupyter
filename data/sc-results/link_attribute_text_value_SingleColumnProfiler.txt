@@ -1,0 +1,4 @@
+{"# Columns":3,"# Tuples":16505}
+{"column Name":"column1","Data Type":"INT","Min":166963,"Avg.":192850.30875492276,"# Null":0,"Max":265795,"% Null":0,"Standard Deviation":25868.976007912013,"Top 10 frquent Items":{"166969":"1","166968":"1","166967":"1","166966":"1","166965":"1","166964":"1","166963":"1","166971":"1","166970":"1"},"% Distinct":100,"# Distinct":16505}
+{"column Name":"column2","Data Type":"SMALLINT","Min":788,"Avg.":790.554862162981,"# Null":0,"Max":830,"% Null":0,"Standard Deviation":10.03907348231819,"Top 10 frquent Items":{"830":"1004","788":"15501"},"% Distinct":0,"# Distinct":2}
+{"column Name":"column3","Data Type":"VARCHAR[48]","Min String":"#11","# Null":0,"Longest String":"Sat 2:30, , Sun 12:45pm, Sun 10:00pm","% Null":0,"Top 10 frquent Items":{"11":"5","1":"6","12":"5","2":"6","3":"6","4":"6","19":"6","20":"6","10":"5"},"Symantic Data Type":"NA","Shortest String":"V","% Distinct":90,"# Distinct":14905,"Max String":"?"}

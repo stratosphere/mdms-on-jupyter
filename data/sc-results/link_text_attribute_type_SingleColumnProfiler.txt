@@ -1,0 +1,2 @@
+{"# Columns":1,"# Tuples":2}
+{"column Name":"column1","Data Type":"SMALLINT","Min":788,"Avg.":809,"# Null":0,"Max":830,"% Null":0,"Standard Deviation":29.698484809834994,"Top 10 frquent Items":{"830":"1","788":"1"},"% Distinct":100,"# Distinct":2}

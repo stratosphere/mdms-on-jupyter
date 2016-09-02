@@ -1,0 +1,5 @@
+{"# Columns":4,"# Tuples":125772}
+{"column Name":"column1","Data Type":"INT","Min":1,"Avg.":14509.734710428394,"# Null":0,"Max":71810,"% Null":0,"Standard Deviation":16497.584914020863,"Top 10 frquent Items":{"11":"1167","77":"678","564":"846","7":"1888","19":"1489","537":"666","92":"694","271":"715","62":"666"},"% Distinct":2,"# Distinct":3466}
+{"column Name":"column2","Data Type":"INT","Min":7,"Avg.":27130.267054670356,"# Null":0,"Max":71814,"% Null":0,"Standard Deviation":15631.756455403722,"Top 10 frquent Items":{"28929":"355","41020":"365","28928":"354","41014":"796","41023":"408","28932":"358","28930":"356","41017":"432","28931":"357"},"% Distinct":4,"# Distinct":5590}
+{"column Name":"column3","Data Type":"SMALLINT","Min":0,"Avg.":15.724151639474606,"# Null":0,"Max":22608,"% Null":0,"Standard Deviation":165.1081492186023,"Top 10 frquent Items":{"12":"1937","2":"4309","3":"71095","4":"16419","5":"3828","6":"3326","7":"1879","8":"2347","10":"1568"},"% Distinct":0,"# Distinct":879}
+{"column Name":"column4","Data Type":"TIMESTAMP","# Null":0,"% Null":0,"Top 10 frquent Items":{"2014-11-17 02:33:01.291495+00":"125772"},"% Distinct":0,"# Distinct":1}

@@ -1,0 +1,60 @@
+1	CD	\N	0	1982	t	\N
+2	DVD	\N	4	1995	f	\N
+3	SACD	\N	5	1999	t	\N
+4	DualDisc	\N	6	2004	t	\N
+6	MiniDisc	\N	7	1992	f	\N
+8	Cassette	\N	3	1964	f	\N
+12	Digital Media	\N	2	\N	f	\N
+17	HD-DVD	\N	9	\N	f	\N
+20	Blu-ray	\N	8	\N	f	\N
+22	VCD	\N	11	\N	f	\N
+28	UMD	\N	12	\N	f	\N
+51	Flexi-disc	7	3	1962	f	Flexi-discs are phonograph records made of a thin, flexible vinyl sheet with a molded-in groove, designed to be playable on a normal phonograph turntable.
+5	LaserDisc	13	0	1978	f	\N
+9	Cartridge	13	0	1962	f	\N
+10	Reel-to-reel	13	0	1935	f	\N
+11	DAT	13	0	1976	f	\N
+14	Wax Cylinder	13	0	1877	f	\N
+15	Piano Roll	13	0	1883	f	\N
+16	DCC	13	0	1992	f	\N
+23	SVCD	22	0	\N	f	\N
+25	HDCD	1	0	\N	t	\N
+29	7" Vinyl	7	0	\N	f	\N
+30	10" Vinyl	7	1	\N	f	\N
+31	12" Vinyl	7	2	\N	f	\N
+18	DVD-Audio	2	0	\N	f	\N
+19	DVD-Video	2	1	\N	f	\N
+33	CD-R	1	1	\N	t	\N
+34	8cm CD	1	2	1982	t	\N
+35	Blu-spec CD	1	3	\N	t	\N
+36	SHM-CD	1	4	\N	t	\N
+37	HQCD	1	5	\N	t	\N
+38	Hybrid SACD	3	0	\N	t	\N
+39	CD+G	1	6	\N	t	\N
+40	8cm CD+G	39	0	\N	t	\N
+26	USB Flash Drive	13	0	\N	f	\N
+27	slotMusic	13	1	\N	f	\N
+41	CDV	\N	11	1987	t	\N
+42	Enhanced CD	1	0	\N	t	\N
+43	Data CD	1	0	\N	f	\N
+44	DTS CD	1	0	1997	t	\N
+52	7" Flexi-disc	51	0	1962	f	\N
+21	VHS	13	0	\N	f	\N
+24	Betamax	13	0	\N	f	\N
+45	Playbutton	13	0	2011	f	\N
+46	Music Card	13	0	\N	f	\N
+49	3.5" Floppy Disk	13	0	1983	f	\N
+50	Edison Diamond Disc	13	0	1912	f	\N
+47	DVDplus	13	0	\N	t	\N
+48	VinylDisc	13	0	2007	t	\N
+13	Other	\N	99	\N	t	\N
+53	Shellac	\N	13	1895	f	Shellac records were the most predominant type of gramophone record during the first half of the 20th century.
+54	10" Shellac	53	1	\N	f	\N
+55	12" Shellac	53	2	\N	f	\N
+56	7" Shellac	53	0	\N	f	\N
+7	Vinyl	\N	1	1940	f	\N
+57	SHM-SACD	3	0	\N	t	\N
+59	VHD	13	0	1983	f	Video High Density (VHD) was a videodisc format which was marketed predominantly in Japan by JVC.
+58	Pathé disc	13	0	1906	f	90 rpm, vertical-cut shellac discs, produced by the Pathé label from 1906 to 1932.
+60	CED	13	0	1981	f	The Capacitance Electronic Disc (CED) is an analog video disc playback system developed by RCA, in which video and audio could be played back on a TV set using a special needle and high-density groove system similar to phonograph records.
+61	Copy Control CD	1	0	\N	t	Copy Control CD (CCCD) is an umbrella term for CDs released circa 2001-2006 containing software that is ostensibly designed to prevent the CD from being ripped. There are a number of software variants: the most well-known are Macrovision's Cactus Data Shield (CDS) and SunnComm's MediaMax.

@@ -1,0 +1,4 @@
+{"# Columns":3,"# Tuples":10}
+{"column Name":"column1","Data Type":"INT","Min":3938,"Avg.":34304.4,"# Null":0,"Max":66687,"% Null":0,"Standard Deviation":21392.641015078058,"Top 10 frquent Items":{"45445":"1","16904":"1","3938":"1","4078":"1","45444":"1","23023":"1","50954":"1","35616":"1","50955":"1"},"% Distinct":100,"# Distinct":10}
+{"column Name":"column2","Data Type":"BOOLEAN","# Null":0,"% Null":0,"Top 10 frquent Items":{"t":"10"},"% Distinct":10,"# Distinct":1}
+{"column Name":"column3","Data Type":"VARCHAR[64]","Min String":"","# Null":0,"Longest String":"Multiple versions of a song with corresponding karaoke versions","% Null":0,"Top 10 frquent Items":{"":"8","Multiple versions of a song with corresponding karaoke versions":"2"},"Symantic Data Type":"NA","Shortest String":"","% Distinct":20,"# Distinct":2,"Max String":"Multiple versions of a song with corresponding karaoke versions"}

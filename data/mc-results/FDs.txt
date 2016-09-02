@@ -1,0 +1,1855 @@
+[] --> l_event_series.column8, l_event_series.column9
+[l_event_series.column1] --> l_event_series.column2, l_event_series.column3, l_event_series.column4, l_event_series.column5, l_event_series.column6, l_event_series.column7
+[l_event_series.column3, l_event_series.column4, l_event_series.column6] --> l_event_series.column1, l_event_series.column7
+[l_event_series.column3, l_event_series.column4, l_event_series.column7] --> l_event_series.column1, l_event_series.column6
+[l_event_series.column3, l_event_series.column4] --> l_event_series.column2, l_event_series.column5
+[l_event_series.column3, l_event_series.column7] --> l_event_series.column2, l_event_series.column5
+[l_event_series.column6, l_event_series.column7] --> l_event_series.column2
+[l_event_series.column6] --> l_event_series.column5
+[edit_artist.column1] --> edit_artist.column3
+[] --> tag_relation.column4
+[tag_relation.column1, tag_relation.column2] --> tag_relation.column3
+[release_group.column1] --> release_group.column2, release_group.column3, release_group.column4, release_group.column5, release_group.column6, release_group.column7, release_group.column8
+[release_group.column2] --> release_group.column1, release_group.column3, release_group.column4, release_group.column5, release_group.column6, release_group.column7, release_group.column8
+[] --> place_alias_type.column3, place_alias_type.column4, place_alias_type.column5
+[place_alias_type.column1] --> place_alias_type.column2
+[place_alias_type.column2] --> place_alias_type.column1
+[] --> l_release_group_release_group.column7, l_release_group_release_group.column8, l_release_group_release_group.column9
+[l_release_group_release_group.column1] --> l_release_group_release_group.column2, l_release_group_release_group.column3, l_release_group_release_group.column4, l_release_group_release_group.column5, l_release_group_release_group.column6
+[l_release_group_release_group.column2, l_release_group_release_group.column3, l_release_group_release_group.column4] --> l_release_group_release_group.column1, l_release_group_release_group.column6
+[l_release_group_release_group.column3, l_release_group_release_group.column4, l_release_group_release_group.column6] --> l_release_group_release_group.column1
+[l_release_group_release_group.column3, l_release_group_release_group.column6] --> l_release_group_release_group.column2
+[l_release_group_release_group.column3] --> l_release_group_release_group.column5
+[] --> artist_alias_type.column3, artist_alias_type.column4, artist_alias_type.column5
+[artist_alias_type.column1] --> artist_alias_type.column2
+[artist_alias_type.column2] --> artist_alias_type.column1
+[] --> release_alias_type.column3, release_alias_type.column4, release_alias_type.column5
+[release_alias_type.column1] --> release_alias_type.column2
+[release_alias_type.column2] --> release_alias_type.column1
+[] --> l_artist_release.column7, l_artist_release.column9
+[l_artist_release.column1] --> l_artist_release.column2, l_artist_release.column3, l_artist_release.column4, l_artist_release.column5, l_artist_release.column6, l_artist_release.column8
+[l_artist_release.column2, l_artist_release.column3, l_artist_release.column4] --> l_artist_release.column1, l_artist_release.column6, l_artist_release.column8
+[l_artist_release.column2, l_artist_release.column4] --> l_artist_release.column5
+[l_artist_release.column6] --> l_artist_release.column5
+[cover_art_archive.cover_art.column1] --> cover_art_archive.cover_art.column2, cover_art_archive.cover_art.column3, cover_art_archive.cover_art.column4, cover_art_archive.cover_art.column5, cover_art_archive.cover_art.column6, cover_art_archive.cover_art.column7, cover_art_archive.cover_art.column8
+[cover_art_archive.cover_art.column2, cover_art_archive.cover_art.column5] --> cover_art_archive.cover_art.column1, cover_art_archive.cover_art.column3, cover_art_archive.cover_art.column4, cover_art_archive.cover_art.column6, cover_art_archive.cover_art.column7, cover_art_archive.cover_art.column8
+[cover_art_archive.cover_art.column4] --> cover_art_archive.cover_art.column1, cover_art_archive.cover_art.column2, cover_art_archive.cover_art.column3, cover_art_archive.cover_art.column5, cover_art_archive.cover_art.column6, cover_art_archive.cover_art.column7, cover_art_archive.cover_art.column8
+[cover_art_archive.cover_art.column6] --> cover_art_archive.cover_art.column1, cover_art_archive.cover_art.column2, cover_art_archive.cover_art.column3, cover_art_archive.cover_art.column4, cover_art_archive.cover_art.column5, cover_art_archive.cover_art.column7, cover_art_archive.cover_art.column8
+[] --> l_artist_url.column7, l_artist_url.column9
+[l_artist_url.column1] --> l_artist_url.column2, l_artist_url.column3, l_artist_url.column4, l_artist_url.column5, l_artist_url.column6, l_artist_url.column8
+[l_artist_url.column2, l_artist_url.column3, l_artist_url.column4] --> l_artist_url.column1, l_artist_url.column5, l_artist_url.column6
+[l_artist_url.column2, l_artist_url.column6] --> l_artist_url.column5
+[l_artist_url.column3, l_artist_url.column4] --> l_artist_url.column8
+[l_artist_url.column4, l_artist_url.column6] --> l_artist_url.column5, l_artist_url.column8
+[l_artist_url.column6, l_artist_url.column8] --> l_artist_url.column5
+[release_tag.column1, release_tag.column2] --> release_tag.column3, release_tag.column4
+[release_tag.column2, release_tag.column4] --> release_tag.column3
+[release_tag.column4] --> release_tag.column1
+[cover_art_archive.image_type.column1] --> cover_art_archive.image_type.column2
+[cover_art_archive.image_type.column2] --> cover_art_archive.image_type.column1
+[place.column10, place.column3] --> place.column1, place.column2, place.column5, place.column7
+[place.column10, place.column5] --> place.column7
+[place.column10, place.column7] --> place.column5
+[place.column10] --> place.column11, place.column12, place.column13, place.column14, place.column15, place.column16, place.column17, place.column4, place.column6, place.column8, place.column9
+[place.column11, place.column12, place.column14, place.column4, place.column5] --> place.column13
+[place.column11, place.column12, place.column14, place.column4, place.column7] --> place.column13
+[place.column11, place.column12, place.column14, place.column5, place.column6] --> place.column13
+[place.column11, place.column12, place.column15, place.column4, place.column5] --> place.column13
+[place.column11, place.column12, place.column15, place.column4, place.column7] --> place.column13
+[place.column11, place.column12, place.column15, place.column5, place.column6] --> place.column13
+[place.column11, place.column12, place.column16, place.column5, place.column6] --> place.column13
+[place.column11, place.column12, place.column17, place.column4, place.column5] --> place.column13
+[place.column11, place.column12, place.column17, place.column5, place.column6] --> place.column13
+[place.column11, place.column12, place.column4, place.column5, place.column6] --> place.column13
+[place.column11, place.column12, place.column6, place.column7] --> place.column13
+[place.column11, place.column13, place.column3] --> place.column12
+[place.column11, place.column13, place.column4, place.column6, place.column7, place.column8] --> place.column12
+[place.column11, place.column13, place.column5, place.column6, place.column8] --> place.column12
+[place.column11, place.column14, place.column16, place.column5, place.column8] --> place.column15
+[place.column11, place.column14, place.column16, place.column7, place.column8] --> place.column15
+[place.column11, place.column14, place.column4, place.column5, place.column8] --> place.column15
+[place.column11, place.column14, place.column4, place.column6] --> place.column15
+[place.column11, place.column14, place.column5, place.column6] --> place.column15
+[place.column11, place.column14, place.column6, place.column7] --> place.column15
+[place.column11, place.column14, place.column6] --> place.column16
+[place.column11, place.column15, place.column6] --> place.column16
+[place.column11, place.column17, place.column3, place.column5] --> place.column14
+[place.column11, place.column17, place.column3, place.column8] --> place.column14
+[place.column11, place.column17, place.column3] --> place.column15, place.column16
+[place.column11, place.column3, place.column4, place.column6] --> place.column7
+[place.column11, place.column3, place.column5, place.column6] --> place.column14, place.column4, place.column7
+[place.column11, place.column3, place.column5, place.column8] --> place.column14, place.column17
+[place.column11, place.column3, place.column5] --> place.column12, place.column13, place.column15, place.column16
+[place.column11, place.column3, place.column6, place.column7] --> place.column4
+[place.column11, place.column3, place.column6] --> place.column12, place.column13, place.column15, place.column16, place.column17
+[place.column11, place.column3, place.column7, place.column8] --> place.column14, place.column17
+[place.column11, place.column3, place.column7] --> place.column12, place.column13, place.column15, place.column16
+[place.column11, place.column3, place.column8] --> place.column12, place.column13
+[place.column11, place.column5, place.column6, place.column7] --> place.column9
+[place.column12, place.column14, place.column3, place.column5, place.column6] --> place.column11
+[place.column12, place.column14, place.column3, place.column6, place.column7] --> place.column11
+[place.column12, place.column14, place.column4, place.column6, place.column7] --> place.column13
+[place.column12, place.column14, place.column5, place.column6] --> place.column15, place.column16
+[place.column12, place.column14, place.column6, place.column7, place.column8] --> place.column15, place.column16
+[place.column12, place.column15, place.column4, place.column6, place.column7] --> place.column13
+[place.column12, place.column15, place.column6, place.column7] --> place.column16
+[place.column12, place.column16, place.column4, place.column6, place.column7] --> place.column13
+[place.column12, place.column17, place.column3, place.column6] --> place.column16
+[place.column12, place.column3, place.column5, place.column6] --> place.column17, place.column4, place.column7
+[place.column12, place.column3, place.column5] --> place.column15, place.column16
+[place.column12, place.column3, place.column6, place.column7] --> place.column4
+[place.column12, place.column3, place.column6, place.column8] --> place.column11
+[place.column12, place.column3, place.column7] --> place.column15, place.column16
+[place.column12, place.column3] --> place.column13
+[place.column12, place.column5, place.column6, place.column7] --> place.column13
+[place.column13, place.column14, place.column3, place.column5, place.column6] --> place.column11
+[place.column13, place.column14, place.column3, place.column6, place.column7] --> place.column11
+[place.column13, place.column14, place.column3, place.column6] --> place.column12
+[place.column13, place.column14, place.column5, place.column6] --> place.column15, place.column16
+[place.column13, place.column14, place.column6, place.column7, place.column8] --> place.column15, place.column16
+[place.column13, place.column15, place.column17, place.column3, place.column6] --> place.column12
+[place.column13, place.column15, place.column6, place.column7] --> place.column16
+[place.column13, place.column16, place.column3, place.column7] --> place.column15
+[place.column13, place.column3, place.column4, place.column8] --> place.column12
+[place.column13, place.column3, place.column5, place.column6] --> place.column12, place.column17, place.column4, place.column7
+[place.column13, place.column3, place.column5, place.column8] --> place.column12
+[place.column13, place.column3, place.column5] --> place.column15, place.column16
+[place.column13, place.column3, place.column6, place.column7] --> place.column12, place.column4
+[place.column13, place.column3, place.column6, place.column8] --> place.column11, place.column12
+[place.column13, place.column3, place.column7, place.column8] --> place.column12
+[place.column14, place.column15, place.column5, place.column6] --> place.column16
+[place.column14, place.column15, place.column6, place.column7] --> place.column16
+[place.column14, place.column16, place.column5, place.column6] --> place.column15
+[place.column14, place.column16, place.column6, place.column7] --> place.column15
+[place.column14, place.column3, place.column4, place.column5, place.column6] --> place.column11
+[place.column14, place.column3, place.column4, place.column5] --> place.column13
+[place.column14, place.column3, place.column4, place.column6, place.column7] --> place.column11
+[place.column14, place.column3, place.column4, place.column6] --> place.column12, place.column13
+[place.column14, place.column3, place.column4, place.column7] --> place.column13
+[place.column14, place.column3, place.column5, place.column6] --> place.column7
+[place.column14, place.column3, place.column6] --> place.column17
+[place.column14, place.column3, place.column8] --> place.column17
+[place.column14, place.column3] --> place.column15, place.column16
+[place.column14, place.column4, place.column5, place.column6, place.column8] --> place.column15, place.column16
+[place.column14, place.column4, place.column6, place.column7, place.column8] --> place.column15, place.column16
+[place.column15, place.column17, place.column3, place.column4, place.column6] --> place.column12, place.column13
+[place.column15, place.column3, place.column4, place.column7] --> place.column13
+[place.column15, place.column3] --> place.column16
+[place.column15, place.column5, place.column6, place.column7] --> place.column16
+[place.column17, place.column3, place.column4, place.column5, place.column6] --> place.column12
+[place.column17, place.column3, place.column4, place.column5] --> place.column13
+[place.column17, place.column3, place.column4, place.column7] --> place.column13
+[place.column17, place.column3, place.column5, place.column6] --> place.column7
+[place.column17, place.column3, place.column5, place.column8] --> place.column14
+[place.column17, place.column3, place.column5] --> place.column15, place.column16
+[place.column17, place.column3, place.column7, place.column8] --> place.column14
+[place.column17, place.column3, place.column7] --> place.column15, place.column16
+[place.column1] --> place.column10, place.column11, place.column12, place.column13, place.column14, place.column15, place.column16, place.column17, place.column2, place.column3, place.column4, place.column5, place.column6, place.column7, place.column8, place.column9
+[place.column2] --> place.column1, place.column10, place.column11, place.column12, place.column13, place.column14, place.column15, place.column16, place.column17, place.column3, place.column4, place.column5, place.column6, place.column7, place.column8, place.column9
+[place.column3, place.column4, place.column5, place.column8] --> place.column12, place.column13
+[place.column3, place.column4, place.column5] --> place.column16
+[place.column3, place.column4, place.column6, place.column7] --> place.column12, place.column13
+[place.column3, place.column4, place.column6, place.column8] --> place.column11, place.column12, place.column13, place.column5, place.column7
+[place.column3, place.column4, place.column7, place.column8] --> place.column12, place.column13
+[place.column3, place.column5, place.column6, place.column7] --> place.column17
+[place.column3, place.column5, place.column6, place.column8] --> place.column7
+[place.column3, place.column5, place.column6] --> place.column15, place.column16
+[place.column3, place.column5, place.column7] --> place.column16
+[place.column3, place.column6, place.column7, place.column8] --> place.column5
+[place.column3, place.column6, place.column7] --> place.column15, place.column16
+[place.column3, place.column6, place.column8] --> place.column14, place.column17
+[place.column3, place.column8] --> place.column15, place.column16
+[place.column3] --> place.column9
+[place.column4, place.column5, place.column6, place.column7] --> place.column9
+[] --> release_group_primary_type.column3, release_group_primary_type.column5
+[release_group_primary_type.column1] --> release_group_primary_type.column2, release_group_primary_type.column4
+[release_group_primary_type.column2] --> release_group_primary_type.column1, release_group_primary_type.column4
+[release_group_primary_type.column4] --> release_group_primary_type.column1, release_group_primary_type.column2
+[instrument_gid_redirect.column1] --> instrument_gid_redirect.column2, instrument_gid_redirect.column3
+[instrument_gid_redirect.column2] --> instrument_gid_redirect.column1, instrument_gid_redirect.column3
+[instrument_gid_redirect.column3] --> instrument_gid_redirect.column1, instrument_gid_redirect.column2
+[] --> l_release_release.column7, l_release_release.column8, l_release_release.column9
+[l_release_release.column1] --> l_release_release.column2, l_release_release.column3, l_release_release.column4, l_release_release.column5, l_release_release.column6
+[l_release_release.column3, l_release_release.column4] --> l_release_release.column1, l_release_release.column2, l_release_release.column6
+[l_release_release.column4] --> l_release_release.column5
+[l_release_release.column6] --> l_release_release.column5
+[release_group_annotation.column2] --> release_group_annotation.column1
+[iso_3166_3.column1] --> iso_3166_3.column2
+[iso_3166_3.column2] --> iso_3166_3.column1
+[] --> series.column6
+[series.column1] --> series.column2, series.column3, series.column4, series.column5, series.column7, series.column8, series.column9
+[series.column2] --> series.column1, series.column3, series.column4, series.column5, series.column7, series.column8, series.column9
+[series.column3, series.column4, series.column5] --> series.column1, series.column2, series.column9
+[series.column3, series.column4, series.column9] --> series.column1, series.column2
+[series.column3, series.column4] --> series.column7
+[series.column3, series.column9] --> series.column5
+[series.column3] --> series.column8
+[series.column9] --> series.column7, series.column8
+[] --> l_place_work.column5, l_place_work.column7, l_place_work.column8, l_place_work.column9
+[l_place_work.column1] --> l_place_work.column2, l_place_work.column3, l_place_work.column4, l_place_work.column6
+[l_place_work.column3, l_place_work.column4] --> l_place_work.column1, l_place_work.column2, l_place_work.column6
+[l_place_work.column4, l_place_work.column6] --> l_place_work.column1, l_place_work.column2
+[l_place_work.column6] --> l_place_work.column3
+[script.column1] --> script.column2, script.column3, script.column4, script.column5
+[script.column2] --> script.column1, script.column3, script.column4, script.column5
+[script.column3] --> script.column1, script.column2, script.column4, script.column5
+[script.column4] --> script.column1, script.column2, script.column3, script.column5
+[] --> l_artist_release_group.column7, l_artist_release_group.column9
+[l_artist_release_group.column1] --> l_artist_release_group.column2, l_artist_release_group.column3, l_artist_release_group.column4, l_artist_release_group.column5, l_artist_release_group.column6, l_artist_release_group.column8
+[l_artist_release_group.column2, l_artist_release_group.column3, l_artist_release_group.column4] --> l_artist_release_group.column1, l_artist_release_group.column6
+[l_artist_release_group.column3] --> l_artist_release_group.column8
+[l_artist_release_group.column4] --> l_artist_release_group.column5
+[l_artist_release_group.column6] --> l_artist_release_group.column5, l_artist_release_group.column8
+[] --> label_isni.column3
+[label_isni.column1] --> label_isni.column2, label_isni.column4
+[label_isni.column2] --> label_isni.column1, label_isni.column4
+[label_isni.column4] --> label_isni.column1, label_isni.column2
+[] --> l_area_work.column7, l_area_work.column8, l_area_work.column9
+[l_area_work.column1] --> l_area_work.column2, l_area_work.column3, l_area_work.column4, l_area_work.column5, l_area_work.column6
+[l_area_work.column2, l_area_work.column3, l_area_work.column4] --> l_area_work.column1, l_area_work.column6
+[l_area_work.column2] --> l_area_work.column5
+[l_area_work.column4] --> l_area_work.column5
+[l_area_work.column6] --> l_area_work.column5
+[] --> l_label_url.column7, l_label_url.column8, l_label_url.column9
+[l_label_url.column1] --> l_label_url.column2, l_label_url.column3, l_label_url.column4, l_label_url.column5, l_label_url.column6
+[l_label_url.column2, l_label_url.column3, l_label_url.column4] --> l_label_url.column1, l_label_url.column6
+[l_label_url.column3, l_label_url.column4] --> l_label_url.column5
+[l_label_url.column6] --> l_label_url.column5
+[] --> l_label_recording.column7, l_label_recording.column8, l_label_recording.column9
+[l_label_recording.column1] --> l_label_recording.column2, l_label_recording.column3, l_label_recording.column4, l_label_recording.column5, l_label_recording.column6
+[l_label_recording.column2, l_label_recording.column3, l_label_recording.column4] --> l_label_recording.column1, l_label_recording.column6
+[l_label_recording.column2, l_label_recording.column3] --> l_label_recording.column5
+[l_label_recording.column4] --> l_label_recording.column5
+[l_label_recording.column6] --> l_label_recording.column5
+[] --> work_type.column3
+[work_type.column1] --> work_type.column2, work_type.column4, work_type.column5
+[work_type.column2] --> work_type.column1, work_type.column4, work_type.column5
+[work_type.column5] --> work_type.column1, work_type.column2, work_type.column4
+[] --> place_alias.column5
+[place_alias.column10, place_alias.column11, place_alias.column14, place_alias.column6] --> place_alias.column13
+[place_alias.column10, place_alias.column12, place_alias.column13, place_alias.column9] --> place_alias.column14
+[place_alias.column10, place_alias.column12, place_alias.column2] --> place_alias.column11, place_alias.column13, place_alias.column14
+[place_alias.column10, place_alias.column12, place_alias.column6] --> place_alias.column11
+[place_alias.column10, place_alias.column13, place_alias.column2] --> place_alias.column14
+[place_alias.column10, place_alias.column13, place_alias.column4, place_alias.column9] --> place_alias.column14
+[place_alias.column10, place_alias.column13, place_alias.column6] --> place_alias.column11
+[place_alias.column10, place_alias.column14, place_alias.column15, place_alias.column6] --> place_alias.column13
+[place_alias.column10, place_alias.column14, place_alias.column16, place_alias.column6] --> place_alias.column13
+[place_alias.column10, place_alias.column14, place_alias.column2, place_alias.column4, place_alias.column9] --> place_alias.column13
+[place_alias.column10, place_alias.column15, place_alias.column6] --> place_alias.column11
+[place_alias.column10, place_alias.column16, place_alias.column2] --> place_alias.column11
+[place_alias.column10, place_alias.column16, place_alias.column6] --> place_alias.column11
+[place_alias.column10, place_alias.column2, place_alias.column9] --> place_alias.column11
+[place_alias.column10, place_alias.column3] --> place_alias.column11, place_alias.column14
+[place_alias.column10, place_alias.column6, place_alias.column9] --> place_alias.column11
+[place_alias.column10, place_alias.column8] --> place_alias.column11, place_alias.column14
+[place_alias.column11, place_alias.column12, place_alias.column13, place_alias.column9] --> place_alias.column14
+[place_alias.column11, place_alias.column12, place_alias.column2] --> place_alias.column13, place_alias.column14
+[place_alias.column11, place_alias.column12, place_alias.column6] --> place_alias.column10
+[place_alias.column11, place_alias.column13, place_alias.column2] --> place_alias.column14
+[place_alias.column11, place_alias.column13, place_alias.column4, place_alias.column9] --> place_alias.column14
+[place_alias.column11, place_alias.column13, place_alias.column6] --> place_alias.column10
+[place_alias.column11, place_alias.column14, place_alias.column2, place_alias.column4, place_alias.column9] --> place_alias.column13
+[place_alias.column11, place_alias.column2, place_alias.column3] --> place_alias.column10
+[place_alias.column11, place_alias.column2, place_alias.column8] --> place_alias.column10
+[place_alias.column11, place_alias.column2, place_alias.column9] --> place_alias.column10
+[place_alias.column11, place_alias.column3] --> place_alias.column14
+[place_alias.column11, place_alias.column6, place_alias.column9] --> place_alias.column10
+[place_alias.column11, place_alias.column8] --> place_alias.column14
+[place_alias.column12, place_alias.column13, place_alias.column2] --> place_alias.column14
+[place_alias.column12, place_alias.column13, place_alias.column4, place_alias.column9] --> place_alias.column14
+[place_alias.column12, place_alias.column15, place_alias.column2, place_alias.column9] --> place_alias.column10, place_alias.column11
+[place_alias.column12, place_alias.column15, place_alias.column6] --> place_alias.column10, place_alias.column11, place_alias.column16
+[place_alias.column12, place_alias.column2, place_alias.column3] --> place_alias.column9
+[place_alias.column12, place_alias.column2, place_alias.column8] --> place_alias.column9
+[place_alias.column12, place_alias.column2, place_alias.column9] --> place_alias.column13, place_alias.column14
+[place_alias.column12, place_alias.column3, place_alias.column4] --> place_alias.column9
+[place_alias.column12, place_alias.column3, place_alias.column6] --> place_alias.column16, place_alias.column9
+[place_alias.column12, place_alias.column3] --> place_alias.column10, place_alias.column11, place_alias.column13, place_alias.column14
+[place_alias.column12, place_alias.column4, place_alias.column8] --> place_alias.column9
+[place_alias.column12, place_alias.column6, place_alias.column8] --> place_alias.column16, place_alias.column9
+[place_alias.column12, place_alias.column6] --> place_alias.column13, place_alias.column14
+[place_alias.column12, place_alias.column8] --> place_alias.column10, place_alias.column11, place_alias.column13, place_alias.column14
+[place_alias.column13, place_alias.column15, place_alias.column2, place_alias.column9] --> place_alias.column10, place_alias.column11
+[place_alias.column13, place_alias.column2, place_alias.column3] --> place_alias.column10, place_alias.column11
+[place_alias.column13, place_alias.column2, place_alias.column8] --> place_alias.column10, place_alias.column11
+[place_alias.column13, place_alias.column2, place_alias.column9] --> place_alias.column14
+[place_alias.column13, place_alias.column3] --> place_alias.column14
+[place_alias.column13, place_alias.column6] --> place_alias.column14
+[place_alias.column13, place_alias.column8] --> place_alias.column14
+[place_alias.column14, place_alias.column15, place_alias.column2, place_alias.column9] --> place_alias.column10, place_alias.column11, place_alias.column13
+[place_alias.column14, place_alias.column16, place_alias.column2, place_alias.column9] --> place_alias.column13
+[place_alias.column14, place_alias.column2, place_alias.column3] --> place_alias.column10, place_alias.column11
+[place_alias.column14, place_alias.column2, place_alias.column8] --> place_alias.column10, place_alias.column11
+[place_alias.column15, place_alias.column3, place_alias.column6] --> place_alias.column12, place_alias.column16, place_alias.column9
+[place_alias.column15, place_alias.column4, place_alias.column8] --> place_alias.column3
+[place_alias.column15, place_alias.column6, place_alias.column8] --> place_alias.column12, place_alias.column16, place_alias.column9
+[place_alias.column15, place_alias.column6, place_alias.column9] --> place_alias.column10, place_alias.column11, place_alias.column16
+[place_alias.column16, place_alias.column3, place_alias.column6] --> place_alias.column12, place_alias.column9
+[place_alias.column16, place_alias.column6, place_alias.column8] --> place_alias.column12, place_alias.column9
+[place_alias.column1] --> place_alias.column10, place_alias.column11, place_alias.column12, place_alias.column13, place_alias.column14, place_alias.column15, place_alias.column16, place_alias.column2, place_alias.column3, place_alias.column4, place_alias.column6, place_alias.column7, place_alias.column8, place_alias.column9
+[place_alias.column2, place_alias.column3] --> place_alias.column7
+[place_alias.column2, place_alias.column8] --> place_alias.column7
+[place_alias.column3, place_alias.column4] --> place_alias.column7, place_alias.column8
+[place_alias.column3, place_alias.column6, place_alias.column9] --> place_alias.column16
+[place_alias.column3, place_alias.column6] --> place_alias.column10, place_alias.column11, place_alias.column13, place_alias.column14, place_alias.column2, place_alias.column7, place_alias.column8
+[place_alias.column3, place_alias.column9] --> place_alias.column10, place_alias.column11, place_alias.column12, place_alias.column13, place_alias.column14
+[place_alias.column4, place_alias.column8] --> place_alias.column7
+[place_alias.column6, place_alias.column8, place_alias.column9] --> place_alias.column16
+[place_alias.column6, place_alias.column8] --> place_alias.column10, place_alias.column11, place_alias.column13, place_alias.column14, place_alias.column2, place_alias.column3, place_alias.column7
+[place_alias.column6, place_alias.column9] --> place_alias.column13, place_alias.column14
+[place_alias.column8, place_alias.column9] --> place_alias.column10, place_alias.column11, place_alias.column12, place_alias.column13, place_alias.column14
+[] --> l_url_work.column7, l_url_work.column8, l_url_work.column9
+[l_url_work.column1] --> l_url_work.column2, l_url_work.column3, l_url_work.column4, l_url_work.column5, l_url_work.column6
+[l_url_work.column2, l_url_work.column4] --> l_url_work.column5
+[l_url_work.column3, l_url_work.column4] --> l_url_work.column1, l_url_work.column6
+[l_url_work.column3] --> l_url_work.column2, l_url_work.column5
+[l_url_work.column6] --> l_url_work.column5
+[] --> l_series_work.column8, l_series_work.column9
+[l_series_work.column1] --> l_series_work.column2, l_series_work.column3, l_series_work.column4, l_series_work.column5, l_series_work.column6, l_series_work.column7
+[l_series_work.column2, l_series_work.column3, l_series_work.column4] --> l_series_work.column1, l_series_work.column6, l_series_work.column7
+[l_series_work.column2] --> l_series_work.column5
+[l_series_work.column3, l_series_work.column4, l_series_work.column7] --> l_series_work.column1, l_series_work.column2, l_series_work.column6
+[l_series_work.column3, l_series_work.column6, l_series_work.column7] --> l_series_work.column2
+[l_series_work.column3, l_series_work.column7] --> l_series_work.column5
+[l_series_work.column4] --> l_series_work.column5
+[l_series_work.column6] --> l_series_work.column5
+[] --> documentation.l_place_place_example.column2, documentation.l_place_place_example.column3
+[] --> cdtoc.column7
+[cdtoc.column1] --> cdtoc.column2, cdtoc.column3, cdtoc.column4, cdtoc.column5, cdtoc.column6, cdtoc.column8
+[cdtoc.column2] --> cdtoc.column1, cdtoc.column3, cdtoc.column4, cdtoc.column5, cdtoc.column6, cdtoc.column8
+[cdtoc.column3] --> cdtoc.column4
+[cdtoc.column5, cdtoc.column6] --> cdtoc.column1, cdtoc.column2, cdtoc.column3, cdtoc.column8
+[cdtoc.column6] --> cdtoc.column4
+[] --> l_event_place.column7, l_event_place.column8, l_event_place.column9
+[l_event_place.column1] --> l_event_place.column2, l_event_place.column3, l_event_place.column4, l_event_place.column5, l_event_place.column6
+[l_event_place.column3, l_event_place.column4] --> l_event_place.column1, l_event_place.column6
+[l_event_place.column3] --> l_event_place.column2, l_event_place.column5
+[l_event_place.column6] --> l_event_place.column2, l_event_place.column5
+[wikidocs.wikidocs_index.column1] --> wikidocs.wikidocs_index.column2
+[wikidocs.wikidocs_index.column2] --> wikidocs.wikidocs_index.column1
+[] --> documentation.l_release_release_example.column2, documentation.l_release_release_example.column3
+[sitemaps.artist_lastmod.column1, sitemaps.artist_lastmod.column3, sitemaps.artist_lastmod.column4] --> sitemaps.artist_lastmod.column2, sitemaps.artist_lastmod.column5, sitemaps.artist_lastmod.column6, sitemaps.artist_lastmod.column7
+[sitemaps.artist_lastmod.column1, sitemaps.artist_lastmod.column4, sitemaps.artist_lastmod.column6] --> sitemaps.artist_lastmod.column7
+[sitemaps.artist_lastmod.column1, sitemaps.artist_lastmod.column7] --> sitemaps.artist_lastmod.column6
+[sitemaps.artist_lastmod.column2] --> sitemaps.artist_lastmod.column1, sitemaps.artist_lastmod.column3, sitemaps.artist_lastmod.column4, sitemaps.artist_lastmod.column5, sitemaps.artist_lastmod.column6, sitemaps.artist_lastmod.column7
+[sitemaps.artist_lastmod.column4, sitemaps.artist_lastmod.column5] --> sitemaps.artist_lastmod.column2, sitemaps.artist_lastmod.column6, sitemaps.artist_lastmod.column7
+[sitemaps.artist_lastmod.column5, sitemaps.artist_lastmod.column6] --> sitemaps.artist_lastmod.column7
+[sitemaps.artist_lastmod.column5, sitemaps.artist_lastmod.column7] --> sitemaps.artist_lastmod.column6
+[sitemaps.artist_lastmod.column5] --> sitemaps.artist_lastmod.column1, sitemaps.artist_lastmod.column3
+[] --> l_area_url.column5, l_area_url.column7, l_area_url.column8, l_area_url.column9
+[l_area_url.column1] --> l_area_url.column2, l_area_url.column3, l_area_url.column4, l_area_url.column6
+[l_area_url.column2, l_area_url.column3, l_area_url.column4] --> l_area_url.column1
+[l_area_url.column3, l_area_url.column4] --> l_area_url.column6
+[] --> documentation.l_recording_recording_example.column2
+[documentation.l_recording_recording_example.column1] --> documentation.l_recording_recording_example.column3
+[track_raw.column1] --> track_raw.column2, track_raw.column3, track_raw.column4, track_raw.column5
+[track_raw.column2, track_raw.column5] --> track_raw.column1, track_raw.column3, track_raw.column4
+[iso_3166_1.column1] --> iso_3166_1.column2
+[iso_3166_1.column2] --> iso_3166_1.column1
+[isrc.column1] --> isrc.column2, isrc.column3, isrc.column4, isrc.column5, isrc.column6
+[isrc.column2, isrc.column3] --> isrc.column1, isrc.column4, isrc.column5, isrc.column6
+[isrc.column6] --> isrc.column4
+[] --> sitemaps.control.column1, sitemaps.control.column2, sitemaps.control.column3
+[recording_tag.column1, recording_tag.column2] --> recording_tag.column3, recording_tag.column4
+[] --> release_meta.column5
+[release_meta.column1] --> release_meta.column2, release_meta.column3, release_meta.column4, release_meta.column6
+[] --> l_recording_recording.column8, l_recording_recording.column9
+[l_recording_recording.column1] --> l_recording_recording.column2, l_recording_recording.column3, l_recording_recording.column4, l_recording_recording.column5, l_recording_recording.column6, l_recording_recording.column7
+[l_recording_recording.column2, l_recording_recording.column3, l_recording_recording.column4, l_recording_recording.column7] --> l_recording_recording.column1
+[l_recording_recording.column2, l_recording_recording.column3, l_recording_recording.column4] --> l_recording_recording.column6
+[l_recording_recording.column3, l_recording_recording.column4] --> l_recording_recording.column5
+[l_recording_recording.column6] --> l_recording_recording.column5
+[release_group_secondary_type_join.column1, release_group_secondary_type_join.column2] --> release_group_secondary_type_join.column3
+[] --> sitemaps.release_lastmod.column3
+[sitemaps.release_lastmod.column1, sitemaps.release_lastmod.column4] --> sitemaps.release_lastmod.column2, sitemaps.release_lastmod.column5, sitemaps.release_lastmod.column6, sitemaps.release_lastmod.column7
+[sitemaps.release_lastmod.column2] --> sitemaps.release_lastmod.column1, sitemaps.release_lastmod.column4, sitemaps.release_lastmod.column5, sitemaps.release_lastmod.column6, sitemaps.release_lastmod.column7
+[sitemaps.release_lastmod.column4, sitemaps.release_lastmod.column5] --> sitemaps.release_lastmod.column2, sitemaps.release_lastmod.column6, sitemaps.release_lastmod.column7
+[sitemaps.release_lastmod.column5, sitemaps.release_lastmod.column6] --> sitemaps.release_lastmod.column7
+[sitemaps.release_lastmod.column5, sitemaps.release_lastmod.column7] --> sitemaps.release_lastmod.column6
+[sitemaps.release_lastmod.column5] --> sitemaps.release_lastmod.column1
+[place_annotation.column2] --> place_annotation.column1
+[artist_tag.column1, artist_tag.column2] --> artist_tag.column3, artist_tag.column4
+[place_tag.column1, place_tag.column2] --> place_tag.column4
+[place_tag.column1] --> place_tag.column3
+[place_tag.column4] --> place_tag.column1, place_tag.column3
+[] --> documentation.l_place_recording_example.column2
+[documentation.l_place_recording_example.column1] --> documentation.l_place_recording_example.column3
+[documentation.l_place_recording_example.column3] --> documentation.l_place_recording_example.column1
+[] --> l_series_series.column2, l_series_series.column7, l_series_series.column8, l_series_series.column9
+[l_series_series.column1] --> l_series_series.column3, l_series_series.column4, l_series_series.column5, l_series_series.column6
+[l_series_series.column4] --> l_series_series.column1, l_series_series.column3, l_series_series.column5, l_series_series.column6
+[l_series_series.column6] --> l_series_series.column3, l_series_series.column5
+[] --> l_label_label.column7, l_label_label.column8, l_label_label.column9
+[l_label_label.column1] --> l_label_label.column2, l_label_label.column3, l_label_label.column4, l_label_label.column5, l_label_label.column6
+[l_label_label.column2, l_label_label.column3, l_label_label.column4] --> l_label_label.column1, l_label_label.column6
+[l_label_label.column3, l_label_label.column4] --> l_label_label.column5
+[l_label_label.column4, l_label_label.column6] --> l_label_label.column5
+[] --> release_group_alias_type.column3, release_group_alias_type.column4, release_group_alias_type.column5
+[release_group_alias_type.column1] --> release_group_alias_type.column2
+[release_group_alias_type.column2] --> release_group_alias_type.column1
+[] --> artist_type.column5
+[artist_type.column1] --> artist_type.column2, artist_type.column3, artist_type.column4
+[artist_type.column2] --> artist_type.column1, artist_type.column3, artist_type.column4
+[artist_type.column4] --> artist_type.column3
+[] --> series_alias_type.column3, series_alias_type.column4, series_alias_type.column5
+[series_alias_type.column1] --> series_alias_type.column2
+[series_alias_type.column2] --> series_alias_type.column1
+[artist_credit.column1] --> artist_credit.column2, artist_credit.column3, artist_credit.column4, artist_credit.column5
+[release_group_meta.column1] --> release_group_meta.column2, release_group_meta.column3, release_group_meta.column4, release_group_meta.column5, release_group_meta.column6, release_group_meta.column7
+[] --> l_event_work.column5, l_event_work.column7, l_event_work.column8, l_event_work.column9
+[l_event_work.column1] --> l_event_work.column2, l_event_work.column3, l_event_work.column4, l_event_work.column6
+[l_event_work.column4] --> l_event_work.column1, l_event_work.column2, l_event_work.column3, l_event_work.column6
+[l_event_work.column6] --> l_event_work.column3
+[release_unknown_country.column1] --> release_unknown_country.column2, release_unknown_country.column3, release_unknown_country.column4
+[label.column10, label.column15, label.column3] --> label.column6
+[label.column11, label.column12, label.column15, label.column3] --> label.column10
+[label.column11, label.column12, label.column15, label.column4, label.column8] --> label.column9
+[label.column11, label.column12, label.column15, label.column7, label.column8] --> label.column9
+[label.column11, label.column12, label.column3, label.column4, label.column6] --> label.column5
+[label.column11, label.column12, label.column3, label.column4, label.column9] --> label.column8
+[label.column11, label.column15, label.column5] --> label.column16
+[label.column11, label.column3, label.column4, label.column5, label.column9] --> label.column8
+[label.column11, label.column3, label.column4, label.column6, label.column7] --> label.column5
+[label.column11, label.column3, label.column4, label.column6, label.column8] --> label.column5
+[label.column12, label.column15, label.column16, label.column3] --> label.column5
+[label.column12, label.column15, label.column3, label.column4] --> label.column10
+[label.column12, label.column15, label.column3, label.column7] --> label.column5
+[label.column12, label.column15, label.column3, label.column8] --> label.column5, label.column7
+[label.column12, label.column15, label.column3] --> label.column6
+[label.column12, label.column15, label.column4, label.column7, label.column8] --> label.column9
+[label.column12, label.column15, label.column5, label.column7, label.column8] --> label.column9
+[label.column12, label.column16, label.column3, label.column4, label.column6] --> label.column5
+[label.column12, label.column16, label.column3, label.column4] --> label.column7, label.column8
+[label.column12, label.column3, label.column4, label.column5, label.column9] --> label.column8
+[label.column12, label.column3, label.column4, label.column6, label.column7] --> label.column5
+[label.column12, label.column3, label.column4, label.column6, label.column8] --> label.column5
+[label.column12, label.column3] --> label.column14
+[label.column13, label.column15] --> label.column16
+[label.column13, label.column3] --> label.column1, label.column10, label.column11, label.column12, label.column14, label.column15, label.column16, label.column2, label.column4, label.column5, label.column6, label.column7, label.column8, label.column9
+[label.column15, label.column3, label.column4] --> label.column5, label.column6, label.column7, label.column8
+[label.column15, label.column3, label.column5] --> label.column16
+[label.column15, label.column3] --> label.column14, label.column9
+[label.column15, label.column4] --> label.column16
+[label.column15, label.column7] --> label.column16
+[label.column15, label.column8] --> label.column16
+[label.column16, label.column3, label.column4, label.column5] --> label.column7, label.column8
+[label.column16, label.column3, label.column4, label.column8] --> label.column7
+[label.column16, label.column3, label.column4] --> label.column9
+[label.column16, label.column3, label.column5] --> label.column9
+[label.column1] --> label.column10, label.column11, label.column12, label.column13, label.column14, label.column15, label.column16, label.column2, label.column3, label.column4, label.column5, label.column6, label.column7, label.column8, label.column9
+[label.column2] --> label.column1, label.column10, label.column11, label.column12, label.column13, label.column14, label.column15, label.column16, label.column3, label.column4, label.column5, label.column6, label.column7, label.column8, label.column9
+[label.column3, label.column5] --> label.column6
+[label.column3, label.column7] --> label.column8, label.column9
+[label.column3, label.column8] --> label.column9
+[release.column1] --> release.column10, release.column11, release.column12, release.column13, release.column14, release.column2, release.column3, release.column4, release.column5, release.column6, release.column7, release.column8, release.column9
+[release.column2] --> release.column1, release.column10, release.column11, release.column12, release.column13, release.column14, release.column3, release.column4, release.column5, release.column6, release.column7, release.column8, release.column9
+[tag.column1] --> tag.column2, tag.column3
+[tag.column2] --> tag.column1, tag.column3
+[work_attribute.column1] --> work_attribute.column2, work_attribute.column3, work_attribute.column4, work_attribute.column5
+[label_meta.column1] --> label_meta.column2, label_meta.column3
+[] --> documentation.l_label_label_example.column2
+[documentation.l_label_label_example.column1] --> documentation.l_label_label_example.column3
+[] --> sitemaps.work_lastmod.column3
+[sitemaps.work_lastmod.column1, sitemaps.work_lastmod.column4] --> sitemaps.work_lastmod.column2, sitemaps.work_lastmod.column5, sitemaps.work_lastmod.column6, sitemaps.work_lastmod.column7
+[sitemaps.work_lastmod.column1, sitemaps.work_lastmod.column6] --> sitemaps.work_lastmod.column7
+[sitemaps.work_lastmod.column1, sitemaps.work_lastmod.column7] --> sitemaps.work_lastmod.column6
+[sitemaps.work_lastmod.column2] --> sitemaps.work_lastmod.column1, sitemaps.work_lastmod.column4, sitemaps.work_lastmod.column5, sitemaps.work_lastmod.column6, sitemaps.work_lastmod.column7
+[sitemaps.work_lastmod.column4, sitemaps.work_lastmod.column5] --> sitemaps.work_lastmod.column2
+[sitemaps.work_lastmod.column5] --> sitemaps.work_lastmod.column1, sitemaps.work_lastmod.column6, sitemaps.work_lastmod.column7
+[artist_meta.column1] --> artist_meta.column2, artist_meta.column3
+[] --> documentation.l_artist_url_example.column2, documentation.l_artist_url_example.column3
+[] --> l_recording_release.column5, l_recording_release.column7, l_recording_release.column8, l_recording_release.column9
+[l_recording_release.column1] --> l_recording_release.column2, l_recording_release.column3, l_recording_release.column4, l_recording_release.column6
+[l_recording_release.column3, l_recording_release.column4] --> l_recording_release.column1, l_recording_release.column6
+[l_recording_release.column3] --> l_recording_release.column2
+[l_recording_release.column4] --> l_recording_release.column2
+[release_group_tag.column1, release_group_tag.column2] --> release_group_tag.column3, release_group_tag.column4
+[event_gid_redirect.column1] --> event_gid_redirect.column2, event_gid_redirect.column3
+[event_gid_redirect.column3] --> event_gid_redirect.column2
+[] --> event_type.column3
+[event_type.column1] --> event_type.column2, event_type.column4, event_type.column5
+[event_type.column2] --> event_type.column1, event_type.column4, event_type.column5
+[event_type.column4] --> event_type.column1, event_type.column2, event_type.column5
+[event_type.column5] --> event_type.column1, event_type.column2, event_type.column4
+[] --> area_alias_type.column3, area_alias_type.column4, area_alias_type.column5
+[area_alias_type.column1] --> area_alias_type.column2
+[area_alias_type.column2] --> area_alias_type.column1
+[] --> series_ordering_type.column3
+[series_ordering_type.column1] --> series_ordering_type.column2, series_ordering_type.column4, series_ordering_type.column5
+[series_ordering_type.column2] --> series_ordering_type.column1, series_ordering_type.column4, series_ordering_type.column5
+[series_ordering_type.column4] --> series_ordering_type.column1, series_ordering_type.column2, series_ordering_type.column5
+[series_ordering_type.column5] --> series_ordering_type.column1, series_ordering_type.column2, series_ordering_type.column4
+[work_gid_redirect.column1] --> work_gid_redirect.column2, work_gid_redirect.column3
+[] --> work_alias_type.column3, work_alias_type.column4, work_alias_type.column5
+[work_alias_type.column1] --> work_alias_type.column2
+[work_alias_type.column2] --> work_alias_type.column1
+[] --> documentation.l_recording_url_example.column2, documentation.l_recording_url_example.column3
+[sitemaps.label_lastmod.column1, sitemaps.label_lastmod.column3, sitemaps.label_lastmod.column4] --> sitemaps.label_lastmod.column2, sitemaps.label_lastmod.column5, sitemaps.label_lastmod.column6, sitemaps.label_lastmod.column7
+[sitemaps.label_lastmod.column1, sitemaps.label_lastmod.column7] --> sitemaps.label_lastmod.column6
+[sitemaps.label_lastmod.column2] --> sitemaps.label_lastmod.column1, sitemaps.label_lastmod.column3, sitemaps.label_lastmod.column4, sitemaps.label_lastmod.column5, sitemaps.label_lastmod.column6, sitemaps.label_lastmod.column7
+[sitemaps.label_lastmod.column4, sitemaps.label_lastmod.column5] --> sitemaps.label_lastmod.column2, sitemaps.label_lastmod.column6, sitemaps.label_lastmod.column7
+[sitemaps.label_lastmod.column5, sitemaps.label_lastmod.column7] --> sitemaps.label_lastmod.column6
+[sitemaps.label_lastmod.column5] --> sitemaps.label_lastmod.column1, sitemaps.label_lastmod.column3
+[sitemaps.label_lastmod.column6] --> sitemaps.label_lastmod.column7
+[] --> sitemaps.release_group_lastmod.column3
+[sitemaps.release_group_lastmod.column1, sitemaps.release_group_lastmod.column4] --> sitemaps.release_group_lastmod.column2, sitemaps.release_group_lastmod.column5, sitemaps.release_group_lastmod.column6, sitemaps.release_group_lastmod.column7
+[sitemaps.release_group_lastmod.column1, sitemaps.release_group_lastmod.column7] --> sitemaps.release_group_lastmod.column6
+[sitemaps.release_group_lastmod.column2] --> sitemaps.release_group_lastmod.column1, sitemaps.release_group_lastmod.column4, sitemaps.release_group_lastmod.column5, sitemaps.release_group_lastmod.column6, sitemaps.release_group_lastmod.column7
+[sitemaps.release_group_lastmod.column5] --> sitemaps.release_group_lastmod.column1, sitemaps.release_group_lastmod.column2, sitemaps.release_group_lastmod.column4, sitemaps.release_group_lastmod.column6, sitemaps.release_group_lastmod.column7
+[] --> documentation.l_artist_artist_example.column2, documentation.l_artist_artist_example.column3
+[] --> l_recording_work.column7, l_recording_work.column8, l_recording_work.column9
+[l_recording_work.column1] --> l_recording_work.column2, l_recording_work.column3, l_recording_work.column4, l_recording_work.column5, l_recording_work.column6
+[l_recording_work.column2, l_recording_work.column3, l_recording_work.column4] --> l_recording_work.column1, l_recording_work.column5, l_recording_work.column6
+[] --> l_recording_url.column7, l_recording_url.column8, l_recording_url.column9
+[l_recording_url.column1] --> l_recording_url.column2, l_recording_url.column3, l_recording_url.column4, l_recording_url.column5, l_recording_url.column6
+[l_recording_url.column2, l_recording_url.column3, l_recording_url.column4] --> l_recording_url.column1, l_recording_url.column6
+[l_recording_url.column4] --> l_recording_url.column5
+[l_recording_url.column6] --> l_recording_url.column5
+[] --> l_place_place.column7, l_place_place.column8, l_place_place.column9
+[l_place_place.column1] --> l_place_place.column2, l_place_place.column3, l_place_place.column4, l_place_place.column5, l_place_place.column6
+[l_place_place.column2, l_place_place.column4] --> l_place_place.column1, l_place_place.column3, l_place_place.column6
+[l_place_place.column4, l_place_place.column6] --> l_place_place.column1, l_place_place.column2
+[l_place_place.column4] --> l_place_place.column5
+[l_place_place.column6] --> l_place_place.column3, l_place_place.column5
+[] --> documentation.l_release_group_release_group_example.column2, documentation.l_release_group_release_group_example.column3
+[] --> release_raw.column8
+[release_raw.column1] --> release_raw.column10, release_raw.column2, release_raw.column3, release_raw.column4, release_raw.column5, release_raw.column6, release_raw.column7, release_raw.column9
+[release_raw.column4] --> release_raw.column1, release_raw.column10, release_raw.column2, release_raw.column3, release_raw.column5, release_raw.column6, release_raw.column7, release_raw.column9
+[release_raw.column5] --> release_raw.column1, release_raw.column10, release_raw.column2, release_raw.column3, release_raw.column4, release_raw.column6, release_raw.column7, release_raw.column9
+[work_meta.column1] --> work_meta.column2, work_meta.column3
+[] --> l_event_recording.column2, l_event_recording.column7, l_event_recording.column8, l_event_recording.column9
+[l_event_recording.column1] --> l_event_recording.column3, l_event_recording.column4, l_event_recording.column5, l_event_recording.column6
+[l_event_recording.column3, l_event_recording.column4] --> l_event_recording.column1
+[l_event_recording.column4] --> l_event_recording.column5, l_event_recording.column6
+[l_event_recording.column6] --> l_event_recording.column5
+[] --> l_series_url.column7, l_series_url.column8, l_series_url.column9
+[l_series_url.column1] --> l_series_url.column2, l_series_url.column3, l_series_url.column4, l_series_url.column5, l_series_url.column6
+[l_series_url.column3, l_series_url.column4] --> l_series_url.column1, l_series_url.column6
+[l_series_url.column3] --> l_series_url.column5
+[l_series_url.column4, l_series_url.column6] --> l_series_url.column1
+[l_series_url.column4] --> l_series_url.column2, l_series_url.column5
+[l_series_url.column6] --> l_series_url.column3, l_series_url.column5
+[] --> label_ipi.column3
+[label_ipi.column1, label_ipi.column2] --> label_ipi.column4
+[] --> l_artist_series.column5, l_artist_series.column7, l_artist_series.column8, l_artist_series.column9
+[l_artist_series.column1] --> l_artist_series.column2, l_artist_series.column3, l_artist_series.column4, l_artist_series.column6
+[l_artist_series.column2, l_artist_series.column3, l_artist_series.column4] --> l_artist_series.column1
+[l_artist_series.column3, l_artist_series.column4] --> l_artist_series.column6
+[] --> l_artist_work.column7, l_artist_work.column9
+[l_artist_work.column1] --> l_artist_work.column2, l_artist_work.column3, l_artist_work.column4, l_artist_work.column5, l_artist_work.column6, l_artist_work.column8
+[l_artist_work.column2, l_artist_work.column3, l_artist_work.column4] --> l_artist_work.column1, l_artist_work.column5, l_artist_work.column6, l_artist_work.column8
+[l_artist_work.column2, l_artist_work.column3, l_artist_work.column6] --> l_artist_work.column5
+[] --> documentation.l_artist_release_group_example.column2
+[documentation.l_artist_release_group_example.column1] --> documentation.l_artist_release_group_example.column3
+[] --> l_area_recording.column7, l_area_recording.column8, l_area_recording.column9
+[l_area_recording.column1] --> l_area_recording.column2, l_area_recording.column3, l_area_recording.column4, l_area_recording.column5, l_area_recording.column6
+[l_area_recording.column2, l_area_recording.column3, l_area_recording.column4] --> l_area_recording.column1, l_area_recording.column6
+[l_area_recording.column4] --> l_area_recording.column5
+[l_area_recording.column6] --> l_area_recording.column5
+[] --> documentation.l_place_work_example.column2, documentation.l_place_work_example.column3
+[] --> l_event_release_group.column7, l_event_release_group.column8, l_event_release_group.column9
+[l_event_release_group.column1] --> l_event_release_group.column2, l_event_release_group.column3, l_event_release_group.column4, l_event_release_group.column5, l_event_release_group.column6
+[l_event_release_group.column2, l_event_release_group.column3, l_event_release_group.column4] --> l_event_release_group.column1
+[l_event_release_group.column2, l_event_release_group.column6] --> l_event_release_group.column1
+[l_event_release_group.column3, l_event_release_group.column4] --> l_event_release_group.column6
+[l_event_release_group.column3] --> l_event_release_group.column5
+[l_event_release_group.column4] --> l_event_release_group.column5
+[l_event_release_group.column6] --> l_event_release_group.column3, l_event_release_group.column4, l_event_release_group.column5
+[] --> documentation.l_area_area_example.column1, documentation.l_area_area_example.column2, documentation.l_area_area_example.column3
+[] --> l_area_area.column5, l_area_area.column7, l_area_area.column8, l_area_area.column9
+[l_area_area.column1] --> l_area_area.column2, l_area_area.column3, l_area_area.column4, l_area_area.column6
+[l_area_area.column3, l_area_area.column4] --> l_area_area.column1, l_area_area.column6
+[l_area_area.column4] --> l_area_area.column2
+[l_area_area.column6] --> l_area_area.column2
+[] --> artist_ipi.column3
+[artist_ipi.column1, artist_ipi.column2] --> artist_ipi.column4
+[] --> artist_isni.column3
+[artist_isni.column1, artist_isni.column2] --> artist_isni.column4
+[artist_isni.column4] --> artist_isni.column1
+[] --> documentation.l_artist_label_example.column2, documentation.l_artist_label_example.column3
+[] --> documentation.l_event_release_group_example.column1, documentation.l_event_release_group_example.column2, documentation.l_event_release_group_example.column3
+[] --> series_alias.column10, series_alias.column11, series_alias.column13, series_alias.column14, series_alias.column5
+[series_alias.column12, series_alias.column2, series_alias.column7] --> series_alias.column16
+[series_alias.column12, series_alias.column2] --> series_alias.column9
+[series_alias.column15, series_alias.column4, series_alias.column6] --> series_alias.column1, series_alias.column3, series_alias.column8
+[series_alias.column15, series_alias.column6] --> series_alias.column2, series_alias.column7
+[series_alias.column16, series_alias.column2, series_alias.column9] --> series_alias.column12
+[series_alias.column1] --> series_alias.column12, series_alias.column15, series_alias.column16, series_alias.column2, series_alias.column3, series_alias.column4, series_alias.column6, series_alias.column7, series_alias.column8, series_alias.column9
+[series_alias.column2, series_alias.column3] --> series_alias.column1, series_alias.column4, series_alias.column6, series_alias.column8
+[series_alias.column2, series_alias.column6] --> series_alias.column7
+[series_alias.column2, series_alias.column8] --> series_alias.column1, series_alias.column6
+[series_alias.column3, series_alias.column4] --> series_alias.column8
+[series_alias.column3, series_alias.column6] --> series_alias.column1, series_alias.column2, series_alias.column4, series_alias.column8
+[series_alias.column3] --> series_alias.column12, series_alias.column15, series_alias.column16, series_alias.column7, series_alias.column9
+[series_alias.column4, series_alias.column6] --> series_alias.column2, series_alias.column7
+[series_alias.column6, series_alias.column7] --> series_alias.column2
+[series_alias.column6, series_alias.column8] --> series_alias.column1, series_alias.column2
+[series_alias.column6] --> series_alias.column12, series_alias.column16, series_alias.column9
+[series_alias.column8] --> series_alias.column12, series_alias.column15, series_alias.column16, series_alias.column3, series_alias.column4, series_alias.column7, series_alias.column9
+[] --> documentation.l_release_group_url_example.column2, documentation.l_release_group_url_example.column3
+[orderable_link_type.column1] --> orderable_link_type.column2
+[] --> documentation.l_artist_recording_example.column2, documentation.l_artist_recording_example.column3
+[link_attribute_credit.column1, link_attribute_credit.column2] --> link_attribute_credit.column3
+[] --> documentation.l_artist_release_example.column2, documentation.l_artist_release_example.column3
+[] --> sitemaps.recording_lastmod.column3
+[sitemaps.recording_lastmod.column1, sitemaps.recording_lastmod.column4] --> sitemaps.recording_lastmod.column2, sitemaps.recording_lastmod.column5, sitemaps.recording_lastmod.column6, sitemaps.recording_lastmod.column7
+[sitemaps.recording_lastmod.column1, sitemaps.recording_lastmod.column7] --> sitemaps.recording_lastmod.column6
+[sitemaps.recording_lastmod.column2] --> sitemaps.recording_lastmod.column1, sitemaps.recording_lastmod.column4, sitemaps.recording_lastmod.column5, sitemaps.recording_lastmod.column6, sitemaps.recording_lastmod.column7
+[sitemaps.recording_lastmod.column4, sitemaps.recording_lastmod.column5] --> sitemaps.recording_lastmod.column2
+[sitemaps.recording_lastmod.column5] --> sitemaps.recording_lastmod.column1, sitemaps.recording_lastmod.column6, sitemaps.recording_lastmod.column7
+[sitemaps.recording_lastmod.column6] --> sitemaps.recording_lastmod.column7
+[] --> label_alias_type.column3, label_alias_type.column4, label_alias_type.column5
+[label_alias_type.column1] --> label_alias_type.column2
+[label_alias_type.column2] --> label_alias_type.column1
+[recording_gid_redirect.column1] --> recording_gid_redirect.column2, recording_gid_redirect.column3
+[place_gid_redirect.column1] --> place_gid_redirect.column2, place_gid_redirect.column3
+[place_gid_redirect.column3] --> place_gid_redirect.column2
+[link.column1] --> link.column10, link.column11, link.column2, link.column3, link.column4, link.column5, link.column6, link.column7, link.column8, link.column9
+[] --> documentation.l_release_group_series_example.column1, documentation.l_release_group_series_example.column2, documentation.l_release_group_series_example.column3
+[cover_art_archive.release_group_cover_art.column1] --> cover_art_archive.release_group_cover_art.column2
+[cover_art_archive.release_group_cover_art.column2] --> cover_art_archive.release_group_cover_art.column1
+[recording.column1] --> recording.column2, recording.column3, recording.column4, recording.column5, recording.column6, recording.column7, recording.column8, recording.column9
+[recording.column2] --> recording.column1, recording.column3, recording.column4, recording.column5, recording.column6, recording.column7, recording.column8, recording.column9
+[] --> documentation.l_recording_work_example.column2, documentation.l_recording_work_example.column3
+[] --> l_release_url.column7, l_release_url.column8, l_release_url.column9
+[l_release_url.column1] --> l_release_url.column2, l_release_url.column3, l_release_url.column4, l_release_url.column5, l_release_url.column6
+[l_release_url.column2, l_release_url.column3, l_release_url.column4] --> l_release_url.column1, l_release_url.column5, l_release_url.column6
+[l_release_url.column4, l_release_url.column6] --> l_release_url.column5
+[] --> release_packaging.column3
+[release_packaging.column1] --> release_packaging.column2, release_packaging.column4, release_packaging.column5
+[release_packaging.column2] --> release_packaging.column1, release_packaging.column4, release_packaging.column5
+[edit_label.column1] --> edit_label.column3
+[] --> label_alias.column5
+[label_alias.column10, label_alias.column12, label_alias.column2, label_alias.column4] --> label_alias.column11
+[label_alias.column10, label_alias.column12, label_alias.column4, label_alias.column9] --> label_alias.column11
+[label_alias.column10, label_alias.column12, label_alias.column6] --> label_alias.column9
+[label_alias.column10, label_alias.column13, label_alias.column2, label_alias.column4] --> label_alias.column11
+[label_alias.column10, label_alias.column13, label_alias.column4, label_alias.column9] --> label_alias.column11
+[label_alias.column10, label_alias.column14, label_alias.column16, label_alias.column2] --> label_alias.column13
+[label_alias.column10, label_alias.column14, label_alias.column16, label_alias.column6] --> label_alias.column13
+[label_alias.column10, label_alias.column14, label_alias.column2, label_alias.column4] --> label_alias.column11
+[label_alias.column10, label_alias.column14, label_alias.column3] --> label_alias.column13
+[label_alias.column10, label_alias.column14, label_alias.column8] --> label_alias.column13
+[label_alias.column10, label_alias.column15, label_alias.column16, label_alias.column2, label_alias.column3] --> label_alias.column9
+[label_alias.column10, label_alias.column15, label_alias.column16, label_alias.column2, label_alias.column8] --> label_alias.column9
+[label_alias.column10, label_alias.column15, label_alias.column16, label_alias.column6] --> label_alias.column13
+[label_alias.column10, label_alias.column15, label_alias.column6] --> label_alias.column14
+[label_alias.column10, label_alias.column16, label_alias.column2, label_alias.column9] --> label_alias.column13, label_alias.column14
+[label_alias.column10, label_alias.column16, label_alias.column3, label_alias.column4] --> label_alias.column9
+[label_alias.column10, label_alias.column16, label_alias.column3] --> label_alias.column12, label_alias.column13
+[label_alias.column10, label_alias.column16, label_alias.column4, label_alias.column8] --> label_alias.column9
+[label_alias.column10, label_alias.column16, label_alias.column4, label_alias.column9] --> label_alias.column11
+[label_alias.column10, label_alias.column16, label_alias.column8] --> label_alias.column12, label_alias.column13
+[label_alias.column10, label_alias.column2, label_alias.column3, label_alias.column4] --> label_alias.column12
+[label_alias.column10, label_alias.column2, label_alias.column3] --> label_alias.column13
+[label_alias.column10, label_alias.column2, label_alias.column4, label_alias.column8] --> label_alias.column12
+[label_alias.column10, label_alias.column2, label_alias.column4, label_alias.column9] --> label_alias.column11
+[label_alias.column10, label_alias.column2, label_alias.column7, label_alias.column9] --> label_alias.column13, label_alias.column14
+[label_alias.column10, label_alias.column2, label_alias.column8] --> label_alias.column13
+[label_alias.column10, label_alias.column3, label_alias.column4] --> label_alias.column15
+[label_alias.column10, label_alias.column3, label_alias.column7] --> label_alias.column13, label_alias.column15
+[label_alias.column10, label_alias.column3] --> label_alias.column11
+[label_alias.column10, label_alias.column6, label_alias.column9] --> label_alias.column12, label_alias.column13, label_alias.column14
+[label_alias.column10, label_alias.column6] --> label_alias.column11
+[label_alias.column10, label_alias.column7, label_alias.column8] --> label_alias.column13
+[label_alias.column10, label_alias.column8] --> label_alias.column11
+[label_alias.column11, label_alias.column12, label_alias.column16, label_alias.column3, label_alias.column4] --> label_alias.column9
+[label_alias.column11, label_alias.column12, label_alias.column16, label_alias.column4, label_alias.column8] --> label_alias.column9
+[label_alias.column11, label_alias.column12, label_alias.column2, label_alias.column8] --> label_alias.column10
+[label_alias.column11, label_alias.column12, label_alias.column3] --> label_alias.column10
+[label_alias.column11, label_alias.column12, label_alias.column4, label_alias.column8] --> label_alias.column10
+[label_alias.column11, label_alias.column13, label_alias.column15, label_alias.column6] --> label_alias.column10
+[label_alias.column11, label_alias.column13, label_alias.column16, label_alias.column3, label_alias.column4] --> label_alias.column9
+[label_alias.column11, label_alias.column13, label_alias.column16, label_alias.column4, label_alias.column8] --> label_alias.column9
+[label_alias.column11, label_alias.column13, label_alias.column2, label_alias.column3, label_alias.column4] --> label_alias.column12
+[label_alias.column11, label_alias.column13, label_alias.column2, label_alias.column4, label_alias.column8] --> label_alias.column12
+[label_alias.column11, label_alias.column13, label_alias.column2, label_alias.column8] --> label_alias.column10
+[label_alias.column11, label_alias.column13, label_alias.column3] --> label_alias.column10
+[label_alias.column11, label_alias.column13, label_alias.column4, label_alias.column8] --> label_alias.column10
+[label_alias.column11, label_alias.column13, label_alias.column7, label_alias.column8] --> label_alias.column10
+[label_alias.column11, label_alias.column15, label_alias.column16, label_alias.column2, label_alias.column3] --> label_alias.column9
+[label_alias.column11, label_alias.column15, label_alias.column16, label_alias.column2, label_alias.column8] --> label_alias.column9
+[label_alias.column11, label_alias.column15, label_alias.column2, label_alias.column3, label_alias.column4] --> label_alias.column12
+[label_alias.column11, label_alias.column15, label_alias.column2, label_alias.column3] --> label_alias.column10
+[label_alias.column11, label_alias.column15, label_alias.column2, label_alias.column4, label_alias.column8] --> label_alias.column12
+[label_alias.column11, label_alias.column15, label_alias.column2, label_alias.column8] --> label_alias.column10
+[label_alias.column11, label_alias.column15, label_alias.column3, label_alias.column7] --> label_alias.column10
+[label_alias.column11, label_alias.column15, label_alias.column6] --> label_alias.column14
+[label_alias.column11, label_alias.column15, label_alias.column7, label_alias.column8] --> label_alias.column10
+[label_alias.column11, label_alias.column16, label_alias.column2, label_alias.column3, label_alias.column4] --> label_alias.column9
+[label_alias.column11, label_alias.column16, label_alias.column2, label_alias.column3] --> label_alias.column10
+[label_alias.column11, label_alias.column16, label_alias.column2, label_alias.column4, label_alias.column8] --> label_alias.column9
+[label_alias.column11, label_alias.column16, label_alias.column2, label_alias.column8] --> label_alias.column10
+[label_alias.column11, label_alias.column16, label_alias.column2, label_alias.column9] --> label_alias.column13, label_alias.column14
+[label_alias.column11, label_alias.column2, label_alias.column4, label_alias.column9] --> label_alias.column10
+[label_alias.column11, label_alias.column2, label_alias.column7, label_alias.column9] --> label_alias.column13, label_alias.column14
+[label_alias.column11, label_alias.column6, label_alias.column9] --> label_alias.column10, label_alias.column12, label_alias.column13, label_alias.column14
+[label_alias.column12, label_alias.column13] --> label_alias.column14
+[label_alias.column12, label_alias.column14, label_alias.column4, label_alias.column9] --> label_alias.column13
+[label_alias.column12, label_alias.column15, label_alias.column2, label_alias.column3, label_alias.column8] --> label_alias.column4
+[label_alias.column12, label_alias.column15, label_alias.column2, label_alias.column7, label_alias.column9] --> label_alias.column16
+[label_alias.column12, label_alias.column15, label_alias.column4, label_alias.column7, label_alias.column9] --> label_alias.column13, label_alias.column14
+[label_alias.column12, label_alias.column15, label_alias.column6] --> label_alias.column10, label_alias.column16, label_alias.column9
+[label_alias.column12, label_alias.column2, label_alias.column3, label_alias.column7, label_alias.column8] --> label_alias.column4
+[label_alias.column12, label_alias.column2, label_alias.column4, label_alias.column9] --> label_alias.column10, label_alias.column11
+[label_alias.column12, label_alias.column2] --> label_alias.column13, label_alias.column14
+[label_alias.column12, label_alias.column3, label_alias.column4] --> label_alias.column15
+[label_alias.column12, label_alias.column3, label_alias.column7] --> label_alias.column10, label_alias.column11, label_alias.column15
+[label_alias.column12, label_alias.column3, label_alias.column9] --> label_alias.column16
+[label_alias.column12, label_alias.column3] --> label_alias.column13, label_alias.column14
+[label_alias.column12, label_alias.column6, label_alias.column9] --> label_alias.column10
+[label_alias.column12, label_alias.column6] --> label_alias.column11, label_alias.column13, label_alias.column14
+[label_alias.column12, label_alias.column7, label_alias.column8] --> label_alias.column10, label_alias.column11
+[label_alias.column12, label_alias.column8, label_alias.column9] --> label_alias.column16
+[label_alias.column12, label_alias.column8] --> label_alias.column13, label_alias.column14
+[label_alias.column13, label_alias.column15, label_alias.column6] --> label_alias.column16
+[label_alias.column13, label_alias.column16, label_alias.column3] --> label_alias.column12
+[label_alias.column13, label_alias.column16, label_alias.column8] --> label_alias.column12
+[label_alias.column13, label_alias.column2, label_alias.column4, label_alias.column9] --> label_alias.column10, label_alias.column11
+[label_alias.column13, label_alias.column2] --> label_alias.column14
+[label_alias.column13, label_alias.column3, label_alias.column4] --> label_alias.column15
+[label_alias.column13, label_alias.column3, label_alias.column7] --> label_alias.column15
+[label_alias.column13, label_alias.column3] --> label_alias.column14
+[label_alias.column13, label_alias.column6, label_alias.column9] --> label_alias.column10, label_alias.column11, label_alias.column12
+[label_alias.column13, label_alias.column6] --> label_alias.column14
+[label_alias.column13, label_alias.column8] --> label_alias.column14
+[label_alias.column14, label_alias.column16, label_alias.column2, label_alias.column9] --> label_alias.column13
+[label_alias.column14, label_alias.column2, label_alias.column4, label_alias.column9] --> label_alias.column10, label_alias.column11, label_alias.column13
+[label_alias.column14, label_alias.column2, label_alias.column7, label_alias.column9] --> label_alias.column13
+[label_alias.column14, label_alias.column6, label_alias.column9] --> label_alias.column10, label_alias.column11, label_alias.column12, label_alias.column13
+[label_alias.column15, label_alias.column16, label_alias.column2, label_alias.column3, label_alias.column8] --> label_alias.column4
+[label_alias.column15, label_alias.column2, label_alias.column3] --> label_alias.column13
+[label_alias.column15, label_alias.column2, label_alias.column8] --> label_alias.column13
+[label_alias.column15, label_alias.column3, label_alias.column7] --> label_alias.column13
+[label_alias.column15, label_alias.column6, label_alias.column9] --> label_alias.column16
+[label_alias.column15, label_alias.column7, label_alias.column8] --> label_alias.column13
+[label_alias.column16, label_alias.column2, label_alias.column3, label_alias.column7, label_alias.column8] --> label_alias.column4
+[label_alias.column16, label_alias.column2, label_alias.column3] --> label_alias.column12, label_alias.column13
+[label_alias.column16, label_alias.column2, label_alias.column8] --> label_alias.column12, label_alias.column13
+[label_alias.column16, label_alias.column3, label_alias.column4] --> label_alias.column15
+[label_alias.column16, label_alias.column3, label_alias.column7] --> label_alias.column10, label_alias.column11, label_alias.column12, label_alias.column13, label_alias.column15, label_alias.column9
+[label_alias.column16, label_alias.column3, label_alias.column9] --> label_alias.column12
+[label_alias.column16, label_alias.column3] --> label_alias.column14
+[label_alias.column16, label_alias.column7, label_alias.column8] --> label_alias.column10, label_alias.column11, label_alias.column12, label_alias.column13, label_alias.column9
+[label_alias.column16, label_alias.column8, label_alias.column9] --> label_alias.column12
+[label_alias.column16, label_alias.column8] --> label_alias.column14
+[label_alias.column1] --> label_alias.column10, label_alias.column11, label_alias.column12, label_alias.column13, label_alias.column14, label_alias.column15, label_alias.column16, label_alias.column2, label_alias.column3, label_alias.column4, label_alias.column6, label_alias.column7, label_alias.column8, label_alias.column9
+[label_alias.column2, label_alias.column3] --> label_alias.column14
+[label_alias.column2, label_alias.column8] --> label_alias.column14
+[label_alias.column3, label_alias.column4, label_alias.column6] --> label_alias.column7, label_alias.column8
+[label_alias.column3, label_alias.column4, label_alias.column9] --> label_alias.column12, label_alias.column15, label_alias.column16
+[label_alias.column3, label_alias.column6, label_alias.column7] --> label_alias.column4, label_alias.column8
+[label_alias.column3, label_alias.column6] --> label_alias.column10, label_alias.column11, label_alias.column12, label_alias.column13, label_alias.column14, label_alias.column15, label_alias.column16, label_alias.column9
+[label_alias.column3, label_alias.column7, label_alias.column9] --> label_alias.column15
+[label_alias.column3, label_alias.column7] --> label_alias.column14
+[label_alias.column3, label_alias.column9] --> label_alias.column10, label_alias.column11, label_alias.column13, label_alias.column14
+[label_alias.column4, label_alias.column8, label_alias.column9] --> label_alias.column12, label_alias.column16
+[label_alias.column6, label_alias.column8] --> label_alias.column10, label_alias.column11, label_alias.column12, label_alias.column13, label_alias.column14, label_alias.column16, label_alias.column4, label_alias.column7, label_alias.column9
+[label_alias.column7, label_alias.column8] --> label_alias.column14
+[label_alias.column8, label_alias.column9] --> label_alias.column10, label_alias.column11, label_alias.column13, label_alias.column14
+[medium_cdtoc.column1] --> medium_cdtoc.column2, medium_cdtoc.column3, medium_cdtoc.column4, medium_cdtoc.column5
+[medium_cdtoc.column2, medium_cdtoc.column3] --> medium_cdtoc.column1, medium_cdtoc.column4, medium_cdtoc.column5
+[medium_cdtoc.column5] --> medium_cdtoc.column4
+[series_tag.column1, series_tag.column2] --> series_tag.column3, series_tag.column4
+[series_tag.column2, series_tag.column4] --> series_tag.column3
+[series_tag.column4] --> series_tag.column1
+[] --> documentation.l_label_url_example.column2, documentation.l_label_url_example.column3
+[url.column1] --> url.column2, url.column3, url.column4, url.column5
+[url.column2] --> url.column1, url.column3, url.column4, url.column5
+[url.column3] --> url.column1, url.column2, url.column4, url.column5
+[url.column5] --> url.column4
+[area_gid_redirect.column1] --> area_gid_redirect.column2, area_gid_redirect.column3
+[area_gid_redirect.column3] --> area_gid_redirect.column1, area_gid_redirect.column2
+[] --> l_instrument_instrument.column5, l_instrument_instrument.column7, l_instrument_instrument.column8, l_instrument_instrument.column9
+[l_instrument_instrument.column1] --> l_instrument_instrument.column2, l_instrument_instrument.column3, l_instrument_instrument.column4, l_instrument_instrument.column6
+[l_instrument_instrument.column3, l_instrument_instrument.column4] --> l_instrument_instrument.column1, l_instrument_instrument.column2, l_instrument_instrument.column6
+[series_annotation.column2] --> series_annotation.column1
+[edit_note.column1] --> edit_note.column2, edit_note.column3, edit_note.column4, edit_note.column5
+[] --> documentation.l_area_url_example.column2, documentation.l_area_url_example.column3
+[] --> l_release_group_url.column7, l_release_group_url.column8, l_release_group_url.column9
+[l_release_group_url.column1] --> l_release_group_url.column2, l_release_group_url.column3, l_release_group_url.column4, l_release_group_url.column5, l_release_group_url.column6
+[l_release_group_url.column2, l_release_group_url.column3, l_release_group_url.column4] --> l_release_group_url.column1
+[l_release_group_url.column3, l_release_group_url.column4] --> l_release_group_url.column5, l_release_group_url.column6
+[l_release_group_url.column6] --> l_release_group_url.column5
+[] --> work_attribute_type_allowed_value.column4, work_attribute_type_allowed_value.column6
+[work_attribute_type_allowed_value.column1] --> work_attribute_type_allowed_value.column2, work_attribute_type_allowed_value.column3, work_attribute_type_allowed_value.column5
+[work_attribute_type_allowed_value.column2, work_attribute_type_allowed_value.column3] --> work_attribute_type_allowed_value.column1
+[work_attribute_type_allowed_value.column3] --> work_attribute_type_allowed_value.column5
+[release_country.column1, release_country.column2] --> release_country.column3, release_country.column4, release_country.column5
+[] --> iswc.column4
+[iswc.column1] --> iswc.column2, iswc.column3, iswc.column5, iswc.column6
+[iswc.column2, iswc.column3] --> iswc.column1, iswc.column5, iswc.column6
+[iswc.column6] --> iswc.column5
+[release_gid_redirect.column1] --> release_gid_redirect.column2, release_gid_redirect.column3
+[annotation.column1] --> annotation.column2, annotation.column3, annotation.column4, annotation.column5
+[annotation.column3, annotation.column5] --> annotation.column4
+[annotation.column5] --> annotation.column2
+[] --> l_artist_place.column7, l_artist_place.column9
+[l_artist_place.column1] --> l_artist_place.column2, l_artist_place.column3, l_artist_place.column4, l_artist_place.column5, l_artist_place.column6, l_artist_place.column8
+[l_artist_place.column2, l_artist_place.column3, l_artist_place.column4] --> l_artist_place.column1, l_artist_place.column6
+[l_artist_place.column3] --> l_artist_place.column5, l_artist_place.column8
+[l_artist_place.column4] --> l_artist_place.column5, l_artist_place.column8
+[l_artist_place.column6] --> l_artist_place.column5, l_artist_place.column8
+[] --> instrument_alias_type.column3, instrument_alias_type.column4, instrument_alias_type.column5
+[instrument_alias_type.column1] --> instrument_alias_type.column2
+[instrument_alias_type.column2] --> instrument_alias_type.column1
+[] --> l_work_work.column8, l_work_work.column9
+[l_work_work.column1] --> l_work_work.column2, l_work_work.column3, l_work_work.column4, l_work_work.column5, l_work_work.column6, l_work_work.column7
+[l_work_work.column2, l_work_work.column3, l_work_work.column4, l_work_work.column7] --> l_work_work.column1, l_work_work.column6
+[l_work_work.column3, l_work_work.column4] --> l_work_work.column5
+[l_work_work.column6] --> l_work_work.column5
+[] --> edit.column12
+[edit.column10, edit.column11, edit.column3] --> edit.column13
+[edit.column10, edit.column11, edit.column5, edit.column6] --> edit.column7
+[edit.column10, edit.column11, edit.column5] --> edit.column9
+[edit.column10, edit.column11, edit.column6] --> edit.column8
+[edit.column10, edit.column3, edit.column9] --> edit.column11, edit.column13
+[edit.column10, edit.column5, edit.column6, edit.column9] --> edit.column7
+[edit.column10, edit.column5, edit.column6] --> edit.column2
+[edit.column10, edit.column5] --> edit.column13, edit.column3, edit.column8
+[edit.column10, edit.column6, edit.column9] --> edit.column8
+[edit.column11, edit.column5] --> edit.column13, edit.column2
+[edit.column1] --> edit.column10, edit.column11, edit.column13, edit.column2, edit.column3, edit.column4, edit.column5, edit.column6, edit.column7, edit.column8, edit.column9
+[edit.column4, edit.column5] --> edit.column13
+[edit.column5, edit.column9] --> edit.column11, edit.column13, edit.column2
+[] --> l_event_url.column7, l_event_url.column8, l_event_url.column9
+[l_event_url.column1] --> l_event_url.column2, l_event_url.column3, l_event_url.column4, l_event_url.column5, l_event_url.column6
+[l_event_url.column2, l_event_url.column3] --> l_event_url.column5
+[l_event_url.column3, l_event_url.column4] --> l_event_url.column1, l_event_url.column2, l_event_url.column6
+[l_event_url.column4, l_event_url.column6] --> l_event_url.column1, l_event_url.column2
+[l_event_url.column4] --> l_event_url.column5
+[l_event_url.column6] --> l_event_url.column3, l_event_url.column5
+[] --> release_status.column3
+[release_status.column1] --> release_status.column2, release_status.column4, release_status.column5
+[release_status.column2] --> release_status.column1, release_status.column4, release_status.column5
+[release_status.column4] --> release_status.column1, release_status.column2, release_status.column5
+[release_status.column5] --> release_status.column1, release_status.column2, release_status.column4
+[] --> l_artist_label.column7, l_artist_label.column9
+[l_artist_label.column1] --> l_artist_label.column2, l_artist_label.column3, l_artist_label.column4, l_artist_label.column5, l_artist_label.column6, l_artist_label.column8
+[l_artist_label.column2, l_artist_label.column3, l_artist_label.column4] --> l_artist_label.column1, l_artist_label.column6, l_artist_label.column8
+[l_artist_label.column3, l_artist_label.column4, l_artist_label.column6] --> l_artist_label.column8
+[l_artist_label.column3, l_artist_label.column4] --> l_artist_label.column5
+[l_artist_label.column6] --> l_artist_label.column5
+[link_type_attribute_type.column1] --> link_type_attribute_type.column3, link_type_attribute_type.column5
+[link_type_attribute_type.column2] --> link_type_attribute_type.column4
+[link_type_attribute_type.column5] --> link_type_attribute_type.column1, link_type_attribute_type.column3
+[] --> release_alias.column14, release_alias.column5
+[release_alias.column10, release_alias.column11, release_alias.column16, release_alias.column4, release_alias.column7] --> release_alias.column9
+[release_alias.column10, release_alias.column16, release_alias.column7] --> release_alias.column12
+[release_alias.column10] --> release_alias.column13
+[release_alias.column11, release_alias.column12, release_alias.column4] --> release_alias.column9
+[release_alias.column11, release_alias.column12] --> release_alias.column10
+[release_alias.column11, release_alias.column13, release_alias.column16, release_alias.column4, release_alias.column7] --> release_alias.column9
+[release_alias.column11, release_alias.column13] --> release_alias.column10
+[release_alias.column12] --> release_alias.column13
+[release_alias.column13, release_alias.column16, release_alias.column7] --> release_alias.column12
+[release_alias.column15, release_alias.column6] --> release_alias.column7
+[release_alias.column1] --> release_alias.column10, release_alias.column11, release_alias.column12, release_alias.column13, release_alias.column15, release_alias.column16, release_alias.column2, release_alias.column3, release_alias.column4, release_alias.column6, release_alias.column7, release_alias.column8, release_alias.column9
+[release_alias.column2, release_alias.column3] --> release_alias.column1, release_alias.column6
+[release_alias.column2, release_alias.column8] --> release_alias.column1, release_alias.column6
+[release_alias.column2] --> release_alias.column10, release_alias.column11, release_alias.column12, release_alias.column13, release_alias.column16, release_alias.column9
+[release_alias.column3, release_alias.column6] --> release_alias.column1
+[release_alias.column3] --> release_alias.column10, release_alias.column11, release_alias.column12, release_alias.column13, release_alias.column15, release_alias.column16, release_alias.column4, release_alias.column7, release_alias.column8, release_alias.column9
+[release_alias.column6, release_alias.column8] --> release_alias.column1
+[release_alias.column6] --> release_alias.column10, release_alias.column11, release_alias.column12, release_alias.column13, release_alias.column16, release_alias.column2, release_alias.column4, release_alias.column9
+[release_alias.column8] --> release_alias.column10, release_alias.column11, release_alias.column12, release_alias.column13, release_alias.column15, release_alias.column16, release_alias.column3, release_alias.column4, release_alias.column7, release_alias.column9
+[release_alias.column9] --> release_alias.column10, release_alias.column11, release_alias.column12, release_alias.column13
+[] --> l_place_recording.column7, l_place_recording.column8, l_place_recording.column9
+[l_place_recording.column1] --> l_place_recording.column2, l_place_recording.column3, l_place_recording.column4, l_place_recording.column5, l_place_recording.column6
+[l_place_recording.column2, l_place_recording.column3, l_place_recording.column4] --> l_place_recording.column1, l_place_recording.column6
+[l_place_recording.column2, l_place_recording.column4] --> l_place_recording.column5
+[l_place_recording.column4, l_place_recording.column6] --> l_place_recording.column5
+[] --> event_alias.column10, event_alias.column11, event_alias.column12, event_alias.column13, event_alias.column14, event_alias.column16, event_alias.column5, event_alias.column9
+[event_alias.column15, event_alias.column3] --> event_alias.column7
+[event_alias.column15, event_alias.column8] --> event_alias.column4, event_alias.column7
+[event_alias.column1] --> event_alias.column15, event_alias.column2, event_alias.column3, event_alias.column4, event_alias.column6, event_alias.column7, event_alias.column8
+[event_alias.column2, event_alias.column3, event_alias.column4] --> event_alias.column1, event_alias.column6
+[event_alias.column2, event_alias.column3] --> event_alias.column15, event_alias.column7
+[event_alias.column2, event_alias.column8] --> event_alias.column1, event_alias.column15, event_alias.column4, event_alias.column6, event_alias.column7
+[event_alias.column3, event_alias.column4] --> event_alias.column15, event_alias.column7, event_alias.column8
+[event_alias.column3, event_alias.column6] --> event_alias.column1, event_alias.column15, event_alias.column4, event_alias.column7, event_alias.column8
+[event_alias.column3, event_alias.column7] --> event_alias.column15
+[event_alias.column4, event_alias.column8] --> event_alias.column15, event_alias.column7
+[event_alias.column6, event_alias.column8] --> event_alias.column1, event_alias.column15, event_alias.column4, event_alias.column7
+[event_alias.column6] --> event_alias.column2
+[event_alias.column7, event_alias.column8] --> event_alias.column15, event_alias.column4
+[event_alias.column8] --> event_alias.column3
+[link_attribute.column1] --> link_attribute.column3
+[] --> documentation.l_place_release_group_example.column1, documentation.l_place_release_group_example.column2, documentation.l_place_release_group_example.column3
+[event.column10, event.column11, event.column4, event.column5, event.column6, event.column9] --> event.column8
+[event.column10, event.column13, event.column3, event.column4] --> event.column12
+[event.column10, event.column13, event.column3, event.column7] --> event.column12
+[event.column10, event.column14, event.column3, event.column4, event.column5, event.column6, event.column9] --> event.column13
+[event.column10, event.column14, event.column3, event.column4, event.column6, event.column8, event.column9] --> event.column13
+[event.column10, event.column14, event.column3, event.column5, event.column6, event.column7, event.column9] --> event.column13
+[event.column10, event.column14, event.column3, event.column6, event.column7, event.column8, event.column9] --> event.column13
+[event.column10, event.column16] --> event.column1, event.column2
+[event.column13, event.column14, event.column3, event.column6] --> event.column9
+[event.column13, event.column14, event.column3, event.column8] --> event.column5
+[event.column13, event.column3, event.column5] --> event.column12
+[event.column13, event.column3, event.column8] --> event.column12
+[event.column13, event.column3] --> event.column15
+[event.column14, event.column3, event.column5] --> event.column8
+[event.column14, event.column3, event.column6] --> event.column11
+[event.column14, event.column3, event.column9] --> event.column11
+[event.column16] --> event.column11, event.column12, event.column13, event.column14, event.column15, event.column17, event.column3, event.column4, event.column5, event.column6, event.column7, event.column8, event.column9
+[event.column17, event.column4, event.column5, event.column6, event.column9] --> event.column8
+[event.column1] --> event.column10, event.column11, event.column12, event.column13, event.column14, event.column15, event.column16, event.column17, event.column2, event.column3, event.column4, event.column5, event.column6, event.column7, event.column8, event.column9
+[event.column2] --> event.column1, event.column10, event.column11, event.column12, event.column13, event.column14, event.column15, event.column16, event.column17, event.column3, event.column4, event.column5, event.column6, event.column7, event.column8, event.column9
+[event.column3, event.column4] --> event.column7
+[event.column3, event.column5, event.column9] --> event.column8
+[event.column3, event.column6, event.column8] --> event.column5
+[event.column3, event.column6] --> event.column12, event.column15
+[event.column3, event.column7] --> event.column4
+[event.column3, event.column9] --> event.column12, event.column15
+[event.column3] --> event.column17
+[event.column4, event.column5, event.column7] --> event.column17
+[event.column4, event.column6, event.column7] --> event.column17
+[event.column5, event.column6, event.column7, event.column9] --> event.column8
+[event.column7, event.column8] --> event.column17
+[event.column7, event.column9] --> event.column17
+[] --> instrument_type.column3, instrument_type.column5
+[instrument_type.column1] --> instrument_type.column2, instrument_type.column4
+[instrument_type.column2] --> instrument_type.column1, instrument_type.column4
+[instrument_type.column4] --> instrument_type.column1, instrument_type.column2
+[instrument_annotation.column2] --> instrument_annotation.column1
+[work_tag.column1, work_tag.column2] --> work_tag.column3, work_tag.column4
+[work_tag.column2, work_tag.column4] --> work_tag.column3
+[work_tag.column4] --> work_tag.column1
+[medium_format.column1] --> medium_format.column2, medium_format.column3, medium_format.column4, medium_format.column5, medium_format.column6, medium_format.column7
+[medium_format.column2] --> medium_format.column1, medium_format.column3, medium_format.column4, medium_format.column5, medium_format.column6, medium_format.column7
+[] --> documentation.link_type_documentation.column3
+[documentation.link_type_documentation.column1] --> documentation.link_type_documentation.column2
+[] --> recording_alias.column10, recording_alias.column11, recording_alias.column12, recording_alias.column13, recording_alias.column14, recording_alias.column16, recording_alias.column5, recording_alias.column9
+[recording_alias.column15, recording_alias.column3] --> recording_alias.column4, recording_alias.column7
+[recording_alias.column15, recording_alias.column6] --> recording_alias.column7
+[recording_alias.column15, recording_alias.column8] --> recording_alias.column4, recording_alias.column7
+[recording_alias.column1] --> recording_alias.column15, recording_alias.column2, recording_alias.column3, recording_alias.column4, recording_alias.column6, recording_alias.column7, recording_alias.column8
+[recording_alias.column2, recording_alias.column3] --> recording_alias.column1, recording_alias.column15, recording_alias.column4, recording_alias.column6, recording_alias.column7, recording_alias.column8
+[recording_alias.column2, recording_alias.column8] --> recording_alias.column1, recording_alias.column15, recording_alias.column3, recording_alias.column4, recording_alias.column6, recording_alias.column7
+[recording_alias.column3, recording_alias.column4] --> recording_alias.column15, recording_alias.column7
+[recording_alias.column3, recording_alias.column6] --> recording_alias.column1, recording_alias.column15, recording_alias.column2, recording_alias.column7, recording_alias.column8
+[recording_alias.column3, recording_alias.column7] --> recording_alias.column15, recording_alias.column4
+[recording_alias.column4, recording_alias.column8] --> recording_alias.column15, recording_alias.column7
+[recording_alias.column6, recording_alias.column7] --> recording_alias.column15
+[recording_alias.column6, recording_alias.column8] --> recording_alias.column1, recording_alias.column15, recording_alias.column2, recording_alias.column3, recording_alias.column7
+[recording_alias.column6] --> recording_alias.column4
+[recording_alias.column7, recording_alias.column8] --> recording_alias.column15, recording_alias.column4
+[] --> l_event_event.column7, l_event_event.column8, l_event_event.column9
+[l_event_event.column1] --> l_event_event.column2, l_event_event.column3, l_event_event.column4, l_event_event.column5, l_event_event.column6
+[l_event_event.column3, l_event_event.column4] --> l_event_event.column1, l_event_event.column6
+[l_event_event.column3] --> l_event_event.column2, l_event_event.column5
+[l_event_event.column4, l_event_event.column6] --> l_event_event.column1, l_event_event.column3
+[l_event_event.column4] --> l_event_event.column5
+[l_event_event.column6] --> l_event_event.column2, l_event_event.column5
+[] --> track.column10
+[track.column1] --> track.column11, track.column12, track.column2, track.column3, track.column4, track.column5, track.column6, track.column7, track.column8, track.column9
+[track.column2] --> track.column1, track.column11, track.column12, track.column3, track.column4, track.column5, track.column6, track.column7, track.column8, track.column9
+[track.column3, track.column4, track.column6] --> track.column12, track.column8
+[track.column3, track.column4, track.column7, track.column9] --> track.column12
+[track.column4, track.column5] --> track.column1, track.column11, track.column12, track.column2, track.column3, track.column6, track.column7, track.column8, track.column9
+[track.column4, track.column6, track.column9] --> track.column12
+[artist_annotation.column2] --> artist_annotation.column1
+[iso_3166_2.column2] --> iso_3166_2.column1
+[] --> release_group_secondary_type.column3, release_group_secondary_type.column4, release_group_secondary_type.column5
+[release_group_secondary_type.column1] --> release_group_secondary_type.column2
+[release_group_secondary_type.column2] --> release_group_secondary_type.column1
+[] --> editor_collection_type.column6
+[editor_collection_type.column1] --> editor_collection_type.column2, editor_collection_type.column3, editor_collection_type.column4, editor_collection_type.column5
+[editor_collection_type.column2] --> editor_collection_type.column1, editor_collection_type.column3, editor_collection_type.column4, editor_collection_type.column5
+[editor_collection_type.column3, editor_collection_type.column4, editor_collection_type.column5] --> editor_collection_type.column1, editor_collection_type.column2
+[] --> l_artist_artist.column7
+[l_artist_artist.column1] --> l_artist_artist.column2, l_artist_artist.column3, l_artist_artist.column4, l_artist_artist.column5, l_artist_artist.column6, l_artist_artist.column8, l_artist_artist.column9
+[l_artist_artist.column2, l_artist_artist.column3, l_artist_artist.column4] --> l_artist_artist.column1, l_artist_artist.column5, l_artist_artist.column6, l_artist_artist.column8, l_artist_artist.column9
+[] --> l_artist_recording.column7, l_artist_recording.column9
+[l_artist_recording.column1] --> l_artist_recording.column2, l_artist_recording.column3, l_artist_recording.column4, l_artist_recording.column5, l_artist_recording.column6, l_artist_recording.column8
+[l_artist_recording.column2, l_artist_recording.column3, l_artist_recording.column4] --> l_artist_recording.column1, l_artist_recording.column5, l_artist_recording.column6, l_artist_recording.column8
+[] --> documentation.l_label_release_example.column2, documentation.l_label_release_example.column3
+[] --> cover_art_archive.art_type.column3, cover_art_archive.art_type.column5
+[cover_art_archive.art_type.column1] --> cover_art_archive.art_type.column2, cover_art_archive.art_type.column4
+[cover_art_archive.art_type.column2] --> cover_art_archive.art_type.column1, cover_art_archive.art_type.column4
+[artist.column10, artist.column11, artist.column12, artist.column16, artist.column17] --> artist.column19
+[artist.column10, artist.column11, artist.column12, artist.column16, artist.column8] --> artist.column19
+[artist.column10, artist.column11, artist.column12, artist.column17, artist.column18, artist.column3] --> artist.column19
+[artist.column10, artist.column11, artist.column12, artist.column17, artist.column18, artist.column4] --> artist.column19
+[artist.column10, artist.column11, artist.column12, artist.column17, artist.column3, artist.column5] --> artist.column19
+[artist.column10, artist.column11, artist.column13, artist.column17, artist.column18, artist.column4, artist.column5] --> artist.column19
+[artist.column10, artist.column11, artist.column14, artist.column4] --> artist.column9
+[artist.column10, artist.column11, artist.column17, artist.column18, artist.column3, artist.column5] --> artist.column19
+[artist.column10, artist.column11, artist.column17, artist.column18, artist.column4, artist.column5, artist.column6] --> artist.column19
+[artist.column10, artist.column12, artist.column13, artist.column16, artist.column17] --> artist.column19
+[artist.column10, artist.column12, artist.column13, artist.column16, artist.column8] --> artist.column19
+[artist.column10, artist.column12, artist.column14, artist.column16, artist.column17] --> artist.column19
+[artist.column10, artist.column12, artist.column14, artist.column16, artist.column6] --> artist.column19
+[artist.column10, artist.column12, artist.column14, artist.column16, artist.column7] --> artist.column19
+[artist.column10, artist.column12, artist.column14, artist.column16, artist.column8] --> artist.column19
+[artist.column10, artist.column12, artist.column14, artist.column16] --> artist.column15
+[artist.column10, artist.column12, artist.column14, artist.column4] --> artist.column9
+[artist.column10, artist.column12, artist.column16, artist.column17, artist.column18] --> artist.column19
+[artist.column10, artist.column12, artist.column16, artist.column17, artist.column6] --> artist.column19
+[artist.column10, artist.column12, artist.column16, artist.column17, artist.column7] --> artist.column19
+[artist.column10, artist.column12, artist.column16, artist.column3, artist.column6] --> artist.column9
+[artist.column10, artist.column12, artist.column16, artist.column4, artist.column6] --> artist.column9
+[artist.column10, artist.column13, artist.column14, artist.column16] --> artist.column15
+[artist.column10, artist.column14, artist.column16, artist.column17, artist.column18] --> artist.column19
+[artist.column10, artist.column14, artist.column16, artist.column4] --> artist.column9
+[artist.column10, artist.column14, artist.column17, artist.column4] --> artist.column8, artist.column9
+[artist.column10, artist.column14, artist.column4, artist.column5] --> artist.column9
+[artist.column10, artist.column14, artist.column4, artist.column8] --> artist.column9
+[artist.column10, artist.column16, artist.column18, artist.column6] --> artist.column19
+[artist.column10, artist.column16, artist.column18, artist.column7] --> artist.column19
+[artist.column10, artist.column16, artist.column3, artist.column6] --> artist.column7
+[artist.column10, artist.column16, artist.column3] --> artist.column19
+[artist.column10, artist.column16, artist.column4, artist.column6] --> artist.column7
+[artist.column10, artist.column16, artist.column4, artist.column8] --> artist.column9
+[artist.column10, artist.column16, artist.column4] --> artist.column19
+[artist.column10, artist.column16, artist.column5] --> artist.column19
+[artist.column10, artist.column3, artist.column6, artist.column8] --> artist.column9
+[artist.column10, artist.column4, artist.column5, artist.column8] --> artist.column9
+[artist.column10, artist.column4, artist.column6, artist.column8] --> artist.column9
+[artist.column11, artist.column12, artist.column14, artist.column16, artist.column8] --> artist.column19
+[artist.column11, artist.column12, artist.column14, artist.column4, artist.column8] --> artist.column17
+[artist.column11, artist.column12, artist.column16, artist.column8, artist.column9] --> artist.column19
+[artist.column11, artist.column12, artist.column16, artist.column8] --> artist.column17
+[artist.column11, artist.column12, artist.column17, artist.column18, artist.column3, artist.column5] --> artist.column19
+[artist.column11, artist.column12, artist.column17, artist.column18, artist.column3, artist.column9] --> artist.column19
+[artist.column11, artist.column12, artist.column17, artist.column18, artist.column4, artist.column5] --> artist.column19
+[artist.column11, artist.column12, artist.column17, artist.column18, artist.column4, artist.column9] --> artist.column19
+[artist.column11, artist.column12, artist.column17, artist.column3, artist.column5, artist.column6, artist.column9] --> artist.column19
+[artist.column11, artist.column12, artist.column17, artist.column3, artist.column5, artist.column7, artist.column9] --> artist.column19
+[artist.column11, artist.column13, artist.column14, artist.column4, artist.column6, artist.column8] --> artist.column10, artist.column9
+[artist.column11, artist.column13, artist.column14, artist.column4, artist.column7, artist.column8] --> artist.column10, artist.column9
+[artist.column11, artist.column13, artist.column18, artist.column4, artist.column6, artist.column8] --> artist.column10, artist.column9
+[artist.column11, artist.column13, artist.column18, artist.column4, artist.column7, artist.column8] --> artist.column10
+[artist.column11, artist.column14, artist.column16, artist.column4, artist.column6] --> artist.column10, artist.column9
+[artist.column11, artist.column14, artist.column16, artist.column4, artist.column7] --> artist.column10, artist.column6, artist.column9
+[artist.column11, artist.column14, artist.column18, artist.column4, artist.column8] --> artist.column17
+[artist.column11, artist.column14, artist.column4, artist.column5, artist.column8] --> artist.column17
+[artist.column11, artist.column14, artist.column4] --> artist.column15
+[artist.column11, artist.column16, artist.column3, artist.column5] --> artist.column18
+[artist.column11, artist.column16, artist.column3, artist.column6] --> artist.column18
+[artist.column11, artist.column16, artist.column3, artist.column7] --> artist.column18
+[artist.column11, artist.column16, artist.column4, artist.column5] --> artist.column18
+[artist.column11, artist.column16, artist.column4, artist.column6, artist.column8] --> artist.column10, artist.column9
+[artist.column11, artist.column16, artist.column4, artist.column6] --> artist.column18
+[artist.column11, artist.column16, artist.column4, artist.column7, artist.column8] --> artist.column10, artist.column9
+[artist.column11, artist.column16, artist.column4, artist.column7] --> artist.column18
+[artist.column12, artist.column13, artist.column14, artist.column16, artist.column8] --> artist.column19
+[artist.column12, artist.column13, artist.column16, artist.column8, artist.column9] --> artist.column19
+[artist.column12, artist.column13, artist.column16, artist.column8] --> artist.column17
+[artist.column12, artist.column14, artist.column16, artist.column17, artist.column6] --> artist.column19
+[artist.column12, artist.column14, artist.column16, artist.column17, artist.column7] --> artist.column19
+[artist.column12, artist.column14, artist.column16, artist.column17, artist.column9] --> artist.column19
+[artist.column12, artist.column14, artist.column16, artist.column18] --> artist.column15
+[artist.column12, artist.column14, artist.column16, artist.column19] --> artist.column15
+[artist.column12, artist.column14, artist.column16, artist.column4, artist.column6] --> artist.column10, artist.column9
+[artist.column12, artist.column14, artist.column16, artist.column4, artist.column7] --> artist.column10, artist.column9
+[artist.column12, artist.column14, artist.column16, artist.column4] --> artist.column13
+[artist.column12, artist.column14, artist.column16, artist.column5] --> artist.column15
+[artist.column12, artist.column14, artist.column16, artist.column6, artist.column7] --> artist.column19
+[artist.column12, artist.column14, artist.column16, artist.column6, artist.column9] --> artist.column19
+[artist.column12, artist.column14, artist.column16, artist.column6] --> artist.column15
+[artist.column12, artist.column14, artist.column16, artist.column7, artist.column9] --> artist.column19
+[artist.column12, artist.column14, artist.column16, artist.column7] --> artist.column15
+[artist.column12, artist.column14, artist.column16, artist.column8, artist.column9] --> artist.column19
+[artist.column12, artist.column14, artist.column16, artist.column8] --> artist.column15
+[artist.column12, artist.column14, artist.column16, artist.column9] --> artist.column15
+[artist.column12, artist.column14, artist.column17, artist.column4, artist.column5] --> artist.column10, artist.column9
+[artist.column12, artist.column14, artist.column17, artist.column4, artist.column6] --> artist.column10, artist.column8, artist.column9
+[artist.column12, artist.column14, artist.column17, artist.column4, artist.column7] --> artist.column10, artist.column8, artist.column9
+[artist.column12, artist.column14, artist.column18, artist.column4] --> artist.column19
+[artist.column12, artist.column14, artist.column4, artist.column7, artist.column8] --> artist.column9
+[artist.column12, artist.column14, artist.column4] --> artist.column15
+[artist.column12, artist.column16, artist.column17, artist.column18, artist.column9] --> artist.column19
+[artist.column12, artist.column16, artist.column17, artist.column6, artist.column9] --> artist.column19
+[artist.column12, artist.column16, artist.column17, artist.column7, artist.column9] --> artist.column19
+[artist.column12, artist.column16, artist.column18, artist.column5] --> artist.column19
+[artist.column12, artist.column16, artist.column18, artist.column6] --> artist.column19
+[artist.column12, artist.column16, artist.column18, artist.column7] --> artist.column19
+[artist.column12, artist.column16, artist.column18, artist.column8] --> artist.column19
+[artist.column12, artist.column16, artist.column3, artist.column5] --> artist.column8
+[artist.column12, artist.column16, artist.column3] --> artist.column19
+[artist.column12, artist.column16, artist.column4, artist.column5] --> artist.column8
+[artist.column12, artist.column16, artist.column4, artist.column7, artist.column8] --> artist.column9
+[artist.column12, artist.column16, artist.column4] --> artist.column19
+[artist.column12, artist.column16, artist.column5, artist.column6] --> artist.column19
+[artist.column12, artist.column16, artist.column5, artist.column7] --> artist.column19
+[artist.column12, artist.column16, artist.column5, artist.column8] --> artist.column17
+[artist.column12, artist.column16, artist.column6, artist.column8] --> artist.column17, artist.column19
+[artist.column12, artist.column16, artist.column7, artist.column8] --> artist.column17, artist.column19
+[artist.column12, artist.column17, artist.column18, artist.column3, artist.column5, artist.column7] --> artist.column10
+[artist.column12, artist.column17, artist.column18, artist.column4, artist.column5, artist.column7] --> artist.column10
+[artist.column12, artist.column17, artist.column3, artist.column8] --> artist.column19
+[artist.column12, artist.column18, artist.column3, artist.column5, artist.column9] --> artist.column10
+[artist.column12, artist.column18, artist.column3, artist.column6, artist.column9] --> artist.column10
+[artist.column12, artist.column18, artist.column3, artist.column8] --> artist.column19
+[artist.column12, artist.column18, artist.column4, artist.column5, artist.column9] --> artist.column10
+[artist.column12, artist.column18, artist.column4, artist.column6, artist.column9] --> artist.column10
+[artist.column12, artist.column18, artist.column4, artist.column8] --> artist.column19
+[artist.column12, artist.column3, artist.column5, artist.column6, artist.column9] --> artist.column10
+[artist.column12, artist.column3, artist.column5, artist.column7, artist.column9] --> artist.column10
+[artist.column12, artist.column3, artist.column5, artist.column8] --> artist.column19
+[artist.column12, artist.column3, artist.column6, artist.column8] --> artist.column9
+[artist.column12, artist.column3, artist.column8] --> artist.column10
+[artist.column12, artist.column4, artist.column5, artist.column6, artist.column9] --> artist.column10
+[artist.column12, artist.column4, artist.column5, artist.column7, artist.column9] --> artist.column10
+[artist.column12, artist.column4, artist.column5, artist.column8] --> artist.column10, artist.column9
+[artist.column12, artist.column4, artist.column6, artist.column8] --> artist.column10, artist.column9
+[artist.column12, artist.column4, artist.column7, artist.column8] --> artist.column10
+[artist.column13, artist.column14, artist.column16, artist.column18] --> artist.column15
+[artist.column13, artist.column14, artist.column16, artist.column19] --> artist.column15
+[artist.column13, artist.column14, artist.column16, artist.column5] --> artist.column15
+[artist.column13, artist.column14, artist.column16, artist.column6, artist.column8] --> artist.column15
+[artist.column13, artist.column14, artist.column16, artist.column7] --> artist.column15
+[artist.column13, artist.column14, artist.column16, artist.column9] --> artist.column15
+[artist.column13, artist.column14, artist.column18, artist.column4] --> artist.column19
+[artist.column13, artist.column14, artist.column4, artist.column5] --> artist.column10, artist.column9
+[artist.column13, artist.column14, artist.column4] --> artist.column15
+[artist.column13, artist.column16, artist.column17, artist.column5, artist.column6] --> artist.column19
+[artist.column13, artist.column16, artist.column3, artist.column5] --> artist.column18
+[artist.column13, artist.column16, artist.column3, artist.column6] --> artist.column18
+[artist.column13, artist.column16, artist.column3, artist.column7] --> artist.column18
+[artist.column13, artist.column16, artist.column4, artist.column5] --> artist.column18
+[artist.column13, artist.column16, artist.column4, artist.column6] --> artist.column18
+[artist.column13, artist.column16, artist.column4, artist.column7] --> artist.column18
+[artist.column13, artist.column17, artist.column18, artist.column4, artist.column8] --> artist.column19
+[artist.column13, artist.column4, artist.column5, artist.column8] --> artist.column10, artist.column9
+[artist.column14, artist.column16, artist.column17, artist.column18, artist.column9] --> artist.column19
+[artist.column14, artist.column16, artist.column17, artist.column5, artist.column6] --> artist.column19
+[artist.column14, artist.column16, artist.column18, artist.column8] --> artist.column17, artist.column19
+[artist.column14, artist.column16, artist.column4, artist.column6] --> artist.column7
+[artist.column14, artist.column16, artist.column4] --> artist.column15, artist.column17, artist.column18, artist.column19, artist.column8
+[artist.column14, artist.column17, artist.column4, artist.column5] --> artist.column8
+[artist.column14, artist.column17, artist.column4, artist.column9] --> artist.column8
+[artist.column14, artist.column18, artist.column4, artist.column6] --> artist.column19
+[artist.column14, artist.column18, artist.column4] --> artist.column15
+[artist.column14, artist.column3] --> artist.column1, artist.column10, artist.column11, artist.column12, artist.column13, artist.column15, artist.column16, artist.column17, artist.column18, artist.column19, artist.column2, artist.column4, artist.column5, artist.column6, artist.column7, artist.column8, artist.column9
+[artist.column14, artist.column4, artist.column5] --> artist.column15
+[artist.column14, artist.column4, artist.column6] --> artist.column15
+[artist.column14, artist.column4, artist.column7] --> artist.column15
+[artist.column14, artist.column4, artist.column9] --> artist.column10
+[artist.column16, artist.column17, artist.column18, artist.column5] --> artist.column19
+[artist.column16, artist.column17, artist.column18, artist.column6] --> artist.column19
+[artist.column16, artist.column17, artist.column18, artist.column7] --> artist.column19
+[artist.column16, artist.column17, artist.column3] --> artist.column19
+[artist.column16, artist.column17, artist.column4] --> artist.column19
+[artist.column16, artist.column17, artist.column5, artist.column7] --> artist.column19
+[artist.column16, artist.column18, artist.column3] --> artist.column19
+[artist.column16, artist.column18, artist.column4] --> artist.column19
+[artist.column16, artist.column18, artist.column6, artist.column8] --> artist.column19
+[artist.column16, artist.column18, artist.column6, artist.column9] --> artist.column19
+[artist.column16, artist.column18, artist.column7, artist.column8] --> artist.column19
+[artist.column16, artist.column18, artist.column7, artist.column9] --> artist.column19
+[artist.column16, artist.column3, artist.column5] --> artist.column10, artist.column17, artist.column19, artist.column6, artist.column7, artist.column9
+[artist.column16, artist.column3, artist.column6, artist.column8] --> artist.column7
+[artist.column16, artist.column3, artist.column6, artist.column9] --> artist.column10, artist.column7
+[artist.column16, artist.column3, artist.column6] --> artist.column19
+[artist.column16, artist.column3, artist.column7] --> artist.column19
+[artist.column16, artist.column3, artist.column8] --> artist.column10, artist.column17, artist.column19, artist.column9
+[artist.column16, artist.column3, artist.column9] --> artist.column19
+[artist.column16, artist.column4, artist.column5, artist.column6] --> artist.column7
+[artist.column16, artist.column4, artist.column5, artist.column7] --> artist.column6
+[artist.column16, artist.column4, artist.column5] --> artist.column10, artist.column17, artist.column19, artist.column9
+[artist.column16, artist.column4, artist.column6, artist.column8] --> artist.column7
+[artist.column16, artist.column4, artist.column6, artist.column9] --> artist.column10, artist.column7
+[artist.column16, artist.column4, artist.column6] --> artist.column19
+[artist.column16, artist.column4, artist.column7] --> artist.column19
+[artist.column16, artist.column4, artist.column8] --> artist.column17, artist.column19
+[artist.column16, artist.column4, artist.column9] --> artist.column19
+[artist.column16, artist.column5, artist.column8] --> artist.column19
+[artist.column16, artist.column5, artist.column9] --> artist.column19
+[artist.column17, artist.column18, artist.column3, artist.column8] --> artist.column19
+[artist.column17, artist.column18, artist.column4, artist.column6, artist.column8] --> artist.column19
+[artist.column18, artist.column3, artist.column6, artist.column8] --> artist.column9
+[artist.column18, artist.column3, artist.column8] --> artist.column10
+[artist.column19, artist.column3, artist.column5, artist.column9] --> artist.column10
+[artist.column19, artist.column3, artist.column6, artist.column9] --> artist.column10
+[artist.column19, artist.column4, artist.column5, artist.column9] --> artist.column10
+[artist.column19, artist.column4, artist.column6, artist.column9] --> artist.column10
+[artist.column1] --> artist.column10, artist.column11, artist.column12, artist.column13, artist.column14, artist.column15, artist.column16, artist.column17, artist.column18, artist.column19, artist.column2, artist.column3, artist.column4, artist.column5, artist.column6, artist.column7, artist.column8, artist.column9
+[artist.column2] --> artist.column1, artist.column10, artist.column11, artist.column12, artist.column13, artist.column14, artist.column15, artist.column16, artist.column17, artist.column18, artist.column19, artist.column3, artist.column4, artist.column5, artist.column6, artist.column7, artist.column8, artist.column9
+[artist.column3, artist.column5, artist.column8] --> artist.column10, artist.column9
+[artist.column3, artist.column8, artist.column9] --> artist.column10
+[artist.column4, artist.column8, artist.column9] --> artist.column10
+[work_annotation.column2] --> work_annotation.column1
+[] --> documentation.l_area_work_example.column2, documentation.l_area_work_example.column3
+[artist_alias.column10, artist_alias.column11, artist_alias.column12, artist_alias.column2] --> artist_alias.column13
+[artist_alias.column10, artist_alias.column12, artist_alias.column14, artist_alias.column2] --> artist_alias.column13
+[artist_alias.column10, artist_alias.column12, artist_alias.column2, artist_alias.column9] --> artist_alias.column13
+[artist_alias.column10, artist_alias.column12, artist_alias.column6, artist_alias.column8] --> artist_alias.column9
+[artist_alias.column10, artist_alias.column12, artist_alias.column6] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column10, artist_alias.column13, artist_alias.column2, artist_alias.column7] --> artist_alias.column14
+[artist_alias.column10, artist_alias.column14, artist_alias.column15, artist_alias.column2, artist_alias.column7, artist_alias.column9] --> artist_alias.column13
+[artist_alias.column10, artist_alias.column14, artist_alias.column2, artist_alias.column4, artist_alias.column7, artist_alias.column9] --> artist_alias.column13
+[artist_alias.column10, artist_alias.column15, artist_alias.column16, artist_alias.column6, artist_alias.column7] --> artist_alias.column13
+[artist_alias.column10, artist_alias.column15, artist_alias.column2, artist_alias.column6] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column10, artist_alias.column15, artist_alias.column2, artist_alias.column8] --> artist_alias.column13
+[artist_alias.column10, artist_alias.column15, artist_alias.column3, artist_alias.column6] --> artist_alias.column9
+[artist_alias.column10, artist_alias.column15, artist_alias.column4, artist_alias.column6] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column10, artist_alias.column15, artist_alias.column6, artist_alias.column8] --> artist_alias.column9
+[artist_alias.column10, artist_alias.column16, artist_alias.column2, artist_alias.column6] --> artist_alias.column14
+[artist_alias.column10, artist_alias.column16, artist_alias.column2, artist_alias.column9] --> artist_alias.column13
+[artist_alias.column10, artist_alias.column16, artist_alias.column4, artist_alias.column6] --> artist_alias.column14
+[artist_alias.column10, artist_alias.column16, artist_alias.column6, artist_alias.column7] --> artist_alias.column14
+[artist_alias.column10, artist_alias.column16, artist_alias.column6, artist_alias.column8] --> artist_alias.column9
+[artist_alias.column10, artist_alias.column16, artist_alias.column6, artist_alias.column9] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column10, artist_alias.column2, artist_alias.column3, artist_alias.column8] --> artist_alias.column13
+[artist_alias.column10, artist_alias.column2, artist_alias.column3] --> artist_alias.column11
+[artist_alias.column10, artist_alias.column2, artist_alias.column4, artist_alias.column7, artist_alias.column9] --> artist_alias.column11
+[artist_alias.column10, artist_alias.column2, artist_alias.column4, artist_alias.column8] --> artist_alias.column13
+[artist_alias.column10, artist_alias.column2, artist_alias.column8] --> artist_alias.column14
+[artist_alias.column10, artist_alias.column3, artist_alias.column6] --> artist_alias.column12, artist_alias.column13, artist_alias.column14, artist_alias.column16
+[artist_alias.column10, artist_alias.column6] --> artist_alias.column11
+[artist_alias.column10, artist_alias.column8] --> artist_alias.column11
+[artist_alias.column11, artist_alias.column12, artist_alias.column2, artist_alias.column7] --> artist_alias.column14
+[artist_alias.column11, artist_alias.column12, artist_alias.column2, artist_alias.column8] --> artist_alias.column10
+[artist_alias.column11, artist_alias.column12, artist_alias.column2, artist_alias.column9] --> artist_alias.column13
+[artist_alias.column11, artist_alias.column12, artist_alias.column6, artist_alias.column8] --> artist_alias.column9
+[artist_alias.column11, artist_alias.column12, artist_alias.column6] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column11, artist_alias.column13, artist_alias.column2, artist_alias.column7] --> artist_alias.column14
+[artist_alias.column11, artist_alias.column15, artist_alias.column16, artist_alias.column6, artist_alias.column7] --> artist_alias.column13
+[artist_alias.column11, artist_alias.column15, artist_alias.column2, artist_alias.column6] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column11, artist_alias.column15, artist_alias.column2, artist_alias.column8] --> artist_alias.column13
+[artist_alias.column11, artist_alias.column15, artist_alias.column3, artist_alias.column6] --> artist_alias.column9
+[artist_alias.column11, artist_alias.column15, artist_alias.column4, artist_alias.column6] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column11, artist_alias.column15, artist_alias.column6, artist_alias.column8] --> artist_alias.column9
+[artist_alias.column11, artist_alias.column15, artist_alias.column6] --> artist_alias.column10
+[artist_alias.column11, artist_alias.column16, artist_alias.column2, artist_alias.column6] --> artist_alias.column14
+[artist_alias.column11, artist_alias.column16, artist_alias.column2, artist_alias.column8] --> artist_alias.column10
+[artist_alias.column11, artist_alias.column16, artist_alias.column2, artist_alias.column9] --> artist_alias.column13
+[artist_alias.column11, artist_alias.column16, artist_alias.column4, artist_alias.column6] --> artist_alias.column14
+[artist_alias.column11, artist_alias.column16, artist_alias.column6, artist_alias.column7] --> artist_alias.column14
+[artist_alias.column11, artist_alias.column16, artist_alias.column6, artist_alias.column8] --> artist_alias.column9
+[artist_alias.column11, artist_alias.column16, artist_alias.column6, artist_alias.column9] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column11, artist_alias.column2, artist_alias.column3, artist_alias.column8] --> artist_alias.column13
+[artist_alias.column11, artist_alias.column2, artist_alias.column3] --> artist_alias.column10
+[artist_alias.column11, artist_alias.column2, artist_alias.column4, artist_alias.column8] --> artist_alias.column10, artist_alias.column13
+[artist_alias.column11, artist_alias.column2, artist_alias.column7, artist_alias.column8] --> artist_alias.column10
+[artist_alias.column11, artist_alias.column2, artist_alias.column8] --> artist_alias.column14
+[artist_alias.column11, artist_alias.column3, artist_alias.column6] --> artist_alias.column10, artist_alias.column12, artist_alias.column13, artist_alias.column14, artist_alias.column16
+[artist_alias.column11, artist_alias.column6, artist_alias.column8] --> artist_alias.column10
+[artist_alias.column11, artist_alias.column6, artist_alias.column9] --> artist_alias.column10
+[artist_alias.column12, artist_alias.column13, artist_alias.column2, artist_alias.column7] --> artist_alias.column14
+[artist_alias.column12, artist_alias.column14, artist_alias.column2, artist_alias.column9] --> artist_alias.column13
+[artist_alias.column12, artist_alias.column14, artist_alias.column6] --> artist_alias.column13
+[artist_alias.column12, artist_alias.column15, artist_alias.column2, artist_alias.column3, artist_alias.column7] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column12, artist_alias.column15, artist_alias.column2, artist_alias.column8, artist_alias.column9] --> artist_alias.column16
+[artist_alias.column12, artist_alias.column15, artist_alias.column2, artist_alias.column9] --> artist_alias.column13
+[artist_alias.column12, artist_alias.column15, artist_alias.column4, artist_alias.column6, artist_alias.column9] --> artist_alias.column16
+[artist_alias.column12, artist_alias.column15, artist_alias.column6, artist_alias.column7, artist_alias.column9] --> artist_alias.column16
+[artist_alias.column12, artist_alias.column15, artist_alias.column6] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column12, artist_alias.column2, artist_alias.column3, artist_alias.column7] --> artist_alias.column16
+[artist_alias.column12, artist_alias.column2, artist_alias.column3, artist_alias.column8] --> artist_alias.column10, artist_alias.column11, artist_alias.column16
+[artist_alias.column12, artist_alias.column2, artist_alias.column4, artist_alias.column7, artist_alias.column9] --> artist_alias.column11
+[artist_alias.column12, artist_alias.column2, artist_alias.column7, artist_alias.column9] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column12, artist_alias.column3, artist_alias.column4, artist_alias.column6] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column12, artist_alias.column3, artist_alias.column6, artist_alias.column7] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column12, artist_alias.column3, artist_alias.column6] --> artist_alias.column16
+[artist_alias.column12, artist_alias.column3] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column12, artist_alias.column4, artist_alias.column6, artist_alias.column8] --> artist_alias.column9
+[artist_alias.column12, artist_alias.column6, artist_alias.column7, artist_alias.column8] --> artist_alias.column9
+[artist_alias.column12, artist_alias.column6, artist_alias.column7] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column12, artist_alias.column8] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column13, artist_alias.column15, artist_alias.column2, artist_alias.column3, artist_alias.column7] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column13, artist_alias.column2, artist_alias.column3, artist_alias.column8] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column13, artist_alias.column2, artist_alias.column4, artist_alias.column7, artist_alias.column9] --> artist_alias.column11
+[artist_alias.column13, artist_alias.column2, artist_alias.column7, artist_alias.column9] --> artist_alias.column14
+[artist_alias.column13, artist_alias.column3, artist_alias.column4, artist_alias.column6] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column13, artist_alias.column3, artist_alias.column6, artist_alias.column7] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column13, artist_alias.column3, artist_alias.column6] --> artist_alias.column12, artist_alias.column16
+[artist_alias.column13, artist_alias.column3] --> artist_alias.column14
+[artist_alias.column13, artist_alias.column6, artist_alias.column9] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column13, artist_alias.column6] --> artist_alias.column14
+[artist_alias.column13, artist_alias.column8] --> artist_alias.column14
+[artist_alias.column14, artist_alias.column15, artist_alias.column2, artist_alias.column3, artist_alias.column7] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column14, artist_alias.column15, artist_alias.column6] --> artist_alias.column13
+[artist_alias.column14, artist_alias.column15, artist_alias.column7, artist_alias.column8] --> artist_alias.column13
+[artist_alias.column14, artist_alias.column2, artist_alias.column3, artist_alias.column8] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column14, artist_alias.column2, artist_alias.column3] --> artist_alias.column13
+[artist_alias.column14, artist_alias.column3, artist_alias.column4, artist_alias.column6] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column14, artist_alias.column3, artist_alias.column4] --> artist_alias.column13
+[artist_alias.column14, artist_alias.column3, artist_alias.column6, artist_alias.column7] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column14, artist_alias.column3, artist_alias.column6] --> artist_alias.column12, artist_alias.column13, artist_alias.column16
+[artist_alias.column14, artist_alias.column3, artist_alias.column7] --> artist_alias.column13
+[artist_alias.column14, artist_alias.column4, artist_alias.column8] --> artist_alias.column13
+[artist_alias.column14, artist_alias.column6, artist_alias.column9] --> artist_alias.column10, artist_alias.column11, artist_alias.column13
+[artist_alias.column15, artist_alias.column16, artist_alias.column2, artist_alias.column3, artist_alias.column7] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column15, artist_alias.column16, artist_alias.column6, artist_alias.column9] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column15, artist_alias.column2, artist_alias.column3, artist_alias.column4, artist_alias.column7] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column15, artist_alias.column2, artist_alias.column4, artist_alias.column8, artist_alias.column9] --> artist_alias.column16
+[artist_alias.column15, artist_alias.column2, artist_alias.column6, artist_alias.column9] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column15, artist_alias.column2, artist_alias.column7, artist_alias.column8, artist_alias.column9] --> artist_alias.column16
+[artist_alias.column15, artist_alias.column2, artist_alias.column8, artist_alias.column9] --> artist_alias.column13
+[artist_alias.column15, artist_alias.column3, artist_alias.column4, artist_alias.column6] --> artist_alias.column10, artist_alias.column11, artist_alias.column9
+[artist_alias.column15, artist_alias.column3, artist_alias.column6, artist_alias.column7] --> artist_alias.column10, artist_alias.column11, artist_alias.column8, artist_alias.column9
+[artist_alias.column15, artist_alias.column3, artist_alias.column6] --> artist_alias.column12, artist_alias.column13, artist_alias.column14, artist_alias.column16
+[artist_alias.column15, artist_alias.column4, artist_alias.column6, artist_alias.column8] --> artist_alias.column9
+[artist_alias.column15, artist_alias.column4, artist_alias.column6, artist_alias.column9] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column15, artist_alias.column6, artist_alias.column7, artist_alias.column8] --> artist_alias.column9
+[artist_alias.column15, artist_alias.column6, artist_alias.column8] --> artist_alias.column12, artist_alias.column16
+[artist_alias.column15, artist_alias.column6, artist_alias.column9] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column15, artist_alias.column7, artist_alias.column8, artist_alias.column9] --> artist_alias.column13
+[artist_alias.column16, artist_alias.column2, artist_alias.column3, artist_alias.column8] --> artist_alias.column10, artist_alias.column11, artist_alias.column12
+[artist_alias.column16, artist_alias.column2, artist_alias.column7, artist_alias.column9] --> artist_alias.column14
+[artist_alias.column16, artist_alias.column3, artist_alias.column4, artist_alias.column6] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column16, artist_alias.column3, artist_alias.column6, artist_alias.column7] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column16, artist_alias.column3, artist_alias.column6] --> artist_alias.column12
+[artist_alias.column16, artist_alias.column3, artist_alias.column9] --> artist_alias.column12
+[artist_alias.column16, artist_alias.column3] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column16, artist_alias.column4, artist_alias.column6, artist_alias.column8] --> artist_alias.column9
+[artist_alias.column16, artist_alias.column6, artist_alias.column7, artist_alias.column8] --> artist_alias.column9
+[artist_alias.column16, artist_alias.column6, artist_alias.column7, artist_alias.column9] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column16, artist_alias.column6, artist_alias.column8] --> artist_alias.column12
+[artist_alias.column16, artist_alias.column6, artist_alias.column9] --> artist_alias.column12
+[artist_alias.column16, artist_alias.column8] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column1] --> artist_alias.column10, artist_alias.column11, artist_alias.column12, artist_alias.column13, artist_alias.column14, artist_alias.column15, artist_alias.column16, artist_alias.column2, artist_alias.column3, artist_alias.column4, artist_alias.column5, artist_alias.column6, artist_alias.column7, artist_alias.column8, artist_alias.column9
+[artist_alias.column2, artist_alias.column3, artist_alias.column4, artist_alias.column8] --> artist_alias.column10, artist_alias.column11, artist_alias.column13, artist_alias.column14
+[artist_alias.column2, artist_alias.column3, artist_alias.column7, artist_alias.column9] --> artist_alias.column16
+[artist_alias.column2, artist_alias.column3, artist_alias.column8, artist_alias.column9] --> artist_alias.column16
+[artist_alias.column2, artist_alias.column3, artist_alias.column9] --> artist_alias.column11, artist_alias.column12, artist_alias.column13, artist_alias.column14
+[artist_alias.column2, artist_alias.column4, artist_alias.column7, artist_alias.column8] --> artist_alias.column10, artist_alias.column11, artist_alias.column13, artist_alias.column14
+[artist_alias.column2, artist_alias.column4, artist_alias.column8, artist_alias.column9] --> artist_alias.column13
+[artist_alias.column2, artist_alias.column8, artist_alias.column9] --> artist_alias.column14
+[artist_alias.column3, artist_alias.column4, artist_alias.column6, artist_alias.column8] --> artist_alias.column7
+[artist_alias.column3, artist_alias.column6, artist_alias.column8] --> artist_alias.column10, artist_alias.column11, artist_alias.column12, artist_alias.column16, artist_alias.column9
+[artist_alias.column3, artist_alias.column6, artist_alias.column9] --> artist_alias.column11, artist_alias.column12, artist_alias.column13, artist_alias.column14, artist_alias.column16
+[artist_alias.column3, artist_alias.column7, artist_alias.column9] --> artist_alias.column12, artist_alias.column13, artist_alias.column14
+[artist_alias.column3, artist_alias.column9] --> artist_alias.column10
+[artist_alias.column3] --> artist_alias.column5
+[artist_alias.column4, artist_alias.column6, artist_alias.column8] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column4, artist_alias.column7, artist_alias.column8, artist_alias.column9] --> artist_alias.column13
+[artist_alias.column6, artist_alias.column7, artist_alias.column8] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column6, artist_alias.column7, artist_alias.column9] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column6, artist_alias.column8, artist_alias.column9] --> artist_alias.column12
+[artist_alias.column6, artist_alias.column8] --> artist_alias.column13, artist_alias.column14
+[artist_alias.column6] --> artist_alias.column5
+[artist_alias.column7, artist_alias.column8, artist_alias.column9] --> artist_alias.column14
+[artist_alias.column8, artist_alias.column9] --> artist_alias.column10, artist_alias.column11
+[artist_alias.column8] --> artist_alias.column5
+[] --> l_event_release.column7, l_event_release.column8, l_event_release.column9
+[l_event_release.column1] --> l_event_release.column2, l_event_release.column3, l_event_release.column4, l_event_release.column5, l_event_release.column6
+[l_event_release.column2, l_event_release.column3, l_event_release.column4] --> l_event_release.column1, l_event_release.column6
+[l_event_release.column3, l_event_release.column4, l_event_release.column6] --> l_event_release.column1
+[l_event_release.column3, l_event_release.column4] --> l_event_release.column5
+[l_event_release.column4, l_event_release.column6] --> l_event_release.column2
+[l_event_release.column6] --> l_event_release.column5
+[] --> release_group_alias.column13, release_group_alias.column14
+[release_group_alias.column10, release_group_alias.column16] --> release_group_alias.column5
+[release_group_alias.column10, release_group_alias.column4, release_group_alias.column5] --> release_group_alias.column12
+[release_group_alias.column10, release_group_alias.column5] --> release_group_alias.column16
+[release_group_alias.column10, release_group_alias.column9] --> release_group_alias.column12, release_group_alias.column16
+[release_group_alias.column10] --> release_group_alias.column11
+[release_group_alias.column11, release_group_alias.column16] --> release_group_alias.column5
+[release_group_alias.column11, release_group_alias.column4, release_group_alias.column5] --> release_group_alias.column12
+[release_group_alias.column11, release_group_alias.column5] --> release_group_alias.column16
+[release_group_alias.column11, release_group_alias.column9] --> release_group_alias.column12, release_group_alias.column16
+[release_group_alias.column11] --> release_group_alias.column10
+[release_group_alias.column12, release_group_alias.column16] --> release_group_alias.column5
+[release_group_alias.column12, release_group_alias.column4] --> release_group_alias.column16, release_group_alias.column5
+[release_group_alias.column12, release_group_alias.column5] --> release_group_alias.column16
+[release_group_alias.column12, release_group_alias.column9] --> release_group_alias.column10, release_group_alias.column11, release_group_alias.column16
+[release_group_alias.column15, release_group_alias.column16] --> release_group_alias.column5
+[release_group_alias.column15, release_group_alias.column3] --> release_group_alias.column16, release_group_alias.column4, release_group_alias.column5, release_group_alias.column7, release_group_alias.column9
+[release_group_alias.column15, release_group_alias.column4, release_group_alias.column5] --> release_group_alias.column12, release_group_alias.column16
+[release_group_alias.column15, release_group_alias.column8] --> release_group_alias.column16, release_group_alias.column4, release_group_alias.column5, release_group_alias.column7, release_group_alias.column9
+[release_group_alias.column16, release_group_alias.column3] --> release_group_alias.column15, release_group_alias.column4, release_group_alias.column5, release_group_alias.column7, release_group_alias.column9
+[release_group_alias.column16, release_group_alias.column4] --> release_group_alias.column12, release_group_alias.column5
+[release_group_alias.column16, release_group_alias.column7] --> release_group_alias.column5
+[release_group_alias.column16, release_group_alias.column8] --> release_group_alias.column15, release_group_alias.column4, release_group_alias.column5, release_group_alias.column7, release_group_alias.column9
+[release_group_alias.column16, release_group_alias.column9] --> release_group_alias.column10, release_group_alias.column11, release_group_alias.column12
+[release_group_alias.column1] --> release_group_alias.column10, release_group_alias.column11, release_group_alias.column12, release_group_alias.column15, release_group_alias.column16, release_group_alias.column2, release_group_alias.column3, release_group_alias.column4, release_group_alias.column5, release_group_alias.column6, release_group_alias.column7, release_group_alias.column8, release_group_alias.column9
+[release_group_alias.column2, release_group_alias.column3] --> release_group_alias.column1, release_group_alias.column15, release_group_alias.column4, release_group_alias.column6, release_group_alias.column7
+[release_group_alias.column2, release_group_alias.column8] --> release_group_alias.column1, release_group_alias.column15, release_group_alias.column4, release_group_alias.column6, release_group_alias.column7
+[release_group_alias.column2] --> release_group_alias.column10, release_group_alias.column11, release_group_alias.column12, release_group_alias.column16, release_group_alias.column5, release_group_alias.column9
+[release_group_alias.column3, release_group_alias.column4] --> release_group_alias.column15, release_group_alias.column16, release_group_alias.column5, release_group_alias.column7, release_group_alias.column9
+[release_group_alias.column3, release_group_alias.column5] --> release_group_alias.column15, release_group_alias.column16, release_group_alias.column4, release_group_alias.column7, release_group_alias.column9
+[release_group_alias.column3, release_group_alias.column6] --> release_group_alias.column1
+[release_group_alias.column3, release_group_alias.column7] --> release_group_alias.column15, release_group_alias.column16, release_group_alias.column4, release_group_alias.column5, release_group_alias.column9
+[release_group_alias.column3, release_group_alias.column9] --> release_group_alias.column15, release_group_alias.column16, release_group_alias.column4, release_group_alias.column7
+[release_group_alias.column3] --> release_group_alias.column10, release_group_alias.column11, release_group_alias.column12, release_group_alias.column8
+[release_group_alias.column4, release_group_alias.column5, release_group_alias.column7] --> release_group_alias.column12, release_group_alias.column16
+[release_group_alias.column4, release_group_alias.column8] --> release_group_alias.column15, release_group_alias.column16, release_group_alias.column5, release_group_alias.column7, release_group_alias.column9
+[release_group_alias.column4, release_group_alias.column9] --> release_group_alias.column10, release_group_alias.column11, release_group_alias.column12, release_group_alias.column16
+[release_group_alias.column5, release_group_alias.column8] --> release_group_alias.column15, release_group_alias.column16, release_group_alias.column4, release_group_alias.column7, release_group_alias.column9
+[release_group_alias.column6, release_group_alias.column8] --> release_group_alias.column1
+[release_group_alias.column6] --> release_group_alias.column10, release_group_alias.column11, release_group_alias.column12, release_group_alias.column15, release_group_alias.column16, release_group_alias.column2, release_group_alias.column4, release_group_alias.column5, release_group_alias.column7, release_group_alias.column9
+[release_group_alias.column7, release_group_alias.column8] --> release_group_alias.column15, release_group_alias.column16, release_group_alias.column4, release_group_alias.column5, release_group_alias.column9
+[release_group_alias.column7, release_group_alias.column9] --> release_group_alias.column10, release_group_alias.column11, release_group_alias.column12, release_group_alias.column16
+[release_group_alias.column8, release_group_alias.column9] --> release_group_alias.column15, release_group_alias.column16, release_group_alias.column4, release_group_alias.column7
+[release_group_alias.column8] --> release_group_alias.column10, release_group_alias.column11, release_group_alias.column12, release_group_alias.column3
+[release_group_alias.column9] --> release_group_alias.column5
+[] --> instrument.column5
+[instrument.column1] --> instrument.column2, instrument.column3, instrument.column4, instrument.column6, instrument.column7, instrument.column8
+[instrument.column2] --> instrument.column1, instrument.column3, instrument.column4, instrument.column6, instrument.column7, instrument.column8
+[instrument.column3, instrument.column4] --> instrument.column7
+[instrument.column3, instrument.column7] --> instrument.column4
+[instrument.column3, instrument.column8] --> instrument.column1, instrument.column2, instrument.column4, instrument.column6, instrument.column7
+[instrument.column6] --> instrument.column1, instrument.column2, instrument.column3, instrument.column4, instrument.column7, instrument.column8
+[] --> sitemaps.place_lastmod.column3
+[sitemaps.place_lastmod.column1, sitemaps.place_lastmod.column4] --> sitemaps.place_lastmod.column2, sitemaps.place_lastmod.column5
+[sitemaps.place_lastmod.column1] --> sitemaps.place_lastmod.column6, sitemaps.place_lastmod.column7
+[sitemaps.place_lastmod.column2] --> sitemaps.place_lastmod.column1, sitemaps.place_lastmod.column4, sitemaps.place_lastmod.column5, sitemaps.place_lastmod.column6, sitemaps.place_lastmod.column7
+[sitemaps.place_lastmod.column4, sitemaps.place_lastmod.column5] --> sitemaps.place_lastmod.column2
+[sitemaps.place_lastmod.column5] --> sitemaps.place_lastmod.column1, sitemaps.place_lastmod.column6, sitemaps.place_lastmod.column7
+[sitemaps.place_lastmod.column6] --> sitemaps.place_lastmod.column7
+[] --> link_type.column12
+[link_type.column10, link_type.column14, link_type.column6] --> link_type.column16
+[link_type.column10, link_type.column15, link_type.column2, link_type.column6] --> link_type.column14
+[link_type.column10, link_type.column15, link_type.column2, link_type.column7] --> link_type.column9
+[link_type.column10, link_type.column15, link_type.column6] --> link_type.column16
+[link_type.column10, link_type.column16, link_type.column2, link_type.column6] --> link_type.column14
+[link_type.column10, link_type.column2, link_type.column3, link_type.column6] --> link_type.column14
+[link_type.column10, link_type.column2, link_type.column5] --> link_type.column11, link_type.column7, link_type.column9
+[link_type.column10, link_type.column2] --> link_type.column17
+[link_type.column10, link_type.column3, link_type.column5] --> link_type.column7
+[link_type.column10, link_type.column3, link_type.column6, link_type.column8] --> link_type.column2
+[link_type.column10, link_type.column3, link_type.column6] --> link_type.column16
+[link_type.column10, link_type.column5, link_type.column6] --> link_type.column1, link_type.column11, link_type.column13, link_type.column14, link_type.column16, link_type.column2, link_type.column3, link_type.column4, link_type.column7, link_type.column8, link_type.column9
+[link_type.column10, link_type.column5, link_type.column8] --> link_type.column11
+[link_type.column10, link_type.column5] --> link_type.column15
+[link_type.column10, link_type.column6, link_type.column8] --> link_type.column16
+[link_type.column10, link_type.column6] --> link_type.column17
+[link_type.column10, link_type.column8] --> link_type.column15, link_type.column17, link_type.column7, link_type.column9
+[link_type.column11, link_type.column14, link_type.column6] --> link_type.column16
+[link_type.column11, link_type.column15, link_type.column2, link_type.column6] --> link_type.column14
+[link_type.column11, link_type.column15, link_type.column2, link_type.column7] --> link_type.column9
+[link_type.column11, link_type.column15, link_type.column6] --> link_type.column16
+[link_type.column11, link_type.column16, link_type.column2, link_type.column6] --> link_type.column14
+[link_type.column11, link_type.column16, link_type.column2, link_type.column7] --> link_type.column9
+[link_type.column11, link_type.column2, link_type.column3, link_type.column6] --> link_type.column14
+[link_type.column11, link_type.column2, link_type.column5] --> link_type.column10, link_type.column7, link_type.column9
+[link_type.column11, link_type.column2, link_type.column7] --> link_type.column10
+[link_type.column11, link_type.column3, link_type.column5] --> link_type.column7
+[link_type.column11, link_type.column3, link_type.column6, link_type.column8] --> link_type.column2
+[link_type.column11, link_type.column3, link_type.column6] --> link_type.column16
+[link_type.column11, link_type.column5, link_type.column6] --> link_type.column1, link_type.column10, link_type.column13, link_type.column14, link_type.column16, link_type.column2, link_type.column3, link_type.column4, link_type.column7, link_type.column8, link_type.column9
+[link_type.column11, link_type.column5] --> link_type.column15
+[link_type.column11, link_type.column6, link_type.column7] --> link_type.column10, link_type.column9
+[link_type.column11, link_type.column6, link_type.column8] --> link_type.column16
+[link_type.column11, link_type.column8] --> link_type.column10, link_type.column15, link_type.column7, link_type.column9
+[link_type.column11] --> link_type.column17
+[link_type.column13] --> link_type.column1, link_type.column10, link_type.column11, link_type.column14, link_type.column15, link_type.column16, link_type.column17, link_type.column2, link_type.column3, link_type.column4, link_type.column5, link_type.column6, link_type.column7, link_type.column8, link_type.column9
+[link_type.column14, link_type.column6, link_type.column7] --> link_type.column16
+[link_type.column14, link_type.column6, link_type.column9] --> link_type.column16
+[link_type.column15, link_type.column2, link_type.column5, link_type.column9] --> link_type.column10, link_type.column11, link_type.column7
+[link_type.column15, link_type.column2, link_type.column6, link_type.column7] --> link_type.column14, link_type.column9
+[link_type.column15, link_type.column2, link_type.column6, link_type.column9] --> link_type.column14
+[link_type.column15, link_type.column2, link_type.column7] --> link_type.column17
+[link_type.column15, link_type.column3, link_type.column5, link_type.column9] --> link_type.column7
+[link_type.column15, link_type.column5, link_type.column6, link_type.column7] --> link_type.column1, link_type.column10, link_type.column11, link_type.column13, link_type.column2, link_type.column3, link_type.column4, link_type.column8, link_type.column9
+[link_type.column15, link_type.column5, link_type.column8, link_type.column9] --> link_type.column11
+[link_type.column15, link_type.column6, link_type.column7] --> link_type.column16
+[link_type.column15, link_type.column6, link_type.column9] --> link_type.column16
+[link_type.column15, link_type.column8, link_type.column9] --> link_type.column10, link_type.column7
+[link_type.column16, link_type.column2, link_type.column5, link_type.column9] --> link_type.column10, link_type.column11, link_type.column7
+[link_type.column16, link_type.column2, link_type.column6, link_type.column7] --> link_type.column14
+[link_type.column16, link_type.column2, link_type.column6, link_type.column9] --> link_type.column14
+[link_type.column16, link_type.column2, link_type.column7] --> link_type.column17
+[link_type.column16, link_type.column3, link_type.column5, link_type.column9] --> link_type.column7
+[link_type.column16, link_type.column5, link_type.column8, link_type.column9] --> link_type.column11
+[link_type.column16, link_type.column5, link_type.column8] --> link_type.column15
+[link_type.column16, link_type.column5, link_type.column9] --> link_type.column15
+[link_type.column16, link_type.column8, link_type.column9] --> link_type.column10, link_type.column15, link_type.column7
+[link_type.column1] --> link_type.column10, link_type.column11, link_type.column13, link_type.column14, link_type.column15, link_type.column16, link_type.column17, link_type.column2, link_type.column3, link_type.column4, link_type.column5, link_type.column6, link_type.column7, link_type.column8, link_type.column9
+[link_type.column2, link_type.column3, link_type.column5, link_type.column7] --> link_type.column10, link_type.column11, link_type.column9
+[link_type.column2, link_type.column3, link_type.column6, link_type.column7] --> link_type.column14
+[link_type.column2, link_type.column3, link_type.column6, link_type.column9] --> link_type.column14
+[link_type.column2, link_type.column5, link_type.column6, link_type.column7] --> link_type.column1, link_type.column11, link_type.column13, link_type.column3, link_type.column4, link_type.column8, link_type.column9
+[link_type.column2, link_type.column5, link_type.column7, link_type.column8] --> link_type.column10, link_type.column11, link_type.column9
+[link_type.column2, link_type.column5, link_type.column7, link_type.column9] --> link_type.column11
+[link_type.column2, link_type.column5, link_type.column7] --> link_type.column15, link_type.column17
+[link_type.column2, link_type.column6, link_type.column7] --> link_type.column10
+[link_type.column2, link_type.column7, link_type.column9] --> link_type.column10
+[link_type.column3, link_type.column5, link_type.column6, link_type.column7] --> link_type.column1, link_type.column10, link_type.column11, link_type.column13, link_type.column2, link_type.column4, link_type.column8, link_type.column9
+[link_type.column3, link_type.column5, link_type.column6, link_type.column8] --> link_type.column16
+[link_type.column3, link_type.column5, link_type.column7] --> link_type.column15
+[link_type.column3, link_type.column6, link_type.column7, link_type.column8] --> link_type.column2
+[link_type.column3, link_type.column6, link_type.column7] --> link_type.column16
+[link_type.column3, link_type.column6, link_type.column8, link_type.column9] --> link_type.column2
+[link_type.column3, link_type.column6, link_type.column9] --> link_type.column16
+[link_type.column4] --> link_type.column1, link_type.column10, link_type.column11, link_type.column13, link_type.column14, link_type.column15, link_type.column16, link_type.column17, link_type.column2, link_type.column3, link_type.column5, link_type.column6, link_type.column7, link_type.column8, link_type.column9
+[link_type.column5, link_type.column6, link_type.column7, link_type.column8] --> link_type.column1, link_type.column11, link_type.column13, link_type.column2, link_type.column3, link_type.column4
+[link_type.column5, link_type.column6, link_type.column7] --> link_type.column14, link_type.column16
+[link_type.column5, link_type.column6, link_type.column8] --> link_type.column15, link_type.column17
+[link_type.column5, link_type.column6, link_type.column9] --> link_type.column1, link_type.column10, link_type.column11, link_type.column13, link_type.column14, link_type.column15, link_type.column16, link_type.column2, link_type.column3, link_type.column4, link_type.column7, link_type.column8
+[link_type.column5, link_type.column7, link_type.column8, link_type.column9] --> link_type.column11
+[link_type.column5, link_type.column7, link_type.column9] --> link_type.column15
+[link_type.column6, link_type.column7, link_type.column8] --> link_type.column10, link_type.column16, link_type.column9
+[link_type.column6, link_type.column7] --> link_type.column17
+[link_type.column6, link_type.column8, link_type.column9] --> link_type.column10, link_type.column15, link_type.column16, link_type.column7
+[link_type.column7, link_type.column8, link_type.column9] --> link_type.column10
+[link_type.column7, link_type.column8] --> link_type.column15, link_type.column17
+[link_type.column8] --> link_type.column14
+[link_type.column9] --> link_type.column17
+[work_alias.column10, work_alias.column11] --> work_alias.column13
+[work_alias.column10, work_alias.column12, work_alias.column6] --> work_alias.column9
+[work_alias.column10, work_alias.column14, work_alias.column15] --> work_alias.column13
+[work_alias.column10, work_alias.column14, work_alias.column16] --> work_alias.column13
+[work_alias.column10, work_alias.column15, work_alias.column3] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column10, work_alias.column15, work_alias.column4] --> work_alias.column13
+[work_alias.column10, work_alias.column15, work_alias.column8] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column10, work_alias.column16, work_alias.column4] --> work_alias.column13
+[work_alias.column10, work_alias.column16, work_alias.column6] --> work_alias.column9
+[work_alias.column10, work_alias.column2] --> work_alias.column11, work_alias.column13, work_alias.column14
+[work_alias.column10, work_alias.column3, work_alias.column4] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column10, work_alias.column3, work_alias.column7] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column10, work_alias.column3] --> work_alias.column11, work_alias.column13, work_alias.column14
+[work_alias.column10, work_alias.column4, work_alias.column8] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column10, work_alias.column4, work_alias.column9] --> work_alias.column11
+[work_alias.column10, work_alias.column6, work_alias.column9] --> work_alias.column12
+[work_alias.column10, work_alias.column6] --> work_alias.column11, work_alias.column13, work_alias.column14
+[work_alias.column10, work_alias.column7, work_alias.column8] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column10, work_alias.column8] --> work_alias.column11, work_alias.column13, work_alias.column14
+[work_alias.column10, work_alias.column9] --> work_alias.column13, work_alias.column14
+[work_alias.column11, work_alias.column12, work_alias.column15, work_alias.column2] --> work_alias.column10
+[work_alias.column11, work_alias.column12, work_alias.column2, work_alias.column4] --> work_alias.column10
+[work_alias.column11, work_alias.column12, work_alias.column2, work_alias.column7] --> work_alias.column10
+[work_alias.column11, work_alias.column12, work_alias.column6] --> work_alias.column9
+[work_alias.column11, work_alias.column13, work_alias.column15, work_alias.column2] --> work_alias.column10
+[work_alias.column11, work_alias.column13, work_alias.column2, work_alias.column4] --> work_alias.column10
+[work_alias.column11, work_alias.column13, work_alias.column2, work_alias.column7] --> work_alias.column10
+[work_alias.column11, work_alias.column15, work_alias.column16, work_alias.column2] --> work_alias.column10
+[work_alias.column11, work_alias.column15, work_alias.column3] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column11, work_alias.column15, work_alias.column8] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column11, work_alias.column16, work_alias.column2, work_alias.column4] --> work_alias.column10
+[work_alias.column11, work_alias.column16, work_alias.column2, work_alias.column7] --> work_alias.column10
+[work_alias.column11, work_alias.column16, work_alias.column6] --> work_alias.column9
+[work_alias.column11, work_alias.column3, work_alias.column4] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column11, work_alias.column3, work_alias.column7] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column11, work_alias.column3] --> work_alias.column10, work_alias.column13
+[work_alias.column11, work_alias.column4, work_alias.column8] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column11, work_alias.column6, work_alias.column9] --> work_alias.column12
+[work_alias.column11, work_alias.column6] --> work_alias.column10, work_alias.column13
+[work_alias.column11, work_alias.column7, work_alias.column8] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column11, work_alias.column8] --> work_alias.column10, work_alias.column13
+[work_alias.column11, work_alias.column9] --> work_alias.column10, work_alias.column13
+[work_alias.column11] --> work_alias.column14
+[work_alias.column12, work_alias.column3] --> work_alias.column10, work_alias.column11, work_alias.column16, work_alias.column9
+[work_alias.column12, work_alias.column4, work_alias.column9] --> work_alias.column10, work_alias.column11
+[work_alias.column12, work_alias.column6, work_alias.column9] --> work_alias.column10, work_alias.column11
+[work_alias.column12, work_alias.column8] --> work_alias.column10, work_alias.column11, work_alias.column16, work_alias.column9
+[work_alias.column12] --> work_alias.column13, work_alias.column14
+[work_alias.column13, work_alias.column15, work_alias.column3] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column13, work_alias.column15, work_alias.column8] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column13, work_alias.column2] --> work_alias.column14
+[work_alias.column13, work_alias.column3, work_alias.column4] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column13, work_alias.column3, work_alias.column7] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column13, work_alias.column3] --> work_alias.column10, work_alias.column11, work_alias.column14
+[work_alias.column13, work_alias.column4, work_alias.column8] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column13, work_alias.column4, work_alias.column9] --> work_alias.column10, work_alias.column11
+[work_alias.column13, work_alias.column6, work_alias.column9] --> work_alias.column10, work_alias.column11, work_alias.column12
+[work_alias.column13, work_alias.column6] --> work_alias.column14
+[work_alias.column13, work_alias.column7, work_alias.column8] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column13, work_alias.column8] --> work_alias.column10, work_alias.column11, work_alias.column14
+[work_alias.column13, work_alias.column9] --> work_alias.column14
+[work_alias.column14, work_alias.column15, work_alias.column3] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column14, work_alias.column15, work_alias.column8] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column14, work_alias.column3, work_alias.column4] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column14, work_alias.column3, work_alias.column7] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column14, work_alias.column3] --> work_alias.column10, work_alias.column11, work_alias.column13
+[work_alias.column14, work_alias.column4, work_alias.column8] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column14, work_alias.column4, work_alias.column9] --> work_alias.column10, work_alias.column11
+[work_alias.column14, work_alias.column6, work_alias.column9] --> work_alias.column10, work_alias.column11, work_alias.column12
+[work_alias.column14, work_alias.column6] --> work_alias.column13
+[work_alias.column14, work_alias.column7, work_alias.column8] --> work_alias.column12, work_alias.column16, work_alias.column9
+[work_alias.column14, work_alias.column8] --> work_alias.column10, work_alias.column11, work_alias.column13
+[work_alias.column14, work_alias.column9] --> work_alias.column13
+[work_alias.column15, work_alias.column2, work_alias.column3, work_alias.column6] --> work_alias.column7
+[work_alias.column15, work_alias.column2, work_alias.column4] --> work_alias.column14
+[work_alias.column15, work_alias.column2, work_alias.column6, work_alias.column8] --> work_alias.column7
+[work_alias.column15, work_alias.column2, work_alias.column7] --> work_alias.column14
+[work_alias.column15, work_alias.column2, work_alias.column9] --> work_alias.column13, work_alias.column14
+[work_alias.column15, work_alias.column3, work_alias.column6] --> work_alias.column4, work_alias.column8
+[work_alias.column15, work_alias.column4, work_alias.column9] --> work_alias.column10, work_alias.column11, work_alias.column13, work_alias.column14
+[work_alias.column15, work_alias.column6, work_alias.column8] --> work_alias.column4
+[work_alias.column15, work_alias.column6] --> work_alias.column10, work_alias.column11, work_alias.column12, work_alias.column13, work_alias.column14, work_alias.column9
+[work_alias.column16, work_alias.column2] --> work_alias.column12, work_alias.column13, work_alias.column14
+[work_alias.column16, work_alias.column3] --> work_alias.column10, work_alias.column11, work_alias.column12, work_alias.column13, work_alias.column14, work_alias.column9
+[work_alias.column16, work_alias.column4, work_alias.column9] --> work_alias.column10, work_alias.column11
+[work_alias.column16, work_alias.column6, work_alias.column9] --> work_alias.column10, work_alias.column11
+[work_alias.column16, work_alias.column6] --> work_alias.column12, work_alias.column13, work_alias.column14
+[work_alias.column16, work_alias.column7, work_alias.column9] --> work_alias.column12
+[work_alias.column16, work_alias.column8] --> work_alias.column10, work_alias.column11, work_alias.column12, work_alias.column13, work_alias.column14, work_alias.column9
+[work_alias.column16, work_alias.column9] --> work_alias.column13, work_alias.column14
+[work_alias.column1] --> work_alias.column10, work_alias.column11, work_alias.column12, work_alias.column13, work_alias.column14, work_alias.column15, work_alias.column16, work_alias.column2, work_alias.column3, work_alias.column4, work_alias.column5, work_alias.column6, work_alias.column7, work_alias.column8, work_alias.column9
+[work_alias.column2, work_alias.column3] --> work_alias.column10, work_alias.column11, work_alias.column12, work_alias.column13, work_alias.column14, work_alias.column16, work_alias.column9
+[work_alias.column2, work_alias.column8] --> work_alias.column10, work_alias.column11, work_alias.column12, work_alias.column13, work_alias.column14, work_alias.column16, work_alias.column9
+[work_alias.column2] --> work_alias.column5
+[work_alias.column3, work_alias.column6] --> work_alias.column10, work_alias.column11, work_alias.column12, work_alias.column13, work_alias.column14, work_alias.column16, work_alias.column9
+[work_alias.column3, work_alias.column9] --> work_alias.column10, work_alias.column11, work_alias.column12, work_alias.column13, work_alias.column14, work_alias.column16
+[work_alias.column3] --> work_alias.column5
+[work_alias.column6, work_alias.column8] --> work_alias.column10, work_alias.column11, work_alias.column12, work_alias.column13, work_alias.column14, work_alias.column16, work_alias.column9
+[work_alias.column6] --> work_alias.column5
+[work_alias.column8, work_alias.column9] --> work_alias.column10, work_alias.column11, work_alias.column12, work_alias.column13, work_alias.column14, work_alias.column16
+[work_alias.column8] --> work_alias.column5
+[track_gid_redirect.column1] --> track_gid_redirect.column2, track_gid_redirect.column3
+[] --> instrument_alias.column10, instrument_alias.column11, instrument_alias.column12, instrument_alias.column13, instrument_alias.column14, instrument_alias.column16, instrument_alias.column5, instrument_alias.column9
+[instrument_alias.column15, instrument_alias.column2, instrument_alias.column3] --> instrument_alias.column7
+[instrument_alias.column15, instrument_alias.column2, instrument_alias.column4, instrument_alias.column8] --> instrument_alias.column1
+[instrument_alias.column15, instrument_alias.column2, instrument_alias.column8] --> instrument_alias.column7
+[instrument_alias.column15, instrument_alias.column3, instrument_alias.column6] --> instrument_alias.column7
+[instrument_alias.column15, instrument_alias.column8] --> instrument_alias.column3
+[instrument_alias.column1] --> instrument_alias.column15, instrument_alias.column2, instrument_alias.column3, instrument_alias.column4, instrument_alias.column6, instrument_alias.column7, instrument_alias.column8
+[instrument_alias.column2, instrument_alias.column3, instrument_alias.column4] --> instrument_alias.column1, instrument_alias.column15, instrument_alias.column6
+[instrument_alias.column2, instrument_alias.column3, instrument_alias.column6] --> instrument_alias.column7
+[instrument_alias.column2, instrument_alias.column4, instrument_alias.column8] --> instrument_alias.column6
+[instrument_alias.column3, instrument_alias.column4, instrument_alias.column6] --> instrument_alias.column15
+[instrument_alias.column3, instrument_alias.column4] --> instrument_alias.column7, instrument_alias.column8
+[instrument_alias.column4, instrument_alias.column8] --> instrument_alias.column7
+[instrument_alias.column6, instrument_alias.column8] --> instrument_alias.column7
+[artist_gid_redirect.column1] --> artist_gid_redirect.column2, artist_gid_redirect.column3
+[] --> l_area_instrument.column2, l_area_instrument.column5, l_area_instrument.column7, l_area_instrument.column8, l_area_instrument.column9
+[l_area_instrument.column1] --> l_area_instrument.column3, l_area_instrument.column4, l_area_instrument.column6
+[l_area_instrument.column3, l_area_instrument.column4] --> l_area_instrument.column1, l_area_instrument.column6
+[] --> l_label_work.column7, l_label_work.column8, l_label_work.column9
+[l_label_work.column1] --> l_label_work.column2, l_label_work.column3, l_label_work.column4, l_label_work.column5, l_label_work.column6
+[l_label_work.column2, l_label_work.column3, l_label_work.column4] --> l_label_work.column1, l_label_work.column6
+[l_label_work.column3, l_label_work.column4, l_label_work.column6] --> l_label_work.column1, l_label_work.column2
+[l_label_work.column4] --> l_label_work.column5
+[] --> editor_sanitised.column15, editor_sanitised.column16, editor_sanitised.column17, editor_sanitised.column18, editor_sanitised.column3, editor_sanitised.column4, editor_sanitised.column5, editor_sanitised.column6, editor_sanitised.column9
+[editor_sanitised.column10, editor_sanitised.column11, editor_sanitised.column7] --> editor_sanitised.column20
+[editor_sanitised.column10, editor_sanitised.column13, editor_sanitised.column7] --> editor_sanitised.column20
+[editor_sanitised.column10, editor_sanitised.column14, editor_sanitised.column7] --> editor_sanitised.column1, editor_sanitised.column11, editor_sanitised.column12, editor_sanitised.column13, editor_sanitised.column19, editor_sanitised.column2, editor_sanitised.column8
+[editor_sanitised.column10, editor_sanitised.column7, editor_sanitised.column8] --> editor_sanitised.column20
+[editor_sanitised.column11, editor_sanitised.column14, editor_sanitised.column7] --> editor_sanitised.column1, editor_sanitised.column10, editor_sanitised.column12, editor_sanitised.column13, editor_sanitised.column19, editor_sanitised.column2, editor_sanitised.column8
+[editor_sanitised.column12, editor_sanitised.column14, editor_sanitised.column7] --> editor_sanitised.column1, editor_sanitised.column10, editor_sanitised.column11, editor_sanitised.column13, editor_sanitised.column19, editor_sanitised.column2, editor_sanitised.column8
+[editor_sanitised.column12, editor_sanitised.column7] --> editor_sanitised.column20
+[editor_sanitised.column14, editor_sanitised.column7, editor_sanitised.column8] --> editor_sanitised.column1, editor_sanitised.column10, editor_sanitised.column11, editor_sanitised.column12, editor_sanitised.column13, editor_sanitised.column19, editor_sanitised.column2
+[editor_sanitised.column14, editor_sanitised.column7] --> editor_sanitised.column20
+[editor_sanitised.column19] --> editor_sanitised.column1, editor_sanitised.column10, editor_sanitised.column11, editor_sanitised.column12, editor_sanitised.column13, editor_sanitised.column14, editor_sanitised.column2, editor_sanitised.column20, editor_sanitised.column7, editor_sanitised.column8
+[editor_sanitised.column1] --> editor_sanitised.column10, editor_sanitised.column11, editor_sanitised.column12, editor_sanitised.column13, editor_sanitised.column14, editor_sanitised.column19, editor_sanitised.column2, editor_sanitised.column20, editor_sanitised.column7, editor_sanitised.column8
+[editor_sanitised.column2] --> editor_sanitised.column1, editor_sanitised.column10, editor_sanitised.column11, editor_sanitised.column12, editor_sanitised.column13, editor_sanitised.column14, editor_sanitised.column19, editor_sanitised.column20, editor_sanitised.column7, editor_sanitised.column8
+[] --> recording_alias_type.column3, recording_alias_type.column4, recording_alias_type.column5
+[recording_alias_type.column1] --> recording_alias_type.column2
+[recording_alias_type.column2] --> recording_alias_type.column1
+[] --> documentation.l_url_work_example.column2, documentation.l_url_work_example.column3
+[] --> l_area_event.column5, l_area_event.column7, l_area_event.column8, l_area_event.column9
+[l_area_event.column1] --> l_area_event.column2, l_area_event.column3, l_area_event.column4, l_area_event.column6
+[l_area_event.column3, l_area_event.column4] --> l_area_event.column1
+[l_area_event.column3, l_area_event.column6] --> l_area_event.column1
+[l_area_event.column4] --> l_area_event.column2, l_area_event.column6
+[l_area_event.column6] --> l_area_event.column2, l_area_event.column4
+[label_gid_redirect.column1] --> label_gid_redirect.column2, label_gid_redirect.column3
+[release_label.column1] --> release_label.column2, release_label.column3, release_label.column4, release_label.column5
+[] --> gender.column3, gender.column5
+[gender.column1] --> gender.column2, gender.column4
+[gender.column2] --> gender.column1, gender.column4
+[gender.column4] --> gender.column1, gender.column2
+[] --> l_place_release.column7, l_place_release.column8, l_place_release.column9
+[l_place_release.column1] --> l_place_release.column2, l_place_release.column3, l_place_release.column4, l_place_release.column5, l_place_release.column6
+[l_place_release.column2, l_place_release.column3, l_place_release.column4] --> l_place_release.column1, l_place_release.column6
+[l_place_release.column4] --> l_place_release.column5
+[l_place_release.column6] --> l_place_release.column5
+[artist_credit_name.column1, artist_credit_name.column2] --> artist_credit_name.column3, artist_credit_name.column4, artist_credit_name.column5
+[series_type.column1] --> series_type.column2, series_type.column3, series_type.column4, series_type.column5, series_type.column6
+[series_type.column2] --> series_type.column1, series_type.column3, series_type.column4, series_type.column5, series_type.column6
+[series_type.column3, series_type.column5] --> series_type.column1, series_type.column2, series_type.column4, series_type.column6
+[series_type.column4, series_type.column5] --> series_type.column1, series_type.column2, series_type.column3, series_type.column6
+[series_type.column6] --> series_type.column1, series_type.column2, series_type.column3, series_type.column4, series_type.column5
+[label_tag.column1, label_tag.column2] --> label_tag.column3, label_tag.column4
+[] --> work_attribute_type.column3, work_attribute_type.column7
+[work_attribute_type.column1] --> work_attribute_type.column2, work_attribute_type.column4, work_attribute_type.column5, work_attribute_type.column6
+[work_attribute_type.column2] --> work_attribute_type.column1, work_attribute_type.column4, work_attribute_type.column5, work_attribute_type.column6
+[work_attribute_type.column4] --> work_attribute_type.column5
+[work_attribute_type.column5] --> work_attribute_type.column4
+[statistics.statistic_event.column1] --> statistics.statistic_event.column2, statistics.statistic_event.column3, statistics.statistic_event.column4
+[statistics.statistic_event.column2, statistics.statistic_event.column3] --> statistics.statistic_event.column1, statistics.statistic_event.column4
+[statistics.statistic_event.column3, statistics.statistic_event.column4] --> statistics.statistic_event.column1, statistics.statistic_event.column2
+[] --> replication_control.column1, replication_control.column2, replication_control.column3, replication_control.column4
+[recording_annotation.column2] --> recording_annotation.column1
+[] --> event_alias_type.column3, event_alias_type.column4, event_alias_type.column5
+[event_alias_type.column1] --> event_alias_type.column2
+[event_alias_type.column2] --> event_alias_type.column1
+[instrument_tag.column1, instrument_tag.column2] --> instrument_tag.column4
+[instrument_tag.column2] --> instrument_tag.column3
+[instrument_tag.column4] --> instrument_tag.column1, instrument_tag.column2, instrument_tag.column3
+[cdtoc_raw.column1] --> cdtoc_raw.column2, cdtoc_raw.column3, cdtoc_raw.column4, cdtoc_raw.column5, cdtoc_raw.column6
+[cdtoc_raw.column2] --> cdtoc_raw.column1, cdtoc_raw.column3, cdtoc_raw.column4, cdtoc_raw.column5, cdtoc_raw.column6
+[cdtoc_raw.column3] --> cdtoc_raw.column1, cdtoc_raw.column2, cdtoc_raw.column4, cdtoc_raw.column5, cdtoc_raw.column6
+[cdtoc_raw.column5, cdtoc_raw.column6] --> cdtoc_raw.column1, cdtoc_raw.column2, cdtoc_raw.column3
+[cdtoc_raw.column6] --> cdtoc_raw.column4
+[] --> event_tag.column3
+[event_tag.column1, event_tag.column2] --> event_tag.column4
+[event_tag.column4] --> event_tag.column1
+[series_gid_redirect.column1] --> series_gid_redirect.column2, series_gid_redirect.column3
+[series_gid_redirect.column2] --> series_gid_redirect.column3
+[series_gid_redirect.column3] --> series_gid_redirect.column2
+[vote.column1] --> vote.column2, vote.column3, vote.column4, vote.column5, vote.column6
+[] --> l_label_release.column7, l_label_release.column8, l_label_release.column9
+[l_label_release.column1] --> l_label_release.column2, l_label_release.column3, l_label_release.column4, l_label_release.column5, l_label_release.column6
+[l_label_release.column2, l_label_release.column3, l_label_release.column4] --> l_label_release.column1, l_label_release.column6
+[l_label_release.column4] --> l_label_release.column5
+[l_label_release.column6] --> l_label_release.column5
+[language.column1] --> language.column2, language.column3, language.column4, language.column5, language.column6, language.column7
+[language.column2, language.column7] --> language.column1, language.column4, language.column5
+[language.column2] --> language.column3
+[language.column3, language.column7] --> language.column1, language.column4, language.column5
+[language.column3] --> language.column2
+[language.column5] --> language.column1, language.column2, language.column3, language.column4, language.column6, language.column7
+[language.column7] --> language.column6
+[] --> documentation.l_place_url_example.column2, documentation.l_place_url_example.column3
+[] --> documentation.l_work_work_example.column2, documentation.l_work_work_example.column3
+[link_attribute_type.column1] --> link_attribute_type.column2, link_attribute_type.column3, link_attribute_type.column4, link_attribute_type.column5, link_attribute_type.column6, link_attribute_type.column7, link_attribute_type.column8
+[link_attribute_type.column4, link_attribute_type.column7, link_attribute_type.column8] --> link_attribute_type.column1, link_attribute_type.column5, link_attribute_type.column6
+[link_attribute_type.column4, link_attribute_type.column7] --> link_attribute_type.column2
+[link_attribute_type.column5] --> link_attribute_type.column1, link_attribute_type.column2, link_attribute_type.column3, link_attribute_type.column4, link_attribute_type.column6, link_attribute_type.column7, link_attribute_type.column8
+[link_attribute_type.column6, link_attribute_type.column7] --> link_attribute_type.column1, link_attribute_type.column5, link_attribute_type.column8
+[link_attribute_type.column6, link_attribute_type.column8] --> link_attribute_type.column1, link_attribute_type.column5, link_attribute_type.column7
+[link_attribute_type.column6] --> link_attribute_type.column2, link_attribute_type.column3, link_attribute_type.column4
+[link_attribute_type.column7] --> link_attribute_type.column3
+[] --> area.column5
+[area.column10, area.column7] --> area.column8, area.column9
+[area.column10] --> area.column11, area.column12, area.column13
+[area.column11, area.column13, area.column7] --> area.column10
+[area.column11, area.column7] --> area.column8, area.column9
+[area.column11] --> area.column12
+[area.column12, area.column7] --> area.column8, area.column9
+[area.column1] --> area.column10, area.column11, area.column12, area.column13, area.column14, area.column2, area.column3, area.column4, area.column6, area.column7, area.column8, area.column9
+[area.column2] --> area.column1, area.column10, area.column11, area.column12, area.column13, area.column14, area.column3, area.column4, area.column6, area.column7, area.column8, area.column9
+[area.column3] --> area.column10, area.column11, area.column12, area.column13, area.column7, area.column8, area.column9
+[area.column6] --> area.column10, area.column11, area.column12, area.column13, area.column14, area.column3, area.column4, area.column7, area.column8, area.column9
+[area.column8] --> area.column9
+[area.column9] --> area.column8
+[recording_meta.column1] --> recording_meta.column2, recording_meta.column3
+[] --> l_artist_event.column7, l_artist_event.column9
+[l_artist_event.column1] --> l_artist_event.column2, l_artist_event.column3, l_artist_event.column4, l_artist_event.column5, l_artist_event.column6, l_artist_event.column8
+[l_artist_event.column2, l_artist_event.column3, l_artist_event.column4] --> l_artist_event.column1, l_artist_event.column6
+[l_artist_event.column3, l_artist_event.column4] --> l_artist_event.column5, l_artist_event.column8
+[l_artist_event.column3, l_artist_event.column6] --> l_artist_event.column5, l_artist_event.column8
+[medium_index.column1] --> medium_index.column2
+[area_tag.column1, area_tag.column2] --> area_tag.column3, area_tag.column4
+[area_tag.column4] --> area_tag.column1, area_tag.column2, area_tag.column3
+[] --> area_alias.column5
+[area_alias.column10, area_alias.column12, area_alias.column2, area_alias.column4] --> area_alias.column9
+[area_alias.column10, area_alias.column15, area_alias.column2] --> area_alias.column13, area_alias.column14
+[area_alias.column10, area_alias.column15, area_alias.column6] --> area_alias.column12, area_alias.column13, area_alias.column14, area_alias.column16
+[area_alias.column10, area_alias.column6] --> area_alias.column9
+[area_alias.column10] --> area_alias.column11
+[area_alias.column11, area_alias.column12, area_alias.column2, area_alias.column4] --> area_alias.column9
+[area_alias.column11, area_alias.column15, area_alias.column2] --> area_alias.column13, area_alias.column14
+[area_alias.column11, area_alias.column15, area_alias.column6] --> area_alias.column12, area_alias.column13, area_alias.column14, area_alias.column16
+[area_alias.column11, area_alias.column6] --> area_alias.column9
+[area_alias.column11] --> area_alias.column10
+[area_alias.column12, area_alias.column15, area_alias.column2, area_alias.column4] --> area_alias.column10, area_alias.column11, area_alias.column9
+[area_alias.column12, area_alias.column15, area_alias.column2] --> area_alias.column16
+[area_alias.column12, area_alias.column15, area_alias.column4, area_alias.column7] --> area_alias.column16
+[area_alias.column12, area_alias.column15, area_alias.column6] --> area_alias.column10, area_alias.column11, area_alias.column9
+[area_alias.column12, area_alias.column2, area_alias.column4] --> area_alias.column16
+[area_alias.column12, area_alias.column3] --> area_alias.column16
+[area_alias.column12, area_alias.column6] --> area_alias.column16
+[area_alias.column12, area_alias.column8] --> area_alias.column16
+[area_alias.column12] --> area_alias.column13, area_alias.column14
+[area_alias.column13, area_alias.column15, area_alias.column2, area_alias.column4] --> area_alias.column10, area_alias.column11
+[area_alias.column13, area_alias.column15, area_alias.column6] --> area_alias.column10, area_alias.column11, area_alias.column9
+[area_alias.column13, area_alias.column2, area_alias.column4, area_alias.column9] --> area_alias.column12, area_alias.column16
+[area_alias.column13, area_alias.column3] --> area_alias.column12, area_alias.column16
+[area_alias.column13, area_alias.column6] --> area_alias.column12, area_alias.column16
+[area_alias.column13, area_alias.column8] --> area_alias.column12, area_alias.column16
+[area_alias.column13] --> area_alias.column14
+[area_alias.column14, area_alias.column15, area_alias.column2, area_alias.column4] --> area_alias.column10, area_alias.column11
+[area_alias.column14, area_alias.column15, area_alias.column6] --> area_alias.column10, area_alias.column11, area_alias.column9
+[area_alias.column14, area_alias.column2, area_alias.column4, area_alias.column9] --> area_alias.column12, area_alias.column16
+[area_alias.column14, area_alias.column3] --> area_alias.column12, area_alias.column16
+[area_alias.column14, area_alias.column6] --> area_alias.column12, area_alias.column16
+[area_alias.column14, area_alias.column8] --> area_alias.column12, area_alias.column16
+[area_alias.column14] --> area_alias.column13
+[area_alias.column15, area_alias.column16, area_alias.column2, area_alias.column4] --> area_alias.column10, area_alias.column11
+[area_alias.column15, area_alias.column16, area_alias.column6] --> area_alias.column10, area_alias.column11, area_alias.column9
+[area_alias.column15, area_alias.column2, area_alias.column3, area_alias.column4] --> area_alias.column6, area_alias.column7
+[area_alias.column15, area_alias.column2, area_alias.column4, area_alias.column8] --> area_alias.column6, area_alias.column7
+[area_alias.column15, area_alias.column2, area_alias.column9] --> area_alias.column12, area_alias.column13, area_alias.column14, area_alias.column16
+[area_alias.column15, area_alias.column3, area_alias.column6] --> area_alias.column7
+[area_alias.column15, area_alias.column3] --> area_alias.column12, area_alias.column13, area_alias.column14, area_alias.column16
+[area_alias.column15, area_alias.column6, area_alias.column8] --> area_alias.column7
+[area_alias.column15, area_alias.column6, area_alias.column9] --> area_alias.column12, area_alias.column13, area_alias.column14, area_alias.column16
+[area_alias.column15, area_alias.column8] --> area_alias.column12, area_alias.column13, area_alias.column14, area_alias.column16
+[area_alias.column16, area_alias.column2, area_alias.column9] --> area_alias.column12
+[area_alias.column16, area_alias.column2] --> area_alias.column13, area_alias.column14
+[area_alias.column16, area_alias.column3] --> area_alias.column12, area_alias.column13, area_alias.column14
+[area_alias.column16, area_alias.column6] --> area_alias.column12, area_alias.column13, area_alias.column14
+[area_alias.column16, area_alias.column8] --> area_alias.column12, area_alias.column13, area_alias.column14
+[area_alias.column1] --> area_alias.column10, area_alias.column11, area_alias.column12, area_alias.column13, area_alias.column14, area_alias.column15, area_alias.column16, area_alias.column2, area_alias.column3, area_alias.column4, area_alias.column6, area_alias.column7, area_alias.column8, area_alias.column9
+[area_alias.column3, area_alias.column4] --> area_alias.column12, area_alias.column13, area_alias.column14, area_alias.column16, area_alias.column8
+[area_alias.column3, area_alias.column6] --> area_alias.column12, area_alias.column13, area_alias.column14, area_alias.column16, area_alias.column8
+[area_alias.column3] --> area_alias.column10, area_alias.column11, area_alias.column9
+[area_alias.column4, area_alias.column8] --> area_alias.column12, area_alias.column13, area_alias.column14, area_alias.column16
+[area_alias.column6, area_alias.column8] --> area_alias.column12, area_alias.column13, area_alias.column14, area_alias.column16
+[area_alias.column6] --> area_alias.column2
+[area_alias.column8] --> area_alias.column10, area_alias.column11, area_alias.column3, area_alias.column9
+[area_alias.column9] --> area_alias.column10, area_alias.column11
+[event_annotation.column2] --> event_annotation.column1
+[] --> l_recording_series.column5, l_recording_series.column8, l_recording_series.column9
+[l_recording_series.column1] --> l_recording_series.column2, l_recording_series.column3, l_recording_series.column4, l_recording_series.column6, l_recording_series.column7
+[l_recording_series.column2, l_recording_series.column3, l_recording_series.column4] --> l_recording_series.column1, l_recording_series.column6, l_recording_series.column7
+[l_recording_series.column2, l_recording_series.column6, l_recording_series.column7] --> l_recording_series.column1, l_recording_series.column3
+[l_recording_series.column3, l_recording_series.column4, l_recording_series.column6] --> l_recording_series.column1, l_recording_series.column7
+[l_recording_series.column3, l_recording_series.column6] --> l_recording_series.column2
+[l_recording_series.column3, l_recording_series.column7] --> l_recording_series.column1, l_recording_series.column2, l_recording_series.column4, l_recording_series.column6
+[l_recording_series.column6, l_recording_series.column7] --> l_recording_series.column4
+[area_annotation.column2] --> area_annotation.column1
+[url_gid_redirect.column1] --> url_gid_redirect.column2, url_gid_redirect.column3
+[] --> label_type.column4, label_type.column5
+[label_type.column1] --> label_type.column2, label_type.column3
+[label_type.column2] --> label_type.column1, label_type.column3
+[] --> place_type.column3
+[place_type.column1] --> place_type.column2, place_type.column4, place_type.column5
+[place_type.column2] --> place_type.column1, place_type.column4, place_type.column5
+[place_type.column4] --> place_type.column1, place_type.column2, place_type.column5
+[place_type.column5] --> place_type.column1, place_type.column2, place_type.column4
+[] --> documentation.l_release_url_example.column2, documentation.l_release_url_example.column3
+[] --> l_release_group_series.column8, l_release_group_series.column9
+[l_release_group_series.column1] --> l_release_group_series.column2, l_release_group_series.column3, l_release_group_series.column4, l_release_group_series.column5, l_release_group_series.column6, l_release_group_series.column7
+[l_release_group_series.column2, l_release_group_series.column3, l_release_group_series.column4] --> l_release_group_series.column1, l_release_group_series.column6, l_release_group_series.column7
+[l_release_group_series.column2, l_release_group_series.column4] --> l_release_group_series.column5
+[l_release_group_series.column2, l_release_group_series.column6] --> l_release_group_series.column5
+[l_release_group_series.column3, l_release_group_series.column4, l_release_group_series.column7] --> l_release_group_series.column1, l_release_group_series.column2, l_release_group_series.column6
+[l_release_group_series.column3] --> l_release_group_series.column5
+[l_release_group_series.column6, l_release_group_series.column7] --> l_release_group_series.column5
+[statistics.statistic.column1] --> statistics.statistic.column2, statistics.statistic.column3, statistics.statistic.column4
+[statistics.statistic.column2, statistics.statistic.column4] --> statistics.statistic.column1, statistics.statistic.column3
+[medium.column1] --> medium.column2, medium.column3, medium.column4, medium.column5, medium.column6, medium.column7, medium.column8
+[medium.column2, medium.column3] --> medium.column1, medium.column4, medium.column5, medium.column6, medium.column7, medium.column8
+[link_attribute_text_value.column1] --> link_attribute_text_value.column2, link_attribute_text_value.column3
+[link_attribute_text_value.column3] --> link_attribute_text_value.column2
+[release_group_gid_redirect.column1] --> release_group_gid_redirect.column2, release_group_gid_redirect.column3
+[] --> l_instrument_url.column5, l_instrument_url.column7, l_instrument_url.column8, l_instrument_url.column9
+[l_instrument_url.column1] --> l_instrument_url.column2, l_instrument_url.column3, l_instrument_url.column4, l_instrument_url.column6
+[l_instrument_url.column3, l_instrument_url.column4] --> l_instrument_url.column1, l_instrument_url.column6
+[l_instrument_url.column4, l_instrument_url.column6] --> l_instrument_url.column1
+[l_instrument_url.column4] --> l_instrument_url.column2
+[l_instrument_url.column6] --> l_instrument_url.column3
+[] --> l_release_series.column8, l_release_series.column9
+[l_release_series.column1] --> l_release_series.column2, l_release_series.column3, l_release_series.column4, l_release_series.column5, l_release_series.column6, l_release_series.column7
+[l_release_series.column2, l_release_series.column3, l_release_series.column7] --> l_release_series.column6
+[l_release_series.column2, l_release_series.column4, l_release_series.column7] --> l_release_series.column5
+[l_release_series.column3, l_release_series.column4, l_release_series.column7] --> l_release_series.column1, l_release_series.column6
+[l_release_series.column3, l_release_series.column4] --> l_release_series.column2
+[l_release_series.column3] --> l_release_series.column5
+[l_release_series.column6] --> l_release_series.column5
+[] --> documentation.l_artist_event_example.column1, documentation.l_artist_event_example.column2, documentation.l_artist_event_example.column3
+[release_annotation.column2] --> release_annotation.column1
+[] --> documentation.l_artist_work_example.column2, documentation.l_artist_work_example.column3
+[] --> l_place_url.column7, l_place_url.column8, l_place_url.column9
+[l_place_url.column1] --> l_place_url.column2, l_place_url.column3, l_place_url.column4, l_place_url.column5, l_place_url.column6
+[l_place_url.column2, l_place_url.column3, l_place_url.column4] --> l_place_url.column1, l_place_url.column6
+[l_place_url.column3, l_place_url.column4, l_place_url.column6] --> l_place_url.column1
+[l_place_url.column3, l_place_url.column4] --> l_place_url.column5
+[l_place_url.column4, l_place_url.column6] --> l_place_url.column2
+[l_place_url.column6] --> l_place_url.column5
+[] --> documentation.l_artist_place_example.column2, documentation.l_artist_place_example.column3
+[] --> area_type.column3
+[area_type.column1] --> area_type.column2, area_type.column4, area_type.column5
+[area_type.column2] --> area_type.column1, area_type.column4, area_type.column5
+[area_type.column4] --> area_type.column1, area_type.column2, area_type.column5
+[area_type.column5] --> area_type.column1, area_type.column2, area_type.column4
+[label_annotation.column2] --> label_annotation.column1
+[work.column1] --> work.column2, work.column3, work.column4, work.column5, work.column6, work.column7, work.column8
+[work.column2] --> work.column1, work.column3, work.column4, work.column5, work.column6, work.column7, work.column8
+[work.column7] --> work.column6
+[] --> l_area_release.column7, l_area_release.column8, l_area_release.column9
+[l_area_release.column1] --> l_area_release.column2, l_area_release.column3, l_area_release.column4, l_area_release.column5, l_area_release.column6
+[l_area_release.column2, l_area_release.column3, l_area_release.column4] --> l_area_release.column1, l_area_release.column6
+[l_area_release.column2, l_area_release.column3, l_area_release.column6] --> l_area_release.column1
+[l_area_release.column4] --> l_area_release.column5
+[l_area_release.column6] --> l_area_release.column4, l_area_release.column5

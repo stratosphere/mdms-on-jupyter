@@ -1,0 +1,6 @@
+{"# Columns":5,"# Tuples":10}
+{"column Name":"column1","Data Type":"SMALLINT","Min":1,"Avg.":5.5,"# Null":0,"Max":10,"% Null":0,"Standard Deviation":3.0276503540974917,"Top 10 frquent Items":{"1":"1","2":"1","3":"1","4":"1","5":"1","6":"1","7":"1","8":"1","10":"1"},"% Distinct":100,"# Distinct":10}
+{"column Name":"column2","Data Type":"VARCHAR[16]","Min String":"Audiobook","# Null":0,"Longest String":"Mixtape/Street","% Null":0,"Top 10 frquent Items":{"Mixtape/Street":"1","Compilation":"1","Demo":"1","Soundtrack":"1","DJ-mix":"1","Live":"1","Remix":"1","Audiobook":"1","Interview":"1"},"Symantic Data Type":"NA","Shortest String":"Demo","% Distinct":100,"# Distinct":10,"Max String":"Spokenword"}
+{"column Name":"column3","Data Type":"NA","# Null":10,"% Null":100,"% Distinct":0,"# Distinct":0}
+{"column Name":"column4","Data Type":"SMALLINT","Min":0,"Avg.":0,"# Null":0,"Max":0,"% Null":0,"Standard Deviation":0,"Top 10 frquent Items":{"0":"10"},"% Distinct":10,"# Distinct":1}
+{"column Name":"column5","Data Type":"NA","# Null":10,"% Null":100,"% Distinct":0,"# Distinct":0}

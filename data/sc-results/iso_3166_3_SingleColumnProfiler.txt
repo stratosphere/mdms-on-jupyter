@@ -1,0 +1,3 @@
+{"# Columns":2,"# Tuples":9}
+{"column Name":"column1","Data Type":"SMALLINT","Min":151,"Avg.":680.2222222222222,"# Null":0,"Max":1589,"% Null":0,"Standard Deviation":680.9704064380804,"Top 10 frquent Items":{"242":"1","243":"1","1589":"1","244":"1","245":"1","1587":"1","235":"1","1586":"1","151":"1"},"% Distinct":100,"# Distinct":9}
+{"column Name":"column2","Data Type":"VARCHAR[16]","Min String":"ANHH","# Null":0,"Longest String":"WKUM","% Null":0,"Top 10 frquent Items":{"JTUM":"1","MIUM":"1","ANHH":"1","WKUM":"1","SUHH":"1","YUCS":"1","DDDE":"1","CSHH":"1","CSXX":"1"},"Symantic Data Type":"NA","Shortest String":"WKUM","% Distinct":100,"# Distinct":9,"Max String":"YUCS"}

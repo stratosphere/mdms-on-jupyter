@@ -1,0 +1,15 @@
+1	Release	release	\N	1	\N
+2	Owned music	release	1	1	\N
+3	Wishlist	release	1	2	\N
+4	Event	event	\N	2	\N
+5	Attending	event	4	1	\N
+6	Maybe attending	event	4	2	\N
+7	Area	area	\N	2	\N
+8	Artist	artist	\N	2	\N
+9	Instrument	instrument	\N	2	\N
+10	Label	label	\N	2	\N
+11	Place	place	\N	2	\N
+12	Recording	recording	\N	2	\N
+13	Release group	release_group	\N	2	\N
+14	Series	series	\N	2	\N
+15	Work	work	\N	2	\N

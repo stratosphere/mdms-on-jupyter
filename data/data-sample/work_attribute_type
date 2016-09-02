@@ -1,0 +1,16 @@
+1	Key		f	\N	0	\N
+14	Identifiers		f	\N	1	\N
+3	JASRAC ID		t	14	0	\N
+6	ASCAP ID		t	14	0	\N
+7	BMI ID		t	14	0	\N
+8	SESAC ID		t	14	0	\N
+9	GEMA ID		t	14	0	\N
+10	SOCAN ID		t	14	0	\N
+11	KOMCA ID		t	14	0	\N
+12	MÜST ID		t	14	0	\N
+13	APRA ID		t	14	0	\N
+4	Rāga (Carnatic)		f	\N	2	\N
+5	Tāla (Carnatic)		f	\N	2	\N
+15	Makam (Ottoman, Turkish)		f	\N	3	\N
+16	Form (Ottoman, Turkish)		f	\N	3	\N
+17	Usul (Ottoman, Turkish)		f	\N	3	\N

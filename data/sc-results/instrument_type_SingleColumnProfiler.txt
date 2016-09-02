@@ -1,0 +1,6 @@
+{"# Columns":5,"# Tuples":5}
+{"column Name":"column1","Data Type":"SMALLINT","Min":1,"Avg.":3,"# Null":0,"Max":5,"% Null":0,"Standard Deviation":1.5811388300841898,"Top 10 frquent Items":{"1":"1","2":"1","3":"1","4":"1","5":"1"},"% Distinct":100,"# Distinct":5}
+{"column Name":"column2","Data Type":"VARCHAR[32]","Min String":"Electronic instrument","# Null":0,"Longest String":"Electronic instrument","% Null":0,"Top 10 frquent Items":{"Wind instrument":"1","Percussion instrument":"1","String instrument":"1","Other instrument":"1","Electronic instrument":"1"},"Symantic Data Type":"NA","Shortest String":"Wind instrument","% Distinct":100,"# Distinct":5,"Max String":"Wind instrument"}
+{"column Name":"column3","Data Type":"NA","# Null":5,"% Null":100,"% Distinct":0,"# Distinct":0}
+{"column Name":"column4","Data Type":"SMALLINT","Min":1,"Avg.":3,"# Null":0,"Max":5,"% Null":0,"Standard Deviation":1.5811388300841898,"Top 10 frquent Items":{"1":"1","2":"1","3":"1","4":"1","5":"1"},"% Distinct":100,"# Distinct":5}
+{"column Name":"column5","Data Type":"NA","# Null":5,"% Null":100,"% Distinct":0,"# Distinct":0}

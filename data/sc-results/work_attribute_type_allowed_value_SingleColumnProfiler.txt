@@ -1,0 +1,7 @@
+{"# Columns":6,"# Tuples":788}
+{"column Name":"column1","Data Type":"SMALLINT","Min":1,"Avg.":394.56218274111677,"# Null":0,"Max":795,"% Null":0,"Standard Deviation":227.72803602136253,"Top 10 frquent Items":{"1":"1","100":"1","101":"1","102":"1","103":"1","104":"1","105":"1","106":"1","10":"1"},"% Distinct":100,"# Distinct":788}
+{"column Name":"column2","Data Type":"SMALLINT","Min":1,"Avg.":10.980964467005077,"# Null":0,"Max":17,"% Null":0,"Standard Deviation":5.880503663632782,"Top 10 frquent Items":{"1":"41","15":"304","4":"244","16":"79","5":"19","17":"101"},"% Distinct":0,"# Distinct":6}
+{"column Name":"column3","Data Type":"VARCHAR[32]","Min String":"A Dorian","# Null":0,"Longest String":"Gamakakriya/P?rv?ka?y??i","% Null":0,"Top 10 frquent Items":{"A Dorian":"1","A-flat major":"1","Acem":"1","A major":"1","A minor":"1","A-sharp minor":"1","A-flat minor":"1","ambiguous":"3","Yürüksemai":"2"},"Symantic Data Type":"NA","Shortest String":"Kar","% Distinct":99,"# Distinct":785,"Max String":"?anmukhapriya"}
+{"column Name":"column4","Data Type":"NA","# Null":788,"% Null":100,"% Distinct":0,"# Distinct":0}
+{"column Name":"column5","Data Type":"SMALLINT","Min":0,"Avg.":1.7030456852791878,"# Null":0,"Max":41,"% Null":0,"Standard Deviation":5.289162361695817,"Top 10 frquent Items":{"0":"266","11":"1","1":"482","12":"1","13":"1","14":"1","15":"1","16":"1","10":"1"},"% Distinct":5,"# Distinct":42}
+{"column Name":"column6","Data Type":"NA","# Null":788,"% Null":100,"% Distinct":0,"# Distinct":0}

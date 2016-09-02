@@ -1,0 +1,3 @@
+{"# Columns":2,"# Tuples":4}
+{"column Name":"column1","Data Type":"VARCHAR[16]","Min String":"application/pdf","# Null":0,"Longest String":"application/pdf","% Null":0,"Top 10 frquent Items":{"image/png":"1","application/pdf":"1","image/jpeg":"1","image/gif":"1"},"Symantic Data Type":"NA","Shortest String":"image/gif","% Distinct":100,"# Distinct":4,"Max String":"image/png"}
+{"column Name":"column2","Data Type":"VARCHAR[16]","Min String":"gif","# Null":0,"Longest String":"pdf","% Null":0,"Top 10 frquent Items":{"jpg":"1","pdf":"1","gif":"1","png":"1"},"Symantic Data Type":"NA","Shortest String":"pdf","% Distinct":100,"# Distinct":4,"Max String":"png"}

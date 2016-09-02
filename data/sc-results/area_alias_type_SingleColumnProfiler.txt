@@ -1,0 +1,6 @@
+{"# Columns":5,"# Tuples":3}
+{"column Name":"column1","Data Type":"SMALLINT","Min":1,"Avg.":2,"# Null":0,"Max":3,"% Null":0,"Standard Deviation":1,"Top 10 frquent Items":{"1":"1","2":"1","3":"1"},"% Distinct":100,"# Distinct":3}
+{"column Name":"column2","Data Type":"VARCHAR[16]","Min String":"Area name","# Null":0,"Longest String":"Search hint","% Null":0,"Top 10 frquent Items":{"Formal name":"1","Area name":"1","Search hint":"1"},"Symantic Data Type":"NA","Shortest String":"Area name","% Distinct":100,"# Distinct":3,"Max String":"Search hint"}
+{"column Name":"column3","Data Type":"NA","# Null":3,"% Null":100,"% Distinct":0,"# Distinct":0}
+{"column Name":"column4","Data Type":"SMALLINT","Min":0,"Avg.":0,"# Null":0,"Max":0,"% Null":0,"Standard Deviation":0,"Top 10 frquent Items":{"0":"3"},"% Distinct":33,"# Distinct":1}
+{"column Name":"column5","Data Type":"NA","# Null":3,"% Null":100,"% Distinct":0,"# Distinct":0}
